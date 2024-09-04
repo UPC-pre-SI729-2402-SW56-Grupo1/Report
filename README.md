@@ -27,9 +27,9 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|--------------|--------------|--------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX    | Implementación del capítulo 1 al 5      |
+| Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
