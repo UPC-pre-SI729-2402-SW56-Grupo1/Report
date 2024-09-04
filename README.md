@@ -17,7 +17,7 @@
 
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Rioja Nuñez, Franco Diego (u202221597)</li>
   <li>XXXXXXX (XXXXXXX)</li>
   <li>XXXXXXX (XXXXXXX)</li>
   <li>XXXXXXX (XXXXXXX)</li>
