@@ -126,9 +126,15 @@
 - [Anexos](#anexos)
 
 # Student Outcome
+| Criterio Específico | Acciones realizadas | Conclusiones |
+|---------|---------|---------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
 ### 1.1.2. Perfiles de integrantes del equipo
 <TABLE BORDER>
 	<TR>
@@ -162,6 +168,7 @@
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
 </TABLE>
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
