@@ -148,7 +148,7 @@
 		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
+		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
@@ -200,6 +200,15 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+Para esta sección se seleccionarán los colores y fuentes que se usaremos para elaborar la aplicación web. Elegimos una paleta de colores atractiva, funcional y agradable de leer:
+
+* Colores primarios: Beige, marfil y blanco roto
+* Color del texto: Gris oscuro 
+* Decoración y botones: Cobre
+
+
+  ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
