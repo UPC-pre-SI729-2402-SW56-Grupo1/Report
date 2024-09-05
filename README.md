@@ -17,9 +17,9 @@
 
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
+  <li>Rioja Nuñez, Franco Diego (u202221597)</li>
   <li>XXXXXXX (XXXXXXX)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Burga Loarte, Anaely (u202118264)</li>
   <li>XXXXXXX (XXXXXXX)</li>
 </ul>
 
@@ -27,9 +27,9 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|--------------|--------------|--------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX    | Implementación del capítulo 1 al 5      |
+| Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
@@ -126,10 +126,49 @@
 - [Anexos](#anexos)
 
 # Student Outcome
+| Criterio Específico | Acciones realizadas | Conclusiones |
+|---------|---------|---------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
 ### 1.1.2. Perfiles de integrantes del equipo
+<TABLE BORDER>
+	<TR>
+		<TH><h2>Intregantes</h2></TH> 
+		<TH><h2>Descripción</h2></TH>
+		<TH><h2>Conocimientos</h2></TH>
+	</TR>
+  <TR>
+		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto.</td>
+		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
+		<td style="text-align: center" align="center">XXXXXXX</td>
+		<td style="text-align: center" align="center">XXXXXXX</td>
+	</TR>
+  	<TR>
+		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">XXXXXXX</td>
+		<td style="text-align: center" align="center">XXXXXXX</td>
+	</TR>
+    <TR>
+		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">XXXXXXX</td>
+		<td style="text-align: center" align="center">XXXXXXX</td>
+	</TR>
+    <TR>
+		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">XXXXXXX</td>
+		<td style="text-align: center" align="center">XXXXXXX</td>
+	</TR>
+</TABLE>
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
@@ -161,7 +200,18 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+Para esta sección se seleccionarán los colores y fuentes que se usaremos para elaborar la aplicación web. Elegimos una paleta de colores atractiva, funcional y agradable de leer:
+
+* Colores primarios: Beige, marfil y blanco roto
+* Color del texto: Gris oscuro 
+* Decoración y botones: Cobre
+
+
+  ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
+
 ### 4.1.2. Web Style Guidelines
+Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
