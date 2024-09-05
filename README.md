@@ -19,7 +19,7 @@
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
   <li>Rioja Nuñez, Franco Diego (u202221597)</li>
   <li>XXXXXXX (XXXXXXX)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Burga Loarte, Anaely (u202118264)</li>
   <li>XXXXXXX (XXXXXXX)</li>
 </ul>
 
