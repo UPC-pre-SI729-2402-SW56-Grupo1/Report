@@ -210,6 +210,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
   ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
 
 ### 4.1.2. Web Style Guidelines
+Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
