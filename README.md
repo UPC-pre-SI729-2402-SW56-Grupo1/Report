@@ -210,6 +210,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
   ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
 
 ### 4.1.2. Web Style Guidelines
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
