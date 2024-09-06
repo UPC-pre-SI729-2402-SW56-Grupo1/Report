@@ -268,6 +268,10 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
       <td colspan="2" style="text-align:center;">Preventa exclusiva y acceso anticipado a los nuevos títulos de libros</td>
       <td style="text-align:center;">Cronológico (para organizar por fechas de lanzamiento).</td>
     </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Biblioteca de libros leídos</td>
+      <td style="text-align:center;">Jerárquico (para organizar los libros por categorías como género y autor) y Cronológico (para ordenar los libros por la fecha en que fueron leídos).</td>
+    </tr>
   </tbody>
 </table>
 
