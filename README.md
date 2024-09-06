@@ -177,6 +177,25 @@ Algunos de los competidores a los que Feather Book podría enfrentarse son:
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+<div align="justify">
+  
+**Estrategia de distinción:**
+
+Para diferenciarnos, hemos creado un club de lectura virtual en el que los usuarios podrán debatir libros seleccionados directamente con los autores. Estos eventos incluirán sesiones de preguntas y respuestas en vivo, paneles de discusión y oportunidades para interactuar de manera cercana con los escritores. También ofreceremos talleres en línea impartidos por autores y profesionales de la industria editorial. Además, implementaremos una inteligencia artificial que proporcionará recomendaciones de lectura altamente personalizadas, basadas en las preferencias, historial de lectura y actividades de cada usuario dentro de la plataforma, asegurando una experiencia única y adaptada a sus intereses.
+
+**Estrategia de liderazgo en costos:**
+
+Nos centraremos en minimizar los costos operativos y ofrecer precios competitivos para nuestras suscripciones premium y productos en la tienda integrada. Para lograrlo, optimizaremos procesos internos, negociaremos acuerdos favorables con proveedores y aprovecharemos tecnologías eficientes que reduzcan los gastos. Al mantener bajos los costos, Feather Book podrá ofrecer tarifas más atractivas para sus usuarios, aumentando su competitividad en el mercado y capturando una mayor cuota de clientes, todo mientras mantenemos la calidad del servicio.
+
+**Estrategia de mercadotecnia:**
+
+Implementamos diversas estrategias de mercadotecnia, como campañas publicitarias en línea dirigidas a audiencias específicas interesadas en la lectura y los libros electrónicos. Utilizamos redes sociales como Instagram, Twitter, Facebook y LinkedIn para promover contenido, interactuar con la comunidad lectora, responder preguntas y compartir novedades de la plataforma. Además, colaboramos con influencers del ámbito literario para promocionar Feather Book. Para atraer a nuevos usuarios, también lanzamos ofertas promocionales, como períodos de prueba gratuitos para la suscripción premium y descuentos en la tienda integrada, incentivando a más personas a probar la plataforma.
+
+**Tácticas:**
+
+Nuestras tácticas incluyen llevar a cabo investigaciones exhaustivas del mercado digital para comprender mejor las necesidades insatisfechas de los usuarios en el ámbito de la lectura. Esta información nos permite adaptar nuestro sistema de manera precisa para satisfacer esas demandas específicas, asegurando que nuestras soluciones estén alineadas con las expectativas del mercado. Con este enfoque, logramos ofrecer una experiencia de lectura más satisfactoria y relevante para nuestros usuarios, diferenciándonos al responder de manera efectiva a sus necesidades.
+</div>
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
