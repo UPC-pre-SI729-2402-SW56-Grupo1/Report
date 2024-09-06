@@ -237,6 +237,46 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 </div>
 
 #### 1.2.2.2. Lean UX Assumptions
+<b>Business Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como Feather Book.
+        </li>
+        <li>
+            Los autores y lectores están dispuestos y son capaces de participar activamente en la plataforma, contribuyendo con contenido, colaboración y retroalimentación para enriquecer la experiencia de lectura.
+        </li>
+        <li>
+            Nuestros usuarios estarán dispuestos a pagar por una suscripción premium que les brinde acceso a contenido exclusivo y funciones avanzadas, lo que generará ingresos recurrentes y fomentará la lealtad de los usuarios.
+        </li>
+        <li>
+            La plataforma será capaz de operar con éxito a través de una combinación de recursos humanos y tecnológicos.
+        </li>
+        <li>
+            Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de Feather Book, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
+        </li>
+        <li>
+            Los usuarios valoran altamente la seguridad y privacidad de sus datos personales, es por lo que la implementación de medidas robustas de seguridad en la aplicación garantizará la confianza y satisfacción de los usuarios.
+        </li>
+        <li>
+            Feather Book respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
+        </li>
+        <li>
+            El modelo de negocio incluye ingresos provenientes de suscripciones premium y ventas en la tienda integrada, es viable y sostenible a largo plazo, a su vez permitirá el crecimiento y mantenimiento de la plataforma.
+        </li>
+        <li>
+            Nuestra competencia principal en el mercado son otras plataformas y aplicativos existentes que brindan servicios similares al nuestro como “Goodreads”, “Scribd” y “Audible”.
+        </li>
+        <li>
+            Nuestro mayor riesgo es el control de la calidad del contenido y la falta de apoyo continuo por parte de autores y lectores.
+        </li>
+        <li>
+            Resolveremos esto estableciendo verificaciones adecuadas de calidad de contenido. Además, se realizarán campañas de marketing, se promoverán algún tipo de reconocimientos y se obtendrán alianzas estratégicas con la industria editorial.
+        </li>
+    </ul>
+</div>
+<br>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
