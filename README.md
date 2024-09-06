@@ -222,8 +222,59 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
   ![Footer_imagen](images/Footer_imagen.PNG)
 
 ## 4.2. Information Architecture
+En esta sección definiremos cómo se organizará y presentará el contenido de nuestra aplicación web, con el objetivo de facilitar la navegación y la búsqueda de información. Nos enfocaremos en asegurar que los usuarios puedan interactuar con los productos de manera intuitiva y eficiente, a través de decisiones estratégicas en la estructura de la información y los sistemas de navegación y búsqueda.
 ### 4.2.1. Organization Systems
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>FeatherBook</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;"><strong>Funcionalidad</strong></td>
+      <td style="text-align:center;"><strong>Tipo de esquema de categorización</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Acceso a una sección básica de libros, artículos y otros contenidos</td>
+      <td style="text-align:center;">Jerárquico (para organizar los contenidos por tipo como libros y artículos) y por Tópicos (para categorizar por géneros o temas).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Ver los comentarios más destacados y calificación dejados por cada libro</td>
+      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Acceso a foros de un libro en específico </td>
+      <td style="text-align:center;">Jerárquico (para organizar foros dentro de libros específicos). </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;"> Recomendaciones de libros o artículos según géneros leídos</td>
+      <td style="text-align:center;">Por Tópicos (para categorizar por géneros literarios). </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Comentar y calificar libros </td>
+      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Poder hablar con el autor del libro, solo aquellos autores que deseen </td>
+      <td style="text-align:center;">Por Audiencia (organizar los autores disponibles y su disponibilidad).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Descuentos exclusivos en libros solo para miembros</td>
+      <td style="text-align:center;">Jerárquico (organizar por categorías de membresía).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Preventa exclusiva y acceso anticipado a los nuevos títulos de libros</td>
+      <td style="text-align:center;">Cronológico (para organizar por fechas de lanzamiento).</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 4.2.2. Labeling Systems
+
+
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
