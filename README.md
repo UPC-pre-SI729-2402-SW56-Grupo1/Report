@@ -248,6 +248,14 @@ Google Meet (https://meet.google.com/): Google Meet es una plataforma de videoco
 
 Trello (https://trello.com/): Es un software diseñado para la gestión de proyectos que facilita el poder asignar y organizar las tareas que se tienen que realizar. Fue utilizado para poder desarrollar el Product Backlog.
 
+**Product UX/UI Design**
+
+UXPressia (https://uxpressia.com/): Es una herramienta en línea que permite a los equipos de trabajo el poder identificar y comprender los problemas, necesidades y comportamientos de los usuarios en relación a la solución de software que se está desarrollando mediante el uso de plantillas. Se utilizó esta herramienta para la elaboración de las User Persons, Empathy Maps, Journey Maps e Impact Maps.
+
+Figma (https://www.figma.com/): Figma es una herramienta de edición en línea donde se pueden diseñar y hacer prototipos de páginas web en tiempo real. En nuestro proyecto se utilizó para la realización de los wireframes, mock-ups y los desktop and mobile application prototype del proyecto.
+
+Miro (https://miro.com/): Miro es una plataforma colaborativa online en el cual permite poder crear y usar pizarras digitales personalizadas en tiempo real con los miembros de nuestro equipo de trabajo. Miro cuenta con diferentes herramientas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. Se utilizó para la realización de los As-Is y Tob-Be Scenario Maps.
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
