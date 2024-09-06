@@ -18,7 +18,7 @@
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
   <li>Rioja Nuñez, Franco Diego (u202221597)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Fernández Remón Roy (u20221b778)</li>
   <li>Burga Loarte, Anaely (u202118264)</li>
   <li>XXXXXXX (XXXXXXX)</li>
 </ul>
@@ -29,7 +29,7 @@
 
 | Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
 |--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- Fenández Remón Roy<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
