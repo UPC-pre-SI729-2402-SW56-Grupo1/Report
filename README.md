@@ -299,6 +299,12 @@ Resumen:
 <img src="images/UserPersonaAutor.png">
 
 ### 2.3.2. User Task Matrix
+### Lectores:
+<img src="images/TaskMatrixLector.png">
+
+### Autores:
+<img src="images/TaskMatrixAutor.png">
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
