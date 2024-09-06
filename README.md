@@ -320,6 +320,12 @@ Resumen:
 <img src="images/EmpathyMapAutor.png">
 
 ### 2.3.5. As-is Scenario Mapping
+### Lectores:
+<img src="images/As-IsLector.png">
+
+### Autores:
+<img src="images/As-IsAutor.png">
+
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
