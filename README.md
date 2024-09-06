@@ -140,7 +140,7 @@
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-Algunos de los competidores a los que Feather Book podría enfrentarse son:
+Algunos de los competidores a los que FeatherBook podría enfrentarse son:
 <ul>
     <li>
         <b>Goodreads: </b>Plataforma líder en la recomendación de libros, donde los usuarios pueden descubrir nuevos títulos, llevar un registro de los libros que han leído y conectarse con otros lectores. Ofrece funciones como 
@@ -159,7 +159,7 @@ Algunos de los competidores a los que Feather Book podría enfrentarse son:
 ### 2.1.1. Análisis competitivo
 <table><tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?  </td><td colspan="7" valign="top">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.</td></tr>
-<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>Feather Book</b></td><td colspan="3" valign="top"><b>Goodreads</b></td><td colspan="3" valign="top"><b>Scribd</b></td><td valign="top"><b>Audible</b></td></tr>
+<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>FeatherBook</b></td><td colspan="3" valign="top"><b>Goodreads</b></td><td colspan="3" valign="top"><b>Scribd</b></td><td valign="top"><b>Audible</b></td></tr>
 <tr><td colspan="6" valign="top"><b>Logo</b> </td><td colspan="3" valign="top"><img src="./images/Logo.jpeg"></td><td colspan="3" valign="top"><img src="./images/Goodreads.jpg"></td><td colspan="3" valign="top"><img src="./images/Scribd.png"><td valign="top"><img src="./images/Audible.png"></tr>
 <tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para</b> promover hábitos de lectura mediante tecnologías innovadoras que facilitan el acceso, distribución y creación de contenido. Su objetivo principal es fomentar la sostenibilidad a largo plazo. Además, cuenta con una tienda integrada donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura. </td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para ayudar a los lectores a descubrir, seguir y compartir sus libros favoritos. Su objetivo principal es conectar a los lectores, permitiéndoles descubrir nuevos títulos, llevar un registro de lo que han leído y lo que desean leer, además de proporcionarles reseñas y recomendaciones de otros usuarios.</td><td colspan="3" rowspan="2" valign="top">Plataforma de suscripción que ofrece acceso ilimitado a una amplia variedad de libros electrónicos, audiolibros, revistas y documentos. Su objetivo principal es proporcionar a los usuarios una experiencia de lectura completa y personalizada, permitiéndoles explorar y disfrutar de una amplia gama de contenido bajo un modelo de suscripción mensual.</td><td rowspan="2" valign="top">Plataforma líder en audiolibros que ofrece a los usuarios acceso a una extensa biblioteca de títulos narrados por profesionales. Su objetivo principal es brindar una experiencia de lectura inmersiva y conveniente, permitiendo a los usuarios disfrutar de libros mientras realizan otras actividades, como conducir, hacer ejercicio o relajarse. </td></tr>
 <tr></tr>
@@ -185,11 +185,11 @@ Para diferenciarnos, hemos creado un club de lectura virtual en el que los usuar
 
 **Estrategia de liderazgo en costos:**
 
-Nos centraremos en minimizar los costos operativos y ofrecer precios competitivos para nuestras suscripciones premium y productos en la tienda integrada. Para lograrlo, optimizaremos procesos internos, negociaremos acuerdos favorables con proveedores y aprovecharemos tecnologías eficientes que reduzcan los gastos. Al mantener bajos los costos, Feather Book podrá ofrecer tarifas más atractivas para sus usuarios, aumentando su competitividad en el mercado y capturando una mayor cuota de clientes, todo mientras mantenemos la calidad del servicio.
+Nos centraremos en minimizar los costos operativos y ofrecer precios competitivos para nuestras suscripciones premium y productos en la tienda integrada. Para lograrlo, optimizaremos procesos internos, negociaremos acuerdos favorables con proveedores y aprovecharemos tecnologías eficientes que reduzcan los gastos. Al mantener bajos los costos, FeatherBook podrá ofrecer tarifas más atractivas para sus usuarios, aumentando su competitividad en el mercado y capturando una mayor cuota de clientes, todo mientras mantenemos la calidad del servicio.
 
 **Estrategia de mercadotecnia:**
 
-Implementamos diversas estrategias de mercadotecnia, como campañas publicitarias en línea dirigidas a audiencias específicas interesadas en la lectura y los libros electrónicos. Utilizamos redes sociales como Instagram, Twitter, Facebook y LinkedIn para promover contenido, interactuar con la comunidad lectora, responder preguntas y compartir novedades de la plataforma. Además, colaboramos con influencers del ámbito literario para promocionar Feather Book. Para atraer a nuevos usuarios, también lanzamos ofertas promocionales, como períodos de prueba gratuitos para la suscripción premium y descuentos en la tienda integrada, incentivando a más personas a probar la plataforma.
+Implementamos diversas estrategias de mercadotecnia, como campañas publicitarias en línea dirigidas a audiencias específicas interesadas en la lectura y los libros electrónicos. Utilizamos redes sociales como Instagram, Twitter, Facebook y LinkedIn para promover contenido, interactuar con la comunidad lectora, responder preguntas y compartir novedades de la plataforma. Además, colaboramos con influencers del ámbito literario para promocionar FeatherBook. Para atraer a nuevos usuarios, también lanzamos ofertas promocionales, como períodos de prueba gratuitos para la suscripción premium y descuentos en la tienda integrada, incentivando a más personas a probar la plataforma.
 
 **Tácticas:**
 
