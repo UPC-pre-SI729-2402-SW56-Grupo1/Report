@@ -364,6 +364,7 @@ A continuación mostraremos la elaboración del diseño el cual fue elaborado co
   ![Chat_autor](images/Chat_autor.PNG)
 
 ### 4.4.3. Web Applications User Flow Diagrams
+Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
