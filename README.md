@@ -321,6 +321,20 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 #### 5.2.X.1. Sprint Planning n
 #### 5.2.X.2. Sprint Backlog n
 #### 5.2.X.3. Development Evidence for Sprint Review
+# Commit History (Fecha: 06/09/2024)
+
+| Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
+|-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer.jsx                                                | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact.jsx                                               | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices.jsx                                              | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About.jsx                                                 | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero.jsx                                                  | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 12/04/2024         |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
