@@ -29,7 +29,7 @@
 
 | Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
 |--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- Fenández Remón Roy<br>- XXXXXXX<br>- La Torre Valle, Franz Jair | Implementación del capítulo 1 al 5      |
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- Fenández Remón Roy<br>- Anaely Burga Loarte<br>- La Torre Valle, Franz Jair | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
