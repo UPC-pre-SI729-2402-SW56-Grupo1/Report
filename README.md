@@ -341,9 +341,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 <div align="justify">
-	A continuación, se presentarán las hipótesis destinadas a ofrecer soluciones innovadoras con el propósito de abordar los desafíos dentro de las funcionalidades de la aplicación web, ofreciendo soluciones específicas y medibles. Esta metodología nos permite evaluar de manera objetiva el éxito de nuestras estrategias.
-<br>
-
+	
 **Hipótesis 1:**
 
 Creemos que los lectores necesitan una forma conveniente y atractiva de acceder a una amplia variedad de libros. Sabremos que hemos tenido éxito cuando nuestra aplicación se convierta en parte de su rutina diaria para descubrir y leer libros.
@@ -366,6 +364,55 @@ Creemos que la suscripción premium será atractiva para los usuarios que buscan
 </div>
 
 #### 1.2.2.4. Lean UX Canvas
+<table>
+  <tr>
+    <th>Lean UX Canvas</th>
+    <th >Feather Book</th>
+    <th>Fecha: 30/03/2004</th>
+  </tr>
+  <tr>
+    <td>1. Problema de Negocio:
+La comprensión lectora en el país ha ido en decadencia en los últimos años, afectando a chicos y grandes por igual, ya que los más chicos ven la lectura más como una obligación que una afición. Según el Banco Mundial (2021), en América Latina y el Caribe más del 60% de “niños de 10 años son incapaces de leer y comprender un relato simple”.
+</td>
+    <td rowspan=2>5. Ideas de Soluciones:
+Implementación de un algoritmo que ayude a los usuarios a encontrar lecturas de su interés.
+·         Añadir una opción de crear clubes de lectura virtuales para que nuestros usuarios puedan compartir sus gustos con los demás.
+·         Diseñar una interfaz de usuario intuitiva y fácil de usar para la aplicación.
+·         Establecer un modelo de negocio que incluya asociaciones con bibliotecas y escuelas.</td>
+    <td>2. Resultados Comerciales:
+Generar ingresos a través de asociaciones con bibliotecas, escuelas, editoriales y autores.
+Gracias a las suscripciones se generarán recursos recurrentes, así como la implementación de una tienda virtual donde se podrán comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
+
+ </td>
+  </tr>
+  <tr>
+    <td>3. Usuarios y Clientes:
+Usuarios: Personas con ganas de fomentar un hábito de lectura o mejorar esos hábitos de lectura. Así como, estudiantes que necesitan lecturas para sus estudios.
+Autores que quieran dar una visualización de sus trabajos o quieran llegar a una audiencia más amplia.
+Clientes:
+Instituciones que desean fomentar hábitos de lectura en sus estudiantes.
+</td>
+    <td>4. Beneficios del usuario:
+·         Recomendación eficaz de lecturas ayudadas por los algoritmos.
+·         Confianza en las recomendaciones de lecturas respaldadas por la aplicación.
+·         Comodidad y flexibilidad.
+·         Descubrimientos de nuevas lecturas y autores desconocidos.
+·         Acceso a una amplia variedad de lecturas expandiendo su vocabulario.</td>
+  </tr>
+  <tr>
+    <td>6. Hipótesis:
+Creemos que, si nuestro aplicativo establece conexiones con bibliotecas importantes, proporcionaremos libros suficientes para empezar y así atraer a nuestros posibles usuarios de una gran variedad de edades.
+</td>
+    <td>7. ¿Qué es lo más importante que necesitamos aprender primero?
+Lo más importante es establecer asociaciones con bibliotecas y escuelas para tener una cantidad decente de libros reconocidos y entretenidos de leer para todas las edades y así no infringir alguna ley de copyright.
+
+</td>
+    <td>8. ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?
+La menor cantidad de trabajo necesaria es definir nuestro problema principal y a qué apuntamos resolver y evaluar si es rentable nuestro modelo de negocio.
+</td>
+  </tr>
+</table>
+
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
