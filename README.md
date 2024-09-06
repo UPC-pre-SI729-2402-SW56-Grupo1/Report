@@ -285,6 +285,18 @@ GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que n
 Markdown: Es un lenguaje de marcado ligero el cual nos permite documentar diversos proyectos. En cuanto a nuestro equipo, utilizamos este lenguaje para poder redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
 
 ### 5.1.2. Source Code Management
+En este apartado se detallará los medios que se usaron para hacer el seguimiento de las modificaciones, así como la semántica y la nomenclatura que se utilizará para la realización de los commits. Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
+- Url de la organizacion: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report
+
+**Semantic Versioning**
+
+La Semantic Versioning es un conjunto de reglas que nos permitirá poder gestionar correctamente la numeración de versiones en nuestro proyecto. La versión principal se incrementará cuando los cambios agregados no sean compatibles con las versiones anteriores.
+
+|release-1.0.5|
+|---|
+|release-2.1.3|
+|release-2.2.1|
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
