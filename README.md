@@ -135,13 +135,13 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 <div align="justify">
-Feather Book es una startup innovadora que busca transformar la forma en que las personas disfrutan la lectura mediante el uso de tecnología avanzada. Nos especializamos en crear un entorno dinámico que 	conecta a autores y lectores, ofreciendo una experiencia de lectura más inmersiva y accesible. A través de herramientas como recomendaciones personalizadas, foros de libros y eventos exclusivos con 		autores. Nuestra plataforma ofrece una extensa variedad de libros electrónicos, audiolibros y contenido exclusivo disponible tanto en nuestra tienda como a través de nuestra suscripción premium. Con el lanzamiento de Feather Book, nuestra propuesta estrella, prometemos llevar la lectura digital a otro nivel, todo mientras garantizamos la máxima seguridad y privacidad para nuestros usuarios. Con Feather 	Book, leer nunca ha sido tan atractivo ni tan interactivo.<br>
+FeatherBook es una startup innovadora que busca transformar la forma en que las personas disfrutan la lectura mediante el uso de tecnología avanzada. Nos especializamos en crear un entorno dinámico que 	conecta a autores y lectores, ofreciendo una experiencia de lectura más inmersiva y accesible. A través de herramientas como recomendaciones personalizadas, foros de libros y eventos exclusivos con 		autores. Nuestra plataforma ofrece una extensa variedad de libros electrónicos, audiolibros y contenido exclusivo disponible tanto en nuestra tienda como a través de nuestra suscripción premium. Con el lanzamiento de FeatherBook, nuestra propuesta estrella, prometemos llevar la lectura digital a otro nivel, todo mientras garantizamos la máxima seguridad y privacidad para nuestros usuarios. Con FeatherBook, leer nunca ha sido tan atractivo ni tan interactivo.<br>
 
 <ul>
         <li>
             <b>Misión:</b>
         </li>
-        En Feather Book, nuestra misión es inspirar y enriquecer la vida de las personas mediante la lectura. Nos esforzamos por ofrecer un acceso fácil y conveniente a una extensa variedad de contenidos 		literarios, al tiempo que apoyamos a autores emergentes y fomentamos su visibilidad. Nuestro objetivo es conectar a los lectores con experiencias significativas que fortalezcan y profundicen su amor por 	los libros, creando un espacio donde la pasión por la lectura pueda florecer y expandirse.
+        En FeatherBook, nuestra misión es inspirar y enriquecer la vida de las personas mediante la lectura. Nos esforzamos por ofrecer un acceso fácil y conveniente a una extensa variedad de contenidos 		literarios, al tiempo que apoyamos a autores emergentes y fomentamos su visibilidad. Nuestro objetivo es conectar a los lectores con experiencias significativas que fortalezcan y profundicen su amor por 	los libros, creando un espacio donde la pasión por la lectura pueda florecer y expandirse.
         <li>
             <b>Visión:</b>
         </li>
@@ -241,7 +241,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 <div align="justify">
     <ul>
         <li>
-            Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como Feather Book.
+            Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como FeatherBook.
         </li>
         <li>
             Los autores y lectores están dispuestos y son capaces de participar activamente en la plataforma, contribuyendo con contenido, colaboración y retroalimentación para enriquecer la experiencia de lectura.
@@ -253,13 +253,13 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
             La plataforma será capaz de operar con éxito a través de una combinación de recursos humanos y tecnológicos.
         </li>
         <li>
-            Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de Feather Book, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
+            Los usuarios estarán dispuestos a comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura a través de la tienda integrada de FeatherBook, lo que contribuirá significativamente a la sostenibilidad financiera de la aplicación.
         </li>
         <li>
             Los usuarios valoran altamente la seguridad y privacidad de sus datos personales, es por lo que la implementación de medidas robustas de seguridad en la aplicación garantizará la confianza y satisfacción de los usuarios.
         </li>
         <li>
-            Feather Book respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
+            FeatherBook respetará la originalidad y legalidad de los trabajos ofrecidos. Esto implica garantizar que todos los contenidos sean legales y no infrinjan derechos de autor, así como también fomentar la creación de contenido original y respetar los derechos de propiedad intelectual de autores y editores.
         </li>
         <li>
             El modelo de negocio incluye ingresos provenientes de suscripciones premium y ventas en la tienda integrada, es viable y sostenible a largo plazo, a su vez permitirá el crecimiento y mantenimiento de la plataforma.
@@ -282,7 +282,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
         <li><b>¿Quién es nuestro usuario?</b></li>
         Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.
         <li><b>¿Dónde encaja mi producto en su trabajo o vida?</b></li>
-        Feather Book encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.
+        FeatherBook encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.
         <li><b>¿Qué problemas tiene nuestro cliente y cómo se puede resolver?</b></li>
         Algunos usuarios pueden experimentar interrupciones en su experiencia de lectura debido a problemas como la falta de sincronización entre dispositivos o la dificultad para encontrar nuevos libros que les interesen. Esto se puede solucionar con la sincronización del progreso de lectura entre dispositivos, recomendaciones personalizadas basadas en intereses de lectura y la capacidad de interactuar con autores y otros lectores, lo que mejora la experiencia de lectura y ayuda a mantener a los usuarios comprometidos y satisfechos.
         <li><b>¿Cuándo y cómo es nuestro producto usado?</b></li>
@@ -356,7 +356,7 @@ Creemos que los lectores necesitan una forma conveniente de comprar libros elect
 
 **Hipótesis 4:**
 
-Creemos que la privacidad y seguridad de los datos son fundamentales para los usuarios de Feather Book. Sabremos que hemos tenido éxito cuando implementamos medidas robustas de protección de datos y recibimos comentarios positivos sobre la seguridad de la plataforma.
+Creemos que la privacidad y seguridad de los datos son fundamentales para los usuarios de FeatherBook. Sabremos que hemos tenido éxito cuando implementamos medidas robustas de protección de datos y recibimos comentarios positivos sobre la seguridad de la plataforma.
 
 **Hipótesis 5:**
 
@@ -367,7 +367,7 @@ Creemos que la suscripción premium será atractiva para los usuarios que buscan
 <table>
   <tr>
     <th>Lean UX Canvas</th>
-    <th >Feather Book</th>
+    <th >FeatherBook</th>
     <th>Fecha: 30/03/2004</th>
   </tr>
   <tr>
