@@ -333,7 +333,17 @@ Para la navegación, hemos optado por una Barra de Navegación Superior (Top Nav
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![Landing Page Wireframe](images/Landing Page Wireframe.PNG)
+
+Link: https://www.figma.com/design/ZMtzm1Lg2yHIZmUBrWzUFm/Wireframe-FeatherBook?node-id=0-1&t=2aAIRpBSB2z1OD5v-1
+
 ### 4.3.2. Landing Page Mock-up
+
+![Landing Page Mock-up](images/Landing Page Mock-up.PNG)
+
+Link: https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&t=O7fEH1EEkONzbaUX-1
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
