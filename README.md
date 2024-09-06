@@ -256,6 +256,20 @@ Figma (https://www.figma.com/): Figma es una herramienta de edición en línea d
 
 Miro (https://miro.com/): Miro es una plataforma colaborativa online en el cual permite poder crear y usar pizarras digitales personalizadas en tiempo real con los miembros de nuestro equipo de trabajo. Miro cuenta con diferentes herramientas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. Se utilizó para la realización de los As-Is y Tob-Be Scenario Maps.
 
+**Software Development**
+
+Landing Page: Para la creación de nuestra landing page se utilizaron las tecnologías base para el desarrollo web las cuales son: HTML5, CSS3 y JavaScript.
+
+GitHub (https://github.com/): Es una plataforma en línea donde se pueden alojar múltiples proyectos mediante repositorios. Estos utilizan un sistema de control de versiones llamado Git. GitHub nos permite trabajar de manera colaborativa teniendo un seguimiento detallado de los avances en el proyecto.
+
+Git (https://git-scm.com/): Se trata de un softwarepara el control de versiones el cual se instala de manera local y nos permite tener un historial de cambios que realiza cada integrante del grupo en el proyecto, esto lo hace mediante commits. También es utilizado para poder trabajar de manera colaborativa en repositorios que se encuentren subidos en GitHub.
+
+WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTML, CSS, Javascript y con múltiples frameworks como por ejemplo Angular.
+
+**Software Deployment**
+
+Netlify (https://www.netlify.com/): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
