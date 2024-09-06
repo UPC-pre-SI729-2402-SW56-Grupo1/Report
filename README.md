@@ -18,18 +18,18 @@
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
   <li>Fernández Remón Roy (U20221B778)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Rioja Nuñez, Franco Diego (u202221597)</li>
+  <li>Burga Loarte, Anaely (u202118264)</li>
+  <li>La Torre Valle, Franz Jair (u202012378)</li>
 </ul>
 
 **<h3>Septiembre, 2024</h3>**
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor                                                                                               | Descripción de modificación |
-|--------------|--------------|-----------------------------------------------------------------------------------------------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Fernández Remón Roy<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
+| Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- Fenández Remón Roy<br>- XXXXXXX<br>- La Torre Valle, Franz Jair | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
@@ -162,7 +162,7 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
+		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
@@ -469,7 +469,17 @@ Aspectos psicográficos:
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+Para esta sección se seleccionarán los colores y fuentes que se usaremos para elaborar la aplicación web. Elegimos una paleta de colores atractiva, funcional y agradable de leer:
+
+* Colores primarios: Beige, marfil y blanco roto
+* Color del texto: Gris oscuro 
+* Decoración y botones: Cobre
+
+
+  ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
+
 ### 4.1.2. Web Style Guidelines
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
@@ -497,8 +507,109 @@ Aspectos psicográficos:
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En esta sección menionaremos los distintos productos de software que utilizó nuestro equipo de desarrollo para poder llevar acabo las actividades relacionadas con la elaboración de nuestro proyecto.
+
+**Project Management**
+
+Google Meet (https://meet.google.com/): Google Meet es una plataforma de videoconferencias desarrollada por Google que permite realizar a los usuarios reuniones a distancia. Esta herramienta nos facilita la comunicación entre los integrantes para poder desarrollar nuestro proyecto.
+
+**Requirements Managements**
+
+Trello (https://trello.com/): Es un software diseñado para la gestión de proyectos que facilita el poder asignar y organizar las tareas que se tienen que realizar. Fue utilizado para poder desarrollar el Product Backlog.
+
+**Product UX/UI Design**
+
+UXPressia (https://uxpressia.com/): Es una herramienta en línea que permite a los equipos de trabajo el poder identificar y comprender los problemas, necesidades y comportamientos de los usuarios en relación a la solución de software que se está desarrollando mediante el uso de plantillas. Se utilizó esta herramienta para la elaboración de las User Persons, Empathy Maps, Journey Maps e Impact Maps.
+
+Figma (https://www.figma.com/): Figma es una herramienta de edición en línea donde se pueden diseñar y hacer prototipos de páginas web en tiempo real. En nuestro proyecto se utilizó para la realización de los wireframes, mock-ups y los desktop and mobile application prototype del proyecto.
+
+Miro (https://miro.com/): Miro es una plataforma colaborativa online en el cual permite poder crear y usar pizarras digitales personalizadas en tiempo real con los miembros de nuestro equipo de trabajo. Miro cuenta con diferentes herramientas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. Se utilizó para la realización de los As-Is y Tob-Be Scenario Maps.
+
+**Software Development**
+
+Landing Page: Para la creación de nuestra landing page se utilizaron las tecnologías base para el desarrollo web las cuales son: HTML5, CSS3 y JavaScript.
+
+GitHub (https://github.com/): Es una plataforma en línea donde se pueden alojar múltiples proyectos mediante repositorios. Estos utilizan un sistema de control de versiones llamado Git. GitHub nos permite trabajar de manera colaborativa teniendo un seguimiento detallado de los avances en el proyecto.
+
+Git (https://git-scm.com/): Se trata de un softwarepara el control de versiones el cual se instala de manera local y nos permite tener un historial de cambios que realiza cada integrante del grupo en el proyecto, esto lo hace mediante commits. También es utilizado para poder trabajar de manera colaborativa en repositorios que se encuentren subidos en GitHub.
+
+WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTML, CSS, Javascript y con múltiples frameworks como por ejemplo Angular.
+
+**Software Deployment**
+
+Netlify (https://www.netlify.com/): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
+
+**Software Documentation**
+
+Vertabelo (https://vertabelo.com/): Es una herramienta online que facilita a los usuarios a poder realizar diseños, creaciones y gestión de bases de datos de manera colaborativa. Se utilizó para el diseño de la base de datos del proyecto.
+
+LucidChart (https://lucid.app/): Es una plataforma online que cuenta con múltiples opciones que nos permiten la creación de diagramas de clases, mapas mentales, flujos y más mediante el uso de plantillas y tableros que nos ofrece esta herramienta con edición en tiempo real. Fue utilizado para el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
+
+Structurizr (https://www.structurizr.com/): Es una plataforma que permite el modelado de diagramas de arquitectura de software mediante código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.
+
+**Software Testing**
+
+GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que nos permite el poder publicar un sitio web a partir de un repositorio, cabe destacar que solo nos permitirá alojar sitios web estáticos con archivos HTML, CSS y JavaScript.
+
+Markdown: Es un lenguaje de marcado ligero el cual nos permite documentar diversos proyectos. En cuanto a nuestro equipo, utilizamos este lenguaje para poder redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
+
 ### 5.1.2. Source Code Management
+En este apartado se detallará los medios que se usaron para hacer el seguimiento de las modificaciones, así como la semántica y la nomenclatura que se utilizará para la realización de los commits. Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
+- Url de la organizacion: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report
+
+**Semantic Versioning**
+
+La Semantic Versioning es un conjunto de reglas que nos permitirá poder gestionar correctamente la numeración de versiones en nuestro proyecto. La versión principal se incrementará cuando los cambios agregados no sean compatibles con las versiones anteriores.
+
+|release-1.0.5|
+|---|
+|release-2.1.3|
+|release-2.2.1|
+
+**Conventional commits**
+
+Para nuestro proyecto se utilizará el estándar de commits convencionales para que podamos mantener un historial de cambios limpio y ordenado. Los commits se dividirán en los siguientes tipos:
+- **feat**: Se utilizará para las nuevas funcionalidades.
+- **fix**: Se utilizará para la corrección de errores.
+- **chore**: Se utilizará para los cambios en el código que no afecten la funcionalidad.
+- **refactor**: Se utilizará para los cambios en el código que no afecten la funcionalidad.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
+Para poder desarrollar nuestro proyecto, hemos requerido de algunas nomenclaturas, referencias y lenguajes para su solución.
+
+Tecnologias: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desarrollo de nuestra la landing page.
+
+- **HTML:** Para el lenguaje HTML, Hemos planteado utilizar las convenciones que se encuentran descritas en la guía “HTML Style Guide and Coding Conventions”
+  - Usar los nombres de los elementos en minúsculas.
+  - Cerrar todos los elementos HTML.
+  - Usar los nombres de los atributos en minúsculas.
+  - Usar atributos en imágenes.
+  - Evitar las líneas de código demasiado largas.
+  - Usar una sintaxis simple para los enlaces, para las hojas de estilo y para poder cargar script externos.
+
+- **CSS:** Para el lenguaje CSS, hemos utilizado las siguientes prácticas para poder alcanzar un código coherente, sostenible y ordenado
+  
+  - Utilizar las minúsculas y los guiones para los nombres de propiedades.
+  - Utilizar un espacio después de los dos puntos y un punto y coma para poder separar pares de propiedad-valor.
+  - Agrupar las reglas de CSS relacionadas y separarlas con una línea en blanco.
+  - Utilizar los nombres de las clases que sean descriptivas y reflejen el propósito del elemento.
+  - Separar los nombres de las clases y su ID con un guión.
+
+**Convenciones de idioma:** Se hizo el uso del idioma inglés para poder elaborar nuestro código, esto incluye la parte de la landing page.
+
+**Conventional commits**
+
+Para nuestro proyecto, se utilizó este estándar para poder garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos hemos decidido por la siguiente estructura:<br/>
+`
+<Type>[Scope opcional]:<Descripcion>`
+
+- Type: Indica el tipo de commit que se realizó por un miembro del equipo.
+- Scope: Define el alcance que tenga el commit.
+- Descripción: Hace una descripción breve del cambio realizado por algún integrante.
+
+
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
