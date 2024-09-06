@@ -72,6 +72,7 @@
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
+- [Product Backlog](#product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -760,6 +761,33 @@ Aspectos psicográficos:
 <img src="images/ImpactMap2.png" alt="Impact Mapping 2" style="width: 100%;">
 
 ## 3.4. Product Backlog
+# Product Backlog
+
+| # Orden | User Story Id | Título                           | Descripción                                                                                                         | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| 1       | US-01         | Descubrimiento de libros          | Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.    | 5                               |
+| 2       | US-02         | Búsqueda avanzada de libros       | Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente. | 5                               |
+| 3       | US-03         | Sincronización de progreso de lectura | Como lector, quiero que mi progreso de lectura se sincronice automáticamente entre dispositivos para poder continuar leyendo sin perder mi avance. | 8                               |
+| 4       | US-04         | Descarga de libros                | Como lector, quiero poder descargar libros para leer sin conexión a internet, para poder seguir leyendo cuando no tengo acceso a una red. | 5                               |
+| 5       | US-05         | Historial de lecturas             | Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente. | 3                               |
+| 6       | US-06         | Reseñas y calificaciones de libros | Como lector, quiero dejar reseñas y calificar libros que he leído para compartir mi opinión con otros usuarios.     | 3                               |
+| 7       | US-07         | Clubes de lectura virtuales       | Como lector, quiero unirme a clubes de lectura virtuales para compartir mis experiencias de lectura con otros lectores. | 5                               |
+| 8       | US-08         | Eventos en línea con autores      | Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo. | 5                               |
+| 9       | US-09         | Notificaciones de novedades       | Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos relacionados con mis intereses para estar informado de novedades relevantes. | 3                               |
+| 10      | US-10         | Lista de deseos                   | Como lector, quiero guardar libros en una lista de deseos para comprarlos o leerlos más tarde.                      | 3                               |
+| 11      | US-11         | Compartir progreso en redes sociales | Como lector, quiero compartir mi progreso de lectura en redes sociales para mostrar a mis amigos qué estoy leyendo. | 2                               |
+| 12      | US-12         | Perfil de autor                   | Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores. | 5                               |
+| 13      | US-13         | Subida de libros                  | Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.               | 8                               |
+| 14      | US-14         | Gestión de precios y descuentos   | Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos. | 5                               |
+| 15      | US-15         | Estadísticas de ventas            | Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.       | 5                               |
+| 16      | US-16         | Interacción con lectores          | Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia. | 5                               |
+| 17      | US-17         | Promoción de nuevos lanzamientos  | Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones. | 5                               |
+| 18      | US-18         | Versión gratuita limitada         | Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar. | 5                               |
+| 19      | US-19         | Retroalimentación privada         | Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente. | 3                               |
+| 20      | US-20         | Participación en entrevistas y eventos | Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores. | 5                               |
+| 21      | US-21         | Reportes de regalías              | Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma. | 3                               |
+| 22      | US-22         | Colaboración en proyectos conjuntos | Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos. | 5                               |
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
