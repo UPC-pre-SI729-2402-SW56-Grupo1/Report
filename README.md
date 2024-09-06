@@ -206,11 +206,20 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 * Color del texto: Gris oscuro 
 * Decoración y botones: Cobre
 
-
   ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
 
+* Estilo de letras: Averia Serif Libre
+
+  ![Imagen estilo letras](images/Imagen estilo letras.PNG)
+
 ### 4.1.2. Web Style Guidelines
-Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
+* Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
+
+  ![Barra_navegacion](images/Barra_navegacion.PNG)
+
+* En el footer pondremos nuestras redes sociales, además de una opción que permitira abrir una pestaña para que nos contacten.
+
+  ![Footer_imagen](images/Footer_imagen.PNG)
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
