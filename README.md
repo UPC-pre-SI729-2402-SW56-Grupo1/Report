@@ -282,7 +282,7 @@ Entrevista:
         Entrevistador: La Torre Valle, Franz Jair 
     </li>
 </ul>
-<img src="imgs/EntrevistaAleshka.png" alt="Entrevista Autor 1">
+<img src="images/EntrevistaAleshka.png" alt="Entrevista Autor 1">
 
 Resumen:
 <p align="justify">
