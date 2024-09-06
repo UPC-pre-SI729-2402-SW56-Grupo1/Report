@@ -297,6 +297,15 @@ La Semantic Versioning es un conjunto de reglas que nos permitirá poder gestion
 |release-2.1.3|
 |release-2.2.1|
 
+**Conventional commits**
+
+Para nuestro proyecto se utilizará el estándar de commits convencionales para que podamos mantener un historial de cambios limpio y ordenado. Los commits se dividirán en los siguientes tipos:
+- **feat**: Se utilizará para las nuevas funcionalidades.
+- **fix**: Se utilizará para la corrección de errores.
+- **chore**: Se utilizará para los cambios en el código que no afecten la funcionalidad.
+- **refactor**: Se utilizará para los cambios en el código que no afecten la funcionalidad.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
