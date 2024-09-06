@@ -414,6 +414,38 @@ La menor cantidad de trabajo necesaria es definir nuestro problema principal y a
 </table>
 
 ## 1.3. Segmentos objetivo
+<p align="justify">
+	Los segmentos objetivos consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca.
+
+**Segmento objetivo #1:** Lectores
+
+
+Aspectos demográficos:
+* Sexo: Masculino y femenino
+* Edades: Personas entre 18 - 50 años.
+* Nivel socioeconómico: Clases A,B y C (Alta, Media Alta y Media)
+
+Aspectos psicográficos:
+
+* Buscan una aplicación eficiente de lectura
+* Buscan tener comunicación con otros lectores
+* Buscan tener comunicación con autores
+
+**Segmento objetivo #2:** Autores
+
+Aspectos demográficos:
+
+
+* Sexo: Masculino y femenino
+* Edades: Personas entre 25 - 50 años.
+* Nivel socioeconómico: Clases A,B y C (Alta, Media Alta y Media)
+
+Aspectos psicográficos:
+
+* Buscan una aplicación para publicar sus libros
+* Buscan tener comunicación con otros autores
+* Buscan tener comunicación con sus lectores
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
