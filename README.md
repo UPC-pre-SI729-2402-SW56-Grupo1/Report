@@ -154,32 +154,26 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 	<TR>
 		<TH><h2>Intregantes</h2></TH> 
 		<TH><h2>Descripción</h2></TH>
-		<TH><h2>Conocimientos</h2></TH>
 	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto.</td>
-		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
+		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto. Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
 	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td>
-		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Roy Fernández Remón - U20221B778 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">XXXXXXX</td>
-		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
     <TR>
 		<td style="text-align: center" align="center"><p align="center"> Anaely Burga Loarte - U202118264 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">XXXXXXX</td>
-		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
     <TR>
-		<td style="text-align: center" align="center"><p align="center"> Franz Jair La Torre Valle - U202012378 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">XXXXXXX</td>
-		<td style="text-align: center" align="center">XXXXXXX</td>
+		<td style="text-align: center" align="center"><p align="center"> Franz Jair La Torre Valle - U202012378 <img src="images/FJ.jpg" alt="Foto Franz" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Soy estudiante de la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos sobre programación en el lenguaje de C++ y Python, conocimiento sobre configuración de redes y aplicación de la complejidad algorítmica. Siempre dispuesto a trabajar en equipo, me considero una persona paciente y respetuosa que tiene como objetivo llevar a cabo este proyecto de forma satisfactoria.</td>
 	</TR>
 </TABLE>
 
