@@ -318,6 +318,26 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
     </ul>
 </div>
 <br>
+<b>User Outcomes & Benefits:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Acceso conveniente a una amplia variedad de contenido de lectura.
+        </li>
+        <li>
+            Ahorro de tiempo y esfuerzo al evitar la necesidad de visitar librerías físicas para comprar libros.
+        </li>
+        <li>
+            Descubrimiento de nuevos títulos y autores.
+        </li>
+        <li>
+            Interacción con la comunidad de lectores y autores.
+        </li>
+        <li>
+            Flexibilidad y portabilidad de momentos y lugares en donde se puede acceder a la plataforma.
+        </li>
+    </ul>
+</div>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
