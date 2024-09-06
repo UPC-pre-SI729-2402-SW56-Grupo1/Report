@@ -301,7 +301,23 @@ Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos per
 Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n
+### 5.2.X. Sprint 1
+# Sprint 1: Implementación de funcionalidades y diseño de la aplicación
+
+| Sprint Planning Background | Detalles                                  |
+|----------------------------|-------------------------------------------|
+| **Fecha**                   | 06/09/2024                               |
+| **Hora**                    | 20:00                                    |
+| **Ubicación**               | Reunión realizada mediante Discord        |
+| **Preparado por**           | Esteban Garcia, Nicolas Sebastian         |
+| **Asistentes**              | Todos los integrantes                    |
+
+| Sprint Goal & User Stories  | Detalles                                  |
+|----------------------------|-------------------------------------------|
+| **Objetivo del Sprint 1**    | Realizar y desplegar el Landing Page      |
+| **Velocidad del Sprint 1**   | 35                                       |
+| **Suma de Puntos de Historia** | 30                                     |
+
 #### 5.2.X.1. Sprint Planning n
 #### 5.2.X.2. Sprint Backlog n
 #### 5.2.X.3. Development Evidence for Sprint Review
