@@ -336,6 +336,17 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 | LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 12/04/2024         |
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
+# Commit History (Fecha: 06/09/2024)
+
+| Repository        | Branch | Commit ID                               | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|-------------------|--------|-----------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test   | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 13/04/2024          |
+
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
