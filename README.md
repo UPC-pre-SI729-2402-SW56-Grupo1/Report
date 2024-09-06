@@ -294,6 +294,30 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
     </ul>
 </div>
 <br>
+<b>Business Outcomes:</b>
+<div align="justify">
+    <ul>
+        <li>
+            Generar un impacto positivo en hábitos de lectura y creatividad.
+        </li>
+        <li>
+            Colaboraciones exitosas con autores y lectores.
+        </li>
+        <li>
+            Aumento del impacto social y usuarios suscritos.
+        </li>
+        <li>
+            Fortalecimiento de alianzas con la industria editorial.
+        </li>
+        <li>
+            Generar ingresos mediante publicidad y nuestros usuarios premium.
+        </li>
+        <li>
+            Divulgar la plataforma para ser usada como la principal en este rubro.
+        </li>
+    </ul>
+</div>
+<br>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
