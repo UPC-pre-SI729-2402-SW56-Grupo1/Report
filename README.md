@@ -309,7 +309,7 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 | **Fecha**                   | 06/09/2024                               |
 | **Hora**                    | 20:00                                    |
 | **Ubicación**               | Reunión realizada mediante Discord        |
-| **Preparado por**           | Esteban Garcia, Nicolas Sebastian         |
+| **Preparado por**           | Diego                                   |
 | **Asistentes**              | Todos los integrantes                    |
 
 | Sprint Goal & User Stories  | Detalles                                  |
