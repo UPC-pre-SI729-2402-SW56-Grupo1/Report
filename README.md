@@ -345,9 +345,24 @@ Link: https://www.figma.com/design/ZMtzm1Lg2yHIZmUBrWzUFm/Wireframe-FeatherBook?
 Link: https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&t=O7fEH1EEkONzbaUX-1
 
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
+A continuación mostraremos la elaboración del diseño el cual fue elaborado considerando los puntos anteriores.
+### 4.4.1. Web Applications Wireflow Diagrams
+* User Story #1: Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.
+* User Story #2: Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente.
+* User Story #5: Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente.
+* User Story #8: Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo.
+* User Story #16: Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.
+
 ### 4.4.2. Web Applications Mock-ups
+* En la Biliotecca se muestran recomendaciones de libros según tus preferencias y también podrás usar filtros para buscar libros.
+  ![Biblioteca](images/Biblioteca.PNG)
+
+* En el Historial de libros leidos podrás encontrar los nombres de los libros que hallas leido.
+  ![Historial_libros](images/Historial_libros.PNG)
+
+* Gracias al chat con los autores se puede interactuar con ellos.
+  ![Chat_autor](images/Chat_autor.PNG)
+
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
