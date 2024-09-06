@@ -285,7 +285,9 @@ Entrevista:
 
 Resumen:
 <p align="justify">
-    Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
+    Entrevistamos a Maryori Atanacio Cruces, de 23 años, estudiante y vive en San Juan de Lurigancho. Maryori menciona que disfruta leer de géneros como el drama y la ciencia ficción, aunque encuentra dificultades para dedicar tiempo a la lectura debido al ruido, especialmente en su entorno universitario. A pesar de estos desafíos, lo que lo motiva a seguir leyendo un libro es el suspenso y la curiosidad por lo que ocurrirá en la trama.
+Maryori también menciona que, en una aplicación de lectura, apreciaría características como el bloqueo de pantalla para evitar movimientos involuntarios y una mejor navegación. Además de libros, le interesaría encontrar artículos científicos y podcasts. Le gustaría interactuar con otros lectores a través de recomendaciones basadas en intereses compartidos y considera importante que una aplicación de lectura ofrezca medidas de seguridad en los métodos de pago, sugiriendo el uso de tokens para confirmar compras.
+Para mantener un hábito de lectura constante, Maryori planearía leer unos minutos al día, aunque no siempre pueda dedicar una hora completa. En cuanto a la compra de libros electrónicos o audiolibros, valora mucho las reseñas bien detalladas y estructuradas. Considera que un mal uso del lenguaje o un cambio abrupto en el estilo podrían hacerle abandonar un libro. Finalmente, menciona que si fuera un usuario leal de una aplicación de lectura, le gustaría recibir recompensas como monedas virtuales, que podrían canjearse por libros. También sugiere que la aplicación ofrezca recomendaciones de títulos similares y permita que los usuarios compartan sus reseñas para ayudar a otros a descubrir nuevas lecturas.
 </p>
 
 Entrevistada #2: Jefrey Prado
@@ -304,20 +306,20 @@ Entrevistada #2: Jefrey Prado
 Entrevista:
 <ul>
     <li>
-        Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ERZMOTxg4GJPhNCGMfCLIHoB86oF3X99fvjMUQsO19HaEQ?e=OcfmTb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Click para ver la entrevista</a>
+        Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ETbYbE3zCZBOrfesMA79IQ4BpN9y517rv3_FN_K0gM7gzg?e=P0C3fb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Click para ver la entrevista</a>
     </li>
     <li>
-        Duración: 06:23
+        Duración: 05:27
     </li>
       <li>
         Entrevistador: Fernández Remón, Roy
     </li>
 </ul>
-<img src="images/Entrevista Lector 1.png" alt="Entrevista Lector 1">
+<img src="images/Entrevista Lector 2.png" alt="Entrevista Lector 2">
 
 Resumen:
 <p align="justify">
-    Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
+    Entrevistamos a Jefrey Prado, de 23 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
 </p>
 
 
