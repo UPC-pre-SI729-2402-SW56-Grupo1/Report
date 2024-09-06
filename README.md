@@ -168,8 +168,7 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
     <TR>
-		<td style="text-align: center" align="center"><p align="center"> Anaely Burga Loarte - U202118264 <img src="![image](https://github.com/user-attachments/assets/2fd5fee2-d55e-4f08-9a49-be37c9c5ab77)
-" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Anaely Burga Loarte - U202118264 <img src="https://github.com/user-attachments/assets/2fd5fee2-d55e-4f08-9a49-be37c9c5ab77" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
 </td>
 	</TR>
