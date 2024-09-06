@@ -256,6 +256,33 @@ Autores
 ### 2.2.2. Registro de entrevistas
 ### Lectores:
 
+Entrevistada #1: Maryori Atanacio Cruces
+
+<ul>
+    <li>
+        Sexo: Femenino
+    </li>
+    <li>
+        Edad: 23 años
+    </li>
+    <li>
+        Distrito en el que vive: San Juan de Lurigancho
+    </li>
+</ul>
+Entrevista:
+<ul>
+    <li>
+        Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ERZMOTxg4GJPhNCGMfCLIHoB86oF3X99fvjMUQsO19HaEQ?e=OcfmTb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Click para ver la entrevista</a>
+    </li>
+    <li>
+        Duración: 06:23
+    </li>
+      <li>
+        Entrevistador: Fernández Remón, Roy
+    </li>
+</ul>
+<img src="images/EntrevistaAleshka.png" alt="Entrevista Autor 1">
+
 ### Autores:
 Entrevistada #1: Aleshka Fernandez
 
