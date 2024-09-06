@@ -11,7 +11,7 @@
 
 <strong>Startup:</strong> FeatherBook
 
-<strong>Producto:</strong> XXXXXXX
+<strong>Producto:</strong> FeatherBook
 
 <h3>Integrantes:</h3>
 
@@ -128,8 +128,8 @@
 # Student Outcome
 | Criterio Específico | Acciones realizadas | Conclusiones |
 |---------|---------|---------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> *Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br>*Nombre integrante* <br> - XXXXXXX<br><br> | XXXXXXX |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - XXXXXXX<br><br> Fernández Remón Roy <br> - XXXXXXX<br><br> Rioja Nuñez, Franco Diego <br> - XXXXXXX<br><br> Burga Loarte, Anaely <br> - XXXXXXX<br><br> La Torre Valle, Franz Jair <br> - XXXXXXX<br><br> | XXXXXXX |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - XXXXXXX<br><br> Fernández Remón Roy <br> - XXXXXXX<br><br> Rioja Nuñez, Franco Diego <br> - XXXXXXX<br><br> Burga Loarte, Anaely <br> - XXXXXXX<br><br> La Torre Valle, Franz Jair <br> - XXXXXXX<br><br> | XXXXXXX |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -167,17 +167,17 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Roy Fernández Remón - U20221B778 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
     <TR>
-		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Anaely Burga Loarte - U202118264 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
     <TR>
-		<td style="text-align: center" align="center"><p align="center"> XXXXXXX - XXXXXXX <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Franz Jair La Torre Valle - U202012378 <img src="XXXXXXX" alt="XXXXXXX" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">XXXXXXX</td>
 		<td style="text-align: center" align="center">XXXXXXX</td>
 	</TR>
