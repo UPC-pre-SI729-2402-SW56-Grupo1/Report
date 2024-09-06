@@ -1070,19 +1070,77 @@ Para nuestro proyecto, se utilizó este estándar para poder garantizar una fác
 - Scope: Define el alcance que tenga el commit.
 - Descripción: Hace una descripción breve del cambio realizado por algún integrante.
 
-
-
 ### 5.1.4. Software Deployment Configuration
+
+En esta entrega, hemos finalizado nuestra Landing Page y configurado su despliegue de la siguiente manera:
+
+Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
+
+Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+
+Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
+
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n
+### 5.2.X. Sprint 1
+# Sprint 1: Implementación de funcionalidades y diseño de la aplicación
+
+| Sprint Planning Background | Detalles                                  |
+|----------------------------|-------------------------------------------|
+| **Fecha**                   | 06/09/2024                               |
+| **Hora**                    | 20:00                                    |
+| **Ubicación**               | Reunión realizada mediante Discord        |
+| **Preparado por**           | Diego                                   |
+| **Asistentes**              | Todos los integrantes                    |
+
+| Sprint Goal & User Stories  | Detalles                                  |
+|----------------------------|-------------------------------------------|
+| **Objetivo del Sprint 1**    | Realizar y desplegar el Landing Page      |
+| **Velocidad del Sprint 1**   | 35                                       |
+| **Suma de Puntos de Historia** | 30                                     |
+
 #### 5.2.X.1. Sprint Planning n
 #### 5.2.X.2. Sprint Backlog n
 #### 5.2.X.3. Development Evidence for Sprint Review
+# Commit History (Fecha: 06/09/2024)
+
+| Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
+|-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer.jsx                                                | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact.jsx                                               | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices.jsx                                              | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About.jsx                                                 | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero.jsx                                                  | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 12/04/2024         |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
+# Commit History (Fecha: 06/09/2024)
+
+| Repository        | Branch | Commit ID                               | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|-------------------|--------|-----------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test   | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 13/04/2024          |
+| Acceptance-Test   | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 13/04/2024          |
+
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+Git: Se utilizó para el control de versiones del código fuente.
+GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint
+![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
+![image](https://github.com/user-attachments/assets/c7e89216-864a-4d56-aa25-6e17d9d09a1e)
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
