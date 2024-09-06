@@ -354,6 +354,39 @@ Resumen:
 <img src="images/As-IsAutor.png">
 
 ## 2.4. Ubiquitous Language
+Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
+<div align="justify">
+    <ul>
+        <li>
+            <b>Lector:</b> Persona que utiliza la aplicación para leer libros electrónicos o escuchar audiolibros.
+        </li>
+        <li>
+            <b>Autor:</b> Persona que escribe y publica libros electrónicos en la plataforma.
+        </li>
+        <li>
+            <b>Perfil de usuario:</b> Página o sección que contiene información personal de un usuario, como nombre, preferencias de lectura y actividad en la plataforma.
+        </li>
+        <li>
+            <b>Libros electrónicos:</b> Versiones digitales de libros que pueden leerse en dispositivos electrónicos.
+        </li>
+        <li>
+            <b>Audiolibros:</b> Versiones de audio de libros que permiten a los usuarios escuchar narraciones en lugar de leer el texto.
+        </li>
+        <li>
+            <b>Interacción en plataforma:</b> Actividades y comunicación realizadas por los usuarios dentro de la aplicación, como buscar, comprar o dejar reseñas.
+        </li>
+        <li>
+            <b>Comunidad:</b> Conjunto de usuarios de FeatherBook que comparten intereses comunes en la lectura y la cultura literaria.
+        </li>
+        <li>
+            <b>Tienda integrada:</b> Sección de la aplicación donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
+        </li>
+        <li>
+            <b>Transacción:</b> Acción de compra o intercambio de libros electrónicos, audiolibros u otros productos en la plataforma.
+        </li>
+    </ul>
+</div>
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
