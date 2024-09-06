@@ -238,6 +238,16 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En esta sección menionaremos los distintos productos de software que utilizó nuestro equipo de desarrollo para poder llevar acabo las actividades relacionadas con la elaboración de nuestro proyecto.
+
+**Project Management**
+
+Google Meet (https://meet.google.com/): Google Meet es una plataforma de videoconferencias desarrollada por Google que permite realizar a los usuarios reuniones a distancia. Esta herramienta nos facilita la comunicación entre los integrantes para poder desarrollar nuestro proyecto.
+
+**Requirements Managements**
+
+Trello (https://trello.com/): Es un software diseñado para la gestión de proyectos que facilita el poder asignar y organizar las tareas que se tienen que realizar. Fue utilizado para poder desarrollar el Product Backlog.
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
