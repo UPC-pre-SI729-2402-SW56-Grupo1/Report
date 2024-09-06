@@ -270,6 +270,20 @@ WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTM
 
 Netlify (https://www.netlify.com/): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
 
+**Software Documentation**
+
+Vertabelo (https://vertabelo.com/): Es una herramienta online que facilita a los usuarios a poder realizar diseños, creaciones y gestión de bases de datos de manera colaborativa. Se utilizó para el diseño de la base de datos del proyecto.
+
+LucidChart (https://lucid.app/): Es una plataforma online que cuenta con múltiples opciones que nos permiten la creación de diagramas de clases, mapas mentales, flujos y más mediante el uso de plantillas y tableros que nos ofrece esta herramienta con edición en tiempo real. Fue utilizado para el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
+
+Structurizr (https://www.structurizr.com/): Es una plataforma que permite el modelado de diagramas de arquitectura de software mediante código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.
+
+**Software Testing**
+
+GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que nos permite el poder publicar un sitio web a partir de un repositorio, cabe destacar que solo nos permitirá alojar sitios web estáticos con archivos HTML, CSS y JavaScript.
+
+Markdown: Es un lenguaje de marcado ligero el cual nos permite documentar diversos proyectos. En cuanto a nuestro equipo, utilizamos este lenguaje para poder redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
