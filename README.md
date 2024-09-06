@@ -9,7 +9,7 @@
 <h3>Sección: SW56</h3>
 <h3>Profesor: Efraín Ricardo Bautista Ubillús</h3>
 
-<strong>Startup:</strong> XXXXXXX
+<strong>Startup:</strong> FeatherBook
 
 <strong>Producto:</strong> XXXXXXX
 
