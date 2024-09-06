@@ -186,14 +186,9 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 <div align="justify">
-    Según el INEI, el 91,3% de las personas mayores de 6 años tienen acceso a internet desde un dispositivo celular. Esto coincide con los datos que señalan que son el medio más utilizado para la lectura (82,7 %) 
-    seguido por los periódicos (63,4%), libros (47,3 %) y revistas (22,5%).(Ministerio de Cultura, 2022)<br>La ENL 2022 estima que el 47.3 % de los ciudadanos leyó, al menos, un libro en el transcurso del último año. 
-    A su vez, se estima que 
-    más del 90 % leyó en su casa o en privado, el 30.3 % en su centro de trabajo, y un 12.8 % en el transporte público. Finalmente, se menciona que, en nuestro país, la población adulta apenas lee 1.9 libros al año, 
-    cantidad bastante baja en comparación a los demás países de Latinoamérica. De estos libros, se estima que seguido del 31,1 % libros leídos corresponden a textos escolares o universitarios y el 68,5%, elegidos de 
-    acuerdo con el interés personal.<br>Según Morales & Ramirez (2023), la falta de interés en la lectura se debe a dos factores: la falta de tiempo y por desinterés. Según la ENL, para los medios físicos, el 80 % de 
-    la población señala la “falta de interés” como razón y solo el 7.4 % lo atribuye a cuestiones económicas. En el caso de los libros digitales, el 60 % aduce “falta de interés” y el 30 % indica que “jamás empleó el 
-    espacio virtual” y, un 68,3% menciona no leer ninguno de estos medios por falta de tiempo.
+    Según el INEI, el 91.3 % de las personas mayores de 6 años acceden a internet a través de un celular, el medio más utilizado para la lectura (82.7 %), seguido por periódicos (63.4 %), libros (47.3 %) y revistas (22.5 %) (Ministerio de Cultura, 2022). La Encuesta Nacional de Lectura (ENL) de 2022 revela que el 47.3 % de los ciudadanos leyó al menos un libro en el último año, mayormente en su casa (90 %), en el trabajo (30.3 %) o en transporte público (12.8 %). En promedio, los adultos leen 1.9 libros al año, de los cuales el 31.1 % son textos académicos y el 68.5 % son de interés personal.
+
+Morales y Ramírez (2023) señalan que la falta de interés en la lectura se debe principalmente a la falta de tiempo y desinterés. En cuanto a los medios físicos, el 80 % de la población menciona desinterés, y solo el 7.4 % lo atribuye a razones económicas. En medios digitales, el 60 % indica falta de interés y el 30 % nunca ha utilizado plataformas virtuales, mientras que el 68.3 % menciona que no lee por falta de tiempo.
     <ul>
         <li>
             Who (Quién): La problemática involucra a las personas que día a día presentan inconvenientes, excusas o un total desinterés por la lectura voluntaria.
