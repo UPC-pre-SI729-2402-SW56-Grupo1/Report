@@ -313,6 +313,12 @@ Resumen:
 <img src="images/UserJourneyAutor.png">
 
 ### 2.3.4. Empathy Mapping
+### Lectores:
+<img src="images/EmpathyMapLector.png">
+
+### Autores:
+<img src="images/EmpathyMapAutor.png">
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
