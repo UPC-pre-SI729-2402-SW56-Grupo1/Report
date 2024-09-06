@@ -134,6 +134,20 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+<div align="justify">
+Feather Book es una startup innovadora que busca transformar la forma en que las personas disfrutan la lectura mediante el uso de tecnología avanzada. Nos especializamos en crear un entorno dinámico que 	conecta a autores y lectores, ofreciendo una experiencia de lectura más inmersiva y accesible. A través de herramientas como recomendaciones personalizadas, foros de libros y eventos exclusivos con 		autores. Nuestra plataforma ofrece una extensa variedad de libros electrónicos, audiolibros y contenido exclusivo disponible tanto en nuestra tienda como a través de nuestra suscripción premium. Con el lanzamiento de Feather Book, nuestra propuesta estrella, prometemos llevar la lectura digital a otro nivel, todo mientras garantizamos la máxima seguridad y privacidad para nuestros usuarios. Con Feather 	Book, leer nunca ha sido tan atractivo ni tan interactivo.<br>
+
+<ul>
+        <li>
+            <b>Misión:</b>
+        </li>
+        En Feather Book, nuestra misión es inspirar y enriquecer la vida de las personas mediante la lectura. Nos esforzamos por ofrecer un acceso fácil y conveniente a una extensa variedad de contenidos 		literarios, al tiempo que apoyamos a autores emergentes y fomentamos su visibilidad. Nuestro objetivo es conectar a los lectores con experiencias significativas que fortalezcan y profundicen su amor por 	los libros, creando un espacio donde la pasión por la lectura pueda florecer y expandirse.
+        <li>
+            <b>Visión:</b>
+        </li>
+        Aspiramos a ser la plataforma líder en lectura digital, ofreciendo acceso a contenido literario de alta calidad. Queremos ser el destino preferido de los lectores para descubrir, compartir y disfrutar 	historias que los transporten a nuevos mundos.
+</ul>
+</div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 <TABLE BORDER>
