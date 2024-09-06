@@ -285,36 +285,32 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align:center;">Acceso a una sección básica de libros, artículos y otros contenidos</td>
-      <td style="text-align:center;">Jerárquico (para organizar los contenidos por tipo como libros y artículos) y por Tópicos (para categorizar por géneros o temas).</td>
+      <td colspan="2" style="text-align:center;">Biblioteca</td>
+      <td style="text-align:center;">En este partado se podrá visualizar los libros que se estan leyendo.</td>
     </tr>
      <tr>
-      <td colspan="2" style="text-align:center;">Ver los comentarios más destacados y calificación dejados por cada libro</td>
-      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+      <td colspan="2" style="text-align:center;">Recomendaciones</td>
+      <td style="text-align:center;">Aquí se podrá ver los libros que se le recomiendan al usuario de acuerdo a los generos de libros leídos.</td>
     </tr>
       <tr>
-      <td colspan="2" style="text-align:center;">Acceso a foros de un libro en específico </td>
-      <td style="text-align:center;">Jerárquico (para organizar foros dentro de libros específicos). </td>
+      <td colspan="2" style="text-align:center;">Suscripción </td>
+      <td style="text-align:center;">En este apartado se visualizaran los planes y beneficios por cada nivel de suscripción. </td>
     </tr>
       <tr>
-      <td colspan="2" style="text-align:center;"> Recomendaciones de libros o artículos según géneros leídos</td>
-      <td style="text-align:center;">Por Tópicos (para categorizar por géneros literarios). </td>
+      <td colspan="2" style="text-align:center;"> Barra de búsqueda</td>
+      <td style="text-align:center;">Esta opción permite al usuario el buscar un libro en específico. </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align:center;">Comentar y calificar libros </td>
-      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+      <td colspan="2" style="text-align:center;">Usuario </td>
+      <td style="text-align:center;">En este apartado se le permitirá iniciar sesión y cerrar sesión, ver su información y su foto de perfil.</td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align:center;">Poder hablar con el autor del libro, solo aquellos autores que deseen </td>
-      <td style="text-align:center;">Por Audiencia (organizar los autores disponibles y su disponibilidad).</td>
+      <td colspan="2" style="text-align:center;">Contáctanos </td>
+      <td style="text-align:center;">En este apartado podrán visualizar nuestro correo para contactarnos.</td>
     </tr>
      <tr>
-      <td colspan="2" style="text-align:center;">Descuentos exclusivos en libros solo para miembros</td>
-      <td style="text-align:center;">Jerárquico (organizar por categorías de membresía).</td>
-    </tr>
-     <tr>
-      <td colspan="2" style="text-align:center;">Preventa exclusiva y acceso anticipado a los nuevos títulos de libros</td>
-      <td style="text-align:center;">Cronológico (para organizar por fechas de lanzamiento).</td>
+      <td colspan="2" style="text-align:center;">Redes sociales del footer</td>
+      <td style="text-align:center;">En este apartado podrán visualizar nuestras redes sociales.</td>
     </tr>
   </tbody>
 </table>
