@@ -276,6 +276,24 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
     </ul>
 </div>
 <br>
+<b>User Assumptions:</b>
+<div align="justify">
+    <ul>
+        <li><b>¿Quién es nuestro usuario?</b></li>
+        Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.
+        <li><b>¿Dónde encaja mi producto en su trabajo o vida?</b></li>
+        Feather Book encaja en la vida de nuestro usuario al proporcionarles una plataforma conveniente y accesible para descubrir, acceder y disfrutar de una amplia gama de contenido de lectura. Puede ser utilizado en su tiempo libre en casa, durante viajes, en pausas en el trabajo, o en cualquier momento en que deseen sumergirse en una buena lectura.
+        <li><b>¿Qué problemas tiene nuestro cliente y cómo se puede resolver?</b></li>
+        Algunos usuarios pueden experimentar interrupciones en su experiencia de lectura debido a problemas como la falta de sincronización entre dispositivos o la dificultad para encontrar nuevos libros que les interesen. Esto se puede solucionar con la sincronización del progreso de lectura entre dispositivos, recomendaciones personalizadas basadas en intereses de lectura y la capacidad de interactuar con autores y otros lectores, lo que mejora la experiencia de lectura y ayuda a mantener a los usuarios comprometidos y satisfechos.
+        <li><b>¿Cuándo y cómo es nuestro producto usado?</b></li>
+        Se podrá acceder a nuestra plataforma por medio de la web a cualquier hora del día ofreciendo flexibilidad. Cada uno de los usuarios lo usará en momentos específicos, ya sea mientras viajan en transporte público, durante su tiempo libre en casa, o antes de ir a dormir.
+        <li><b>¿Qué características son importantes?</b></li>
+        En primer lugar, se debe priorizar la facilidad de uso de la plataforma. Luego, debemos garantizar su correcto funcionamiento para satisfacer a cada uno de los usuarios. Además, se debe enfocar la seguridad en cuanto a la información de usuarios, también se debe considerar su compatibilidad con diferentes sistemas y dispositivos. Finalmente, la plataforma debe ser escalable para manejar una amplia selección de títulos y a manera que crezca se expanda correctamente.
+        <li><b>¿Cómo debe verse nuestro producto y cómo debe comportarse?</b></li>
+        Nuestro producto debe tener una interfaz limpia y moderna, con un diseño atractivo y fácil de navegar. Además, debe comportarse de manera rápida y fluida evitando largos tiempos de espera. Igualmente, debe contar con medidas de seguridad y privacidad, guardando información de cada usuario.
+    </ul>
+</div>
+<br>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
