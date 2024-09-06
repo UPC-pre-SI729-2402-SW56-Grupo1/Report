@@ -292,6 +292,12 @@ Resumen:
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+### Lectores:
+<img src="images/UserPersonaLector.png">
+
+### Autores:
+<img src="images/UserPersonaAutor.png">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
