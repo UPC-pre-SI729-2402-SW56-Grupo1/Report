@@ -755,6 +755,10 @@ Aspectos psicográficos:
 </table>
 
 ## 3.3. Impact Mapping
+<img src="images/ImpactMap1.png" alt="Impact Mapping 1" style="width: 100%;">
+
+<img src="images/ImpactMap2.png" alt="Impact Mapping 2" style="width: 100%;">
+
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
