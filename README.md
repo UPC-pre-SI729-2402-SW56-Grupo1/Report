@@ -316,8 +316,21 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
 </table>
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+Para nustra aplicación web se definieron los siguientes SEO Tags and Meta Tags:
+* Title: "FeatherBook | Explora Libros y Artículos Online"
+* Meta Description: "Descubre libros, artículos y reseñas en FeatherBook. Accede a recomendaciones personalizadas y foros de discusión."
+* Keywords: "libros online, reseñas de libros, foros de libros, recomendaciones de lectura"
+* Author: "FeatherBook Team"
+
 ### 4.2.4. Searching Systems
+
+Para facilitar la búsqueda de contenido dentro de nuestra aplicación, hemos implementado una barra de búsqueda, complementada por una barra de navegación. Esta combinación permitirá a los usuarios encontrar rápidamente la información que necesitan y navegar de manera eficiente a través de las diferentes secciones de la aplicación.
+
 ### 4.2.5. Navigation Systems
+
+Para la navegación, hemos optado por una Barra de Navegación Superior (Top Navigation Bar). Esta barra permitirá a los usuarios moverse entre diferentes pestañas mediante accesos directos a las principales secciones de la aplicación.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
