@@ -67,6 +67,8 @@
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+      - [Segmento: Lectores](#segmento-lectores)
+      - [Segmento: Autores](#segmento-autores)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
@@ -463,6 +465,12 @@ Aspectos psicográficos:
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+#### Segmento: Lectores
+<img src="images/ToBeScenarioMappingSeg1.jpg" alt="To-Be Scenario Mapping segmento lectores" style="width: 100%;">
+
+#### Segmento: Autores
+<img src="images/ToBeScenarioMappingSeg1.jpg" alt="To-Be Scenario Mapping segmento autores" style="width: 100%;">
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
