@@ -319,6 +319,28 @@ Tecnologias: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desa
   - Evitar las líneas de código demasiado largas.
   - Usar una sintaxis simple para los enlaces, para las hojas de estilo y para poder cargar script externos.
 
+- **CSS:** Para el lenguaje CSS, hemos utilizado las siguientes prácticas para poder alcanzar un código coherente, sostenible y ordenado
+  
+  - Utilizar las minúsculas y los guiones para los nombres de propiedades.
+  - Utilizar un espacio después de los dos puntos y un punto y coma para poder separar pares de propiedad-valor.
+  - Agrupar las reglas de CSS relacionadas y separarlas con una línea en blanco.
+  - Utilizar los nombres de las clases que sean descriptivas y reflejen el propósito del elemento.
+  - Separar los nombres de las clases y su ID con un guión.
+
+**Convenciones de idioma:** Se hizo el uso del idioma inglés para poder elaborar nuestro código, esto incluye la parte de la landing page.
+
+**Conventional commits**
+
+Para nuestro proyecto, se utilizó este estándar para poder garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos hemos decidido por la siguiente estructura:<br/>
+`
+<Type>[Scope opcional]:<Descripcion>`
+
+- Type: Indica el tipo de commit que se realizó por un miembro del equipo.
+- Scope: Define el alcance que tenga el commit.
+- Descripción: Hace una descripción breve del cambio realizado por algún integrante.
+
+
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
