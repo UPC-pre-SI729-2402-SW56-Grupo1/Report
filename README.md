@@ -17,7 +17,7 @@
 
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
-  <li>XXXXXXX (XXXXXXX)</li>
+  <li>Fernández Remón Roy (U20221B778)</li>
   <li>XXXXXXX (XXXXXXX)</li>
   <li>XXXXXXX (XXXXXXX)</li>
   <li>XXXXXXX (XXXXXXX)</li>
@@ -27,9 +27,9 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|--------------|--------------|--------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX    | Implementación del capítulo 1 al 5      |
+| Versión | Fecha | Autor                                                                                               | Descripción de modificación |
+|--------------|--------------|-----------------------------------------------------------------------------------------------------|--------------|
+| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Fernández Remón Roy<br>- XXXXXXX<br>- XXXXXXX<br>- XXXXXXX | Implementación del capítulo 1 al 5      |
 
 # Project Report Collaboration Insights
 
