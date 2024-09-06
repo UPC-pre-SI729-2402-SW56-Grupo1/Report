@@ -160,7 +160,7 @@ Feather Book es una startup innovadora que busca transformar la forma en que las
 		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto. Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="images/fotoFranco.jpeg" alt="Foto Franco" width="40%"> </p></td>
+		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="images/fotoFranco.jfif" alt="Foto Franco" width="40%"> </p></td>
 		<td style="text-align: center" align="center">Soy una persona creativa y que le gusta ayudar en todo lo posible en la realización de los trabajos. Me desenvuelvo bien al tabajar en grupo y suelo ayudar cuando ya esta terminada mi parte del trabajo. Tengo conocimientos de en C++, HTML, CSS, SQL y Python. Me fue bien en el curso de Base de Datos y se me da bien la elaboración de consultas complejas.</td>
 	</TR>
   	<TR>
