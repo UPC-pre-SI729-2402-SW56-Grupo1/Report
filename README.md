@@ -797,25 +797,165 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 * Color del texto: Gris oscuro 
 * Decoración y botones: Cobre
 
-
   ![Guía de Estilo de Colores](images/Colores_Style_Guidelines.PNG)
 
+* Estilo de letras: Averia Serif Libre
+
+  ![Imagen estilo letras](images/Imagen estilo letras.PNG)
+
 ### 4.1.2. Web Style Guidelines
+* Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
+
+  ![Barra_navegacion](images/Barra_navegacion.PNG)
+
+* En el footer pondremos nuestras redes sociales, además de una opción que permitira abrir una pestaña para que nos contacten.
+
+  ![Footer_imagen](images/Footer_imagen.PNG)
 
 ## 4.2. Information Architecture
+En esta sección definiremos cómo se organizará y presentará el contenido de nuestra aplicación web, con el objetivo de facilitar la navegación y la búsqueda de información. Nos enfocaremos en asegurar que los usuarios puedan interactuar con los productos de manera intuitiva y eficiente, a través de decisiones estratégicas en la estructura de la información y los sistemas de navegación y búsqueda.
 ### 4.2.1. Organization Systems
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>FeatherBook</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;"><strong>Funcionalidad</strong></td>
+      <td style="text-align:center;"><strong>Tipo de esquema de categorización</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Acceso a una sección básica de libros, artículos y otros contenidos</td>
+      <td style="text-align:center;">Jerárquico (para organizar los contenidos por tipo como libros y artículos) y por Tópicos (para categorizar por géneros o temas).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Ver los comentarios más destacados y calificación dejados por cada libro</td>
+      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Acceso a foros de un libro en específico </td>
+      <td style="text-align:center;">Jerárquico (para organizar foros dentro de libros específicos). </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;"> Recomendaciones de libros o artículos según géneros leídos</td>
+      <td style="text-align:center;">Por Tópicos (para categorizar por géneros literarios). </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Comentar y calificar libros </td>
+      <td style="text-align:center;">Cronológico (para ordenar comentarios por fecha).</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Poder hablar con el autor del libro, solo aquellos autores que deseen </td>
+      <td style="text-align:center;">Por Audiencia (organizar los autores disponibles y su disponibilidad).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Descuentos exclusivos en libros solo para miembros</td>
+      <td style="text-align:center;">Jerárquico (organizar por categorías de membresía).</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Preventa exclusiva y acceso anticipado a los nuevos títulos de libros</td>
+      <td style="text-align:center;">Cronológico (para organizar por fechas de lanzamiento).</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Biblioteca de libros leídos</td>
+      <td style="text-align:center;">Jerárquico (para organizar los libros por categorías como género y autor) y Cronológico (para ordenar los libros por la fecha en que fueron leídos).</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 4.2.2. Labeling Systems
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>FeatherBook</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;">Biblioteca</td>
+      <td style="text-align:center;">En este partado se podrá visualizar los libros que se estan leyendo.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Recomendaciones</td>
+      <td style="text-align:center;">Aquí se podrá ver los libros que se le recomiendan al usuario de acuerdo a los generos de libros leídos.</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Suscripción </td>
+      <td style="text-align:center;">En este apartado se visualizaran los planes y beneficios por cada nivel de suscripción. </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;"> Barra de búsqueda</td>
+      <td style="text-align:center;">Esta opción permite al usuario el buscar un libro en específico. </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Usuario </td>
+      <td style="text-align:center;">En este apartado se le permitirá iniciar sesión y cerrar sesión, ver su información y su foto de perfil.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Contáctanos </td>
+      <td style="text-align:center;">En este apartado podrán visualizar nuestro correo para contactarnos.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">Redes sociales del footer</td>
+      <td style="text-align:center;">En este apartado podrán visualizar nuestras redes sociales.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Para nustra aplicación web se definieron los siguientes SEO Tags and Meta Tags:
+* Title: "FeatherBook | Explora Libros y Artículos Online"
+* Meta Description: "Descubre libros, artículos y reseñas en FeatherBook. Accede a recomendaciones personalizadas y foros de discusión."
+* Keywords: "libros online, reseñas de libros, foros de libros, recomendaciones de lectura"
+* Author: "FeatherBook Team"
+
 ### 4.2.4. Searching Systems
+
+Para facilitar la búsqueda de contenido dentro de nuestra aplicación, hemos implementado una barra de búsqueda, complementada por una barra de navegación. Esta combinación permitirá a los usuarios encontrar rápidamente la información que necesitan y navegar de manera eficiente a través de las diferentes secciones de la aplicación.
+
 ### 4.2.5. Navigation Systems
+
+Para la navegación, hemos optado por una Barra de Navegación Superior (Top Navigation Bar). Esta barra permitirá a los usuarios moverse entre diferentes pestañas mediante accesos directos a las principales secciones de la aplicación.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![Landing Page Wireframe](images/Landing Page Wireframe.PNG)
+
+Link: https://www.figma.com/design/ZMtzm1Lg2yHIZmUBrWzUFm/Wireframe-FeatherBook?node-id=0-1&t=2aAIRpBSB2z1OD5v-1
+
 ### 4.3.2. Landing Page Mock-up
+
+![Landing Page Mock-up](images/Landing Page Mock-up.PNG)
+
+Link: https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&t=O7fEH1EEkONzbaUX-1
+
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
+A continuación mostraremos la elaboración del diseño el cual fue elaborado considerando los puntos anteriores.
+### 4.4.1. Web Applications Wireflow Diagrams
+* User Story #1: Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.
+* User Story #2: Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente.
+* User Story #5: Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente.
+* User Story #8: Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo.
+* User Story #16: Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.
+
 ### 4.4.2. Web Applications Mock-ups
+* En la Biliotecca se muestran recomendaciones de libros según tus preferencias y también podrás usar filtros para buscar libros.
+  ![Biblioteca](images/Biblioteca.PNG)
+
+* En el Historial de libros leidos podrás encontrar los nombres de los libros que hallas leido.
+  ![Historial_libros](images/Historial_libros.PNG)
+
+* Gracias al chat con los autores se puede interactuar con ellos.
+  ![Chat_autor](images/Chat_autor.PNG)
+
 ### 4.4.3. Web Applications User Flow Diagrams
+Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
