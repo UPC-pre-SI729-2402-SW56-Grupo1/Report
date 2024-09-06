@@ -358,6 +358,9 @@ GitHub: Se utilizó para crear el repositorio de la landing page, donde se subi�
 Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
+![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
+![image](https://github.com/user-attachments/assets/c7e89216-864a-4d56-aa25-6e17d9d09a1e)
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
