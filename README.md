@@ -307,6 +307,18 @@ Para nuestro proyecto se utilizará el estándar de commits convencionales para 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
+Para poder desarrollar nuestro proyecto, hemos requerido de algunas nomenclaturas, referencias y lenguajes para su solución.
+
+Tecnologias: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desarrollo de nuestra la landing page.
+
+- **HTML:** Para el lenguaje HTML, Hemos planteado utilizar las convenciones que se encuentran descritas en la guía “HTML Style Guide and Coding Conventions”
+  - Usar los nombres de los elementos en minúsculas.
+  - Cerrar todos los elementos HTML.
+  - Usar los nombres de los atributos en minúsculas.
+  - Usar atributos en imágenes.
+  - Evitar las líneas de código demasiado largas.
+  - Usar una sintaxis simple para los enlaces, para las hojas de estilo y para poder cargar script externos.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
