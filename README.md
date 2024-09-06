@@ -291,6 +291,15 @@ Para nuestro proyecto, se utilizó este estándar para poder garantizar una fác
 - Descripción: Hace una descripción breve del cambio realizado por algún integrante.
 
 ### 5.1.4. Software Deployment Configuration
+
+En esta entrega, hemos finalizado nuestra Landing Page y configurado su despliegue de la siguiente manera:
+
+Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
+
+Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+
+Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n
@@ -300,6 +309,13 @@ Para nuestro proyecto, se utilizó este estándar para poder garantizar una fác
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+Git: Se utilizó para el control de versiones del código fuente.
+GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
