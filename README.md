@@ -368,6 +368,8 @@ Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.6. Domain-Driven Software Architecture
 El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el área del problema. Este enfoque promueve una mejor colaboración entre desarrolladores y expertos del dominio. DDD no se limita únicamente al uso de un lenguaje común, sino que también incluye un conjunto de patrones, prácticas y diagramas arquitectónicos del sistema, cuyo objetivo es alinear el software con el dominio y fortalecer la visión compartida que propone DDD.
 ### 4.6.1. Software Architecture Context Diagram
+<img src="images/ContextDiagram.png" alt="Context Diagram" style="width: 100%;">
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
