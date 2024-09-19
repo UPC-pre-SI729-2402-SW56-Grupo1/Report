@@ -381,6 +381,82 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio q
 <img src="images/DiagramaUML.png" alt="Class Diagram" style="width: 100%;">
 
 ### 4.7.2. Class Dictionary
+Clase Usuario:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| usuarioID |  int  | ID del usuario    |
+| nombre  | string  | Nombre completo del usuario  |
+| email | string | Correo del usuario    |
+| password | string  | Contraseña del usuario |
+| fechaRegistro  | date | Fecha en la que se registro en la aplicación |
+| suscripcion  | string | Tipo de suscripción |
+
+Clase Autor:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| autorID    | int     | ID del autor    |
+| usuario    | Usuario     | Usuario registrado como autor    |
+| biografia    | string     | Biografia del autor    |
+| librosPublicados    | List<Libro>     | Lista de libros publicados    |
+| regalias    | List<Transaccion>     | Regalías transferidas al autor en la preventa    |
+
+Clase Historial:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| historialID    | int   | Id del historial del usuario    |
+| usuario    | Usuario   | Usuario al que le pertenece el historial    |
+| librosLeidos    | List<Libro>   | Lista de los libros leidos    |
+
+Clase Libro:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| libroID    | int   | Id del libro    |
+| titulo    | string   | Título del libro    |
+| genero    | string   | Genero del libro    |
+| autor    | Autor   | Autor del libro    |
+| fechaPublicacion    | date   | Fecha de publicación del libro    |
+| resumen    | string   | Un pequeño resumen del libro    |
+| calificacion    | float   | Media de estrellas que le da el usuario al libro    |
+| comentarios    | List<Comentario>   | Lista de los comentarios de los usuarios    |
+
+Clase Comentario:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| comentarioID  | int   | ID del comentario dejado  |
+| usuario  | Usuario   | Usuario que comento  |
+| contenido  | string   | Contenido del comentario  |
+| fecha  | date   | Fecha en la que se publicó el comentario  |
+
+Clase Recomendacion:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| recomendacionID  | int   | ID de la lista de recomendación  |
+| usuario  | Usuario   | Usuario al que se le hace la recomendación  |
+| librosRecomendados  | List<Libro>   | Lista de libros recomendados  |
+
+Clase Transaccion:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| transaccionID  | int   | ID de la transacción hecha  |
+| usuario  | Usuario   | Usuario que realizo la transacción  |
+| monto  | float   | Monto de la transacción  |
+| fecha  | date   | Fecha en la que se realizo la transacción  |
+
+Clase Suscripcion:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| suscripcionID  | int   | ID de la suscripción  |
+| nivel  | string   | Nivel de suscripción del usuario  |
+| precio  | float   | Precio de la suscripción  |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
