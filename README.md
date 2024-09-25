@@ -95,6 +95,7 @@
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [Clases y Atributos en Inglés](#clases-y-atributos-en-inglés)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -381,81 +382,84 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio q
 <img src="images/DiagramaUML.png" alt="Class Diagram" style="width: 100%;">
 
 ### 4.7.2. Class Dictionary
-Clase Usuario:
+# Clases y Atributos en Inglés
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| usuarioID |  int  | ID del usuario    |
-| nombre  | string  | Nombre completo del usuario  |
-| email | string | Correo del usuario    |
-| password | string  | Contraseña del usuario |
-| fechaRegistro  | date | Fecha en la que se registro en la aplicación |
-| suscripcion  | string | Tipo de suscripción |
+Class User:
 
-Clase Autor:
+| Name             | Attribute Type | Description                                     |
+|------------------|----------------|-------------------------------------------------|
+| userID           | int            | ID del usuario                                  |
+| fullName         | string         | Nombre completo del usuario                     |
+| email            | string         | Correo del usuario                              |
+| password         | string         | Contraseña del usuario                          |
+| registrationDate | date           | Fecha en la que se registró en la aplicación    |
+| subscription     | string         | Tipo de suscripción                             |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| autorID    | int     | ID del autor    |
-| usuario    | Usuario     | Usuario registrado como autor    |
-| biografia    | string     | Biografia del autor    |
-| librosPublicados    | List<Libro>     | Lista de libros publicados    |
-| regalias    | List<Transaccion>     | Regalías transferidas al autor en la preventa    |
+Class Author:
 
-Clase Historial:
+| Name            | Attribute Type   | Description                                           |
+|-----------------|------------------|-------------------------------------------------------|
+| authorID        | int              | ID del autor                                          |
+| user            | User             | Usuario registrado como autor                         |
+| biography       | string           | Biografía del autor                                   |
+| publishedBooks  | List<Book>       | Lista de libros publicados                            |
+| royalties       | List<Transaction>| Regalías transferidas al autor en la preventa         |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| historialID    | int   | Id del historial del usuario    |
-| usuario    | Usuario   | Usuario al que le pertenece el historial    |
-| librosLeidos    | List<Libro>   | Lista de los libros leidos    |
+Class History:
 
-Clase Libro:
+| Name          | Attribute Type  | Description                                      |
+|---------------|-----------------|--------------------------------------------------|
+| historyID     | int             | ID del historial del usuario                     |
+| user          | User            | Usuario al que le pertenece el historial         |
+| readBooks     | List <Book>     | Lista de los libros leídos                       |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| libroID    | int   | Id del libro    |
-| titulo    | string   | Título del libro    |
-| genero    | string   | Genero del libro    |
-| autor    | Autor   | Autor del libro    |
-| fechaPublicacion    | date   | Fecha de publicación del libro    |
-| resumen    | string   | Un pequeño resumen del libro    |
-| calificacion    | float   | Media de estrellas que le da el usuario al libro    |
-| comentarios    | List<Comentario>   | Lista de los comentarios de los usuarios    |
+Class Book:
 
-Clase Comentario:
+| Name              | Attribute Type | Description                                       |
+|-------------------|----------------|---------------------------------------------------|
+| bookID            | int            | ID del libro                                      |
+| title             | string         | Título del libro                                  |
+| genre             | string         | Género del libro                                  |
+| author            | Author         | Autor del libro                                   |
+| publicationDate   | date           | Fecha de publicación del libro                    |
+| summary           | string         | Un pequeño resumen del libro                      |
+| rating            | float          | Media de estrellas que le da el usuario al libro  |
+| comments          | List<Comment>  | Lista de los comentarios de los usuarios          |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| comentarioID  | int   | ID del comentario dejado  |
-| usuario  | Usuario   | Usuario que comento  |
-| contenido  | string   | Contenido del comentario  |
-| fecha  | date   | Fecha en la que se publicó el comentario  |
+Class Comment:
 
-Clase Recomendacion:
+| Name         | Attribute Type | Description                                    |
+|--------------|----------------|------------------------------------------------|
+| commentID    | int            | ID del comentario dejado                       |
+| user         | User           | Usuario que comentó                            |
+| content      | string         | Contenido del comentario                       |
+| commentDate  | date           | Fecha en la que se publicó el comentario       |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| recomendacionID  | int   | ID de la lista de recomendación  |
-| usuario  | Usuario   | Usuario al que se le hace la recomendación  |
-| librosRecomendados  | List<Libro>   | Lista de libros recomendados  |
+Class Recommendation:
 
-Clase Transaccion:
+| Name               | Attribute Type | Description                                 |
+|--------------------|----------------|---------------------------------------------|
+| recommendationID   | int            | ID de la lista de recomendación             |
+| user               | User           | Usuario al que se le hace la recomendación  |
+| recommendedBooks   | List<Book>     | Lista de libros recomendados                |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| transaccionID  | int   | ID de la transacción hecha  |
-| usuario  | Usuario   | Usuario que realizo la transacción  |
-| monto  | float   | Monto de la transacción  |
-| fecha  | date   | Fecha en la que se realizo la transacción  |
+Class Transaction:
 
-Clase Suscripcion:
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| transactionID  | int            | ID de la transacción hecha                     |
+| user           | User           | Usuario que realizó la transacción             |
+| amount         | float          | Monto de la transacción                        |
+| date           | date           | Fecha en la que se realizó la transacción      |
 
-| Nombre    | Atributo | Descripción           |
-|-----------|----------|-----------------------|
-| suscripcionID  | int   | ID de la suscripción  |
-| nivel  | string   | Nivel de suscripción del usuario  |
-| precio  | float   | Precio de la suscripción  |
+Class Subscription:
+
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| subscriptionID | int            | ID de la suscripción                           |
+| level          | string         | Nivel de suscripción del usuario               |
+| price          | float          | Precio de la suscripción                       |
+
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
