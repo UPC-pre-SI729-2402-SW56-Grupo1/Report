@@ -112,6 +112,7 @@
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [Clases y Atributos en Inglés](#clases-y-atributos-en-inglés)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -1257,14 +1258,103 @@ A continuación mostraremos la elaboración del diseño el cual fue elaborado co
 Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el área del problema. Este enfoque promueve una mejor colaboración entre desarrolladores y expertos del dominio. DDD no se limita únicamente al uso de un lenguaje común, sino que también incluye un conjunto de patrones, prácticas y diagramas arquitectónicos del sistema, cuyo objetivo es alinear el software con el dominio y fortalecer la visión compartida que propone DDD.
 ### 4.6.1. Software Architecture Context Diagram
+<img src="images/ContextDiagram.png" alt="Context Diagram" style="width: 100%;">
+
 ### 4.6.2. Software Architecture Container Diagrams
+<img src="images/ContainerDiagram.png" alt="Container Diagram" style="width: 100%;">
+
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="images/ComponentDiagram.jpg" alt="Component Diagram" style="width: 100%;">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="images/DiagramaUML.png" alt="Class Diagram" style="width: 100%;">
+
 ### 4.7.2. Class Dictionary
+# Clases y Atributos en Inglés
+
+Class User:
+
+| Name             | Attribute Type | Description                                     |
+|------------------|----------------|-------------------------------------------------|
+| userID           | int            | ID del usuario                                  |
+| fullName         | string         | Nombre completo del usuario                     |
+| email            | string         | Correo del usuario                              |
+| password         | string         | Contraseña del usuario                          |
+| registrationDate | date           | Fecha en la que se registró en la aplicación    |
+| subscription     | string         | Tipo de suscripción                             |
+
+Class Author:
+
+| Name            | Attribute Type   | Description                                           |
+|-----------------|------------------|-------------------------------------------------------|
+| authorID        | int              | ID del autor                                          |
+| user            | User             | Usuario registrado como autor                         |
+| biography       | string           | Biografía del autor                                   |
+| publishedBooks  | List<Book>       | Lista de libros publicados                            |
+| royalties       | List<Transaction>| Regalías transferidas al autor en la preventa         |
+
+Class History:
+
+| Name          | Attribute Type  | Description                                      |
+|---------------|-----------------|--------------------------------------------------|
+| historyID     | int             | ID del historial del usuario                     |
+| user          | User            | Usuario al que le pertenece el historial         |
+| readBooks     | List <Book>     | Lista de los libros leídos                       |
+
+Class Book:
+
+| Name              | Attribute Type | Description                                       |
+|-------------------|----------------|---------------------------------------------------|
+| bookID            | int            | ID del libro                                      |
+| title             | string         | Título del libro                                  |
+| genre             | string         | Género del libro                                  |
+| author            | Author         | Autor del libro                                   |
+| publicationDate   | date           | Fecha de publicación del libro                    |
+| summary           | string         | Un pequeño resumen del libro                      |
+| rating            | float          | Media de estrellas que le da el usuario al libro  |
+| comments          | List<Comment>  | Lista de los comentarios de los usuarios          |
+
+Class Comment:
+
+| Name         | Attribute Type | Description                                    |
+|--------------|----------------|------------------------------------------------|
+| commentID    | int            | ID del comentario dejado                       |
+| user         | User           | Usuario que comentó                            |
+| content      | string         | Contenido del comentario                       |
+| commentDate  | date           | Fecha en la que se publicó el comentario       |
+
+Class Recommendation:
+
+| Name               | Attribute Type | Description                                 |
+|--------------------|----------------|---------------------------------------------|
+| recommendationID   | int            | ID de la lista de recomendación             |
+| user               | User           | Usuario al que se le hace la recomendación  |
+| recommendedBooks   | List<Book>     | Lista de libros recomendados                |
+
+Class Transaction:
+
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| transactionID  | int            | ID de la transacción hecha                     |
+| user           | User           | Usuario que realizó la transacción             |
+| amount         | float          | Monto de la transacción                        |
+| date           | date           | Fecha en la que se realizó la transacción      |
+
+Class Subscription:
+
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| subscriptionID | int            | ID de la suscripción                           |
+| level          | string         | Nivel de suscripción del usuario               |
+| price          | float          | Precio de la suscripción                       |
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="images/DataBaseDiagram.PNG" alt="Class Diagram" style="width: 100%;">
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
