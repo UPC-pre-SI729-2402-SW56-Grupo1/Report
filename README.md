@@ -1355,6 +1355,7 @@ Class Subscription:
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 <img src="images/DataBaseDiagram.PNG" alt="Class Diagram" style="width: 100%;">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
