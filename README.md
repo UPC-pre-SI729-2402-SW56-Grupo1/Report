@@ -1398,8 +1398,76 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 | **Velocidad del Sprint 1**   | 35                                       |
 | **Suma de Puntos de Historia** | 30                                     |
 
-#### 5.2.X.1. Sprint Planning n
-#### 5.2.X.2. Sprint Backlog n
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 20/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 pm - 17:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Roy Fernandez Remon </td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Iparraguirre Rueda, Cristian Luis
+           <br>
+         Roy Fernandez Remon 
+          <br>
+         Rioja Núñez, Franco Diego  
+          <br>
+         Burga Loarte, Anaely  
+          <br>
+         La Torre Valle, Franz Jair
+          <br>
+     </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> No existe.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> No existe. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar Typescript, html y css para hacer el front-end. para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  18  </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 18 </td>
+      </tr>
+
+  </table>
+
+#### 5.2.X.2. Sprint Backlog 2
 #### 5.2.X.3. Development Evidence for Sprint Review
 # Commit History (Fecha: 06/09/2024)
 
