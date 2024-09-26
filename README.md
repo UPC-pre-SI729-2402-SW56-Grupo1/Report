@@ -1521,7 +1521,6 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de descarga sin conexión</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para validar que los libros se puedan leer sin conexión a internet.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
 
-
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
 |-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
