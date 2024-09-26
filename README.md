@@ -1101,7 +1101,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 
 * Estilo de letras: Averia Serif Libre
 
-  ![Imagen estilo letras](images/Imagen estilo letras.PNG)
+  ![Imagen estilo letras](images/Imagen_estilo_letras.PNG)
 
 ### 4.1.2. Web Style Guidelines
 * Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
@@ -1110,7 +1110,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 
 * En el footer pondremos nuestras redes sociales, además de una opción que permitira abrir una pestaña para que nos contacten.
 
-  ![Footer_imagen](images/Footer_imagen.PNG)
+  ![Footer_imagen](images/Footer_Imagen.PNG)
 
 ## 4.2. Information Architecture
 En esta sección definiremos cómo se organizará y presentará el contenido de nuestra aplicación web, con el objetivo de facilitar la navegación y la búsqueda de información. Nos enfocaremos en asegurar que los usuarios puedan interactuar con los productos de manera intuitiva y eficiente, a través de decisiones estratégicas en la estructura de la información y los sistemas de navegación y búsqueda.
@@ -1354,7 +1354,7 @@ Class Subscription:
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="images/DataBaseDiagram.PNG" alt="Class Diagram" style="width: 100%;">
+<img src="images/DataBaseDiagram.PNG" alt="Database diagram" style="width: 100%;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
