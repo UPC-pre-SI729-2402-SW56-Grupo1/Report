@@ -1694,8 +1694,9 @@ El software usado para el desarrollo de la página web fue:
  - GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
-![image](https://github.com/user-attachments/assets/c7e89216-864a-4d56-aa25-6e17d9d09a1e)
+<img src="./images/sprint2-teamcolab1.png" label="Sprint 2 team collaboration insights 1">
+
+<img src="./images/sprint2-teamcolab2.png" label="Sprint 2 team collaboration insights 2">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
