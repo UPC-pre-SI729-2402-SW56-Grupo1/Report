@@ -1705,6 +1705,23 @@ El software usado para el desarrollo de la página web fue:
 ## 5.4. Video About-the-Product
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+- TB1: 
+Se logró realizar un trabajo cumpliendo con todos los segmentos y una investigación de mercado que permitió identificar 
+las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para poder comprender 
+los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo FeatherBook.
+Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
+verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
+lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
+
+- TP:
+En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
+Nuestro proyecto está enfocado en la lectura mediante tecnología avanzada creando un entorno dinámico que conecta a autores y lectores. Como equipo, nuestra mision es inspirar y enriquecer la vida de las personas a través de la lectura, ofreciendo fácil acceso a contenido literario variado y apoyando a autores emergentes.
+
+### [Recomendaciones](#recomendaciones)
+
+Nuestro contexto actual enfrenta desafíos en la lectura digital, como la falta de hábitos de lectura consistentes y la necesidad de mayor visibilidad para autores emergentes. Se recomienda desarrollar soluciones que fomenten una experiencia de lectura más atractiva y personalizada, mejoren el acceso a contenido digital y faciliten la interacción entre autores y lectores para enriquecer el ecosistema literario.
+
 ## Video About-the-Team
 # Bibliografía
 # Anexos
