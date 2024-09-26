@@ -1400,7 +1400,7 @@ WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTM
 
 **Software Deployment**
 
-Netlify (https://www.netlify.com/): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
+Firebase (https://firebase.google.com/?hl=es): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
 
 **Software Documentation**
 
@@ -1412,7 +1412,7 @@ Structurizr (https://www.structurizr.com/): Es una plataforma que permite el mod
 
 **Software Testing**
 
-GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que nos permite el poder publicar un sitio web a partir de un repositorio, cabe destacar que solo nos permitirá alojar sitios web estáticos con archivos HTML, CSS y JavaScript.
+GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que nos permite el poder publicar un sitio web a partir de un repositorio, cabe destacar que solo nos permitirá alojar sitios web estáticos con archivos HTML, CSS y Typescript.
 
 Markdown: Es un lenguaje de marcado ligero el cual nos permite documentar diversos proyectos. En cuanto a nuestro equipo, utilizamos este lenguaje para poder redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
 
@@ -1477,7 +1477,7 @@ En esta entrega, hemos finalizado nuestra Landing Page y configurado su desplieg
 
 Repositorio GitHub: El código de la Landing Page está alojado en un repositorio específico dentro de nuestra comunidad pública en GitHub.
 
-Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
+Firebase: Utilizamos la aplicación Firebase para desplegar la página. Esto nos permite una visualización clara y accesible para los usuarios.
 
 Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
@@ -1582,7 +1582,7 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 Git: Se utilizó para el control de versiones del código fuente.
 GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
 GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
-Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+Firebase: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 ![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
