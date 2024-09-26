@@ -9,8 +9,7 @@
 <h3>Sección: SW56</h3>
 <h3>Profesor: Efraín Ricardo Bautista Ubillús</h3>
 
-<strong>Startup:</strong> FeatherBook
-
+<strong>Startup:</strong> FeatherBook Team
 <strong>Producto:</strong> FeatherBook
 
 <h3>Integrantes:</h3>
@@ -112,6 +111,7 @@
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
+- [Clases y Atributos en Inglés](#clases-y-atributos-en-inglés)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -121,18 +121,30 @@
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.X. Sprint 1](#52x-sprint-1)
-- [Sprint 1: Implementación de funcionalidades y diseño de la aplicación](#sprint-1-implementación-de-funcionalidades-y-diseño-de-la-aplicación)
-      - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
-      - [5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)
-      - [5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-- [Commit History (Fecha: 06/09/2024)](#commit-history-fecha-06092024)
-      - [5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-- [Commit History (Fecha: 06/09/2024)](#commit-history-fecha-06092024-1)
-      - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-      - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-      - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-      - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [Unit Tests](#unit-tests)
+        - [Integration Tests](#integration-tests)
+        - [Repositorio y Commits relacionados con Testing:](#repositorio-y-commits-relacionados-con-testing)
+      - [5.2.1.5.](#5215)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [Unit Tests](#unit-tests-1)
+        - [Acceptance Tests](#acceptance-tests)
+        - [Repositorio y Commits relacionados con Testing:](#repositorio-y-commits-relacionados-con-testing-1)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1100,7 +1112,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 
 * Estilo de letras: Averia Serif Libre
 
-  ![Imagen estilo letras](images/Imagen estilo letras.PNG)
+  ![Imagen estilo letras](images/Imagen_estilo_letras.PNG)
 
 ### 4.1.2. Web Style Guidelines
 * Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
@@ -1109,7 +1121,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 
 * En el footer pondremos nuestras redes sociales, además de una opción que permitira abrir una pestaña para que nos contacten.
 
-  ![Footer_imagen](images/Footer_imagen.PNG)
+  ![Footer_imagen](images/Footer_Imagen.PNG)
 
 ## 4.2. Information Architecture
 En esta sección definiremos cómo se organizará y presentará el contenido de nuestra aplicación web, con el objetivo de facilitar la navegación y la búsqueda de información. Nos enfocaremos en asegurar que los usuarios puedan interactuar con los productos de manera intuitiva y eficiente, a través de decisiones estratégicas en la estructura de la información y los sistemas de navegación y búsqueda.
@@ -1257,18 +1269,107 @@ A continuación mostraremos la elaboración del diseño el cual fue elaborado co
 Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el área del problema. Este enfoque promueve una mejor colaboración entre desarrolladores y expertos del dominio. DDD no se limita únicamente al uso de un lenguaje común, sino que también incluye un conjunto de patrones, prácticas y diagramas arquitectónicos del sistema, cuyo objetivo es alinear el software con el dominio y fortalecer la visión compartida que propone DDD.
 ### 4.6.1. Software Architecture Context Diagram
+<img src="images/ContextDiagram.png" alt="Context Diagram" style="width: 100%;">
+
 ### 4.6.2. Software Architecture Container Diagrams
+<img src="images/ContainerDiagram.png" alt="Container Diagram" style="width: 100%;">
+
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="images/ComponentDiagram.jpg" alt="Component Diagram" style="width: 100%;">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="images/DiagramaUML.png" alt="Class Diagram" style="width: 100%;">
+
 ### 4.7.2. Class Dictionary
+# Clases y Atributos en Inglés
+
+Class User:
+
+| Name             | Attribute Type | Description                                     |
+|------------------|----------------|-------------------------------------------------|
+| userID           | int            | ID del usuario                                  |
+| fullName         | string         | Nombre completo del usuario                     |
+| email            | string         | Correo del usuario                              |
+| password         | string         | Contraseña del usuario                          |
+| registrationDate | date           | Fecha en la que se registró en la aplicación    |
+| subscription     | string         | Tipo de suscripción                             |
+
+Class Author:
+
+| Name            | Attribute Type   | Description                                           |
+|-----------------|------------------|-------------------------------------------------------|
+| authorID        | int              | ID del autor                                          |
+| user            | User             | Usuario registrado como autor                         |
+| biography       | string           | Biografía del autor                                   |
+| publishedBooks  | List<Book>       | Lista de libros publicados                            |
+| royalties       | List<Transaction>| Regalías transferidas al autor en la preventa         |
+
+Class History:
+
+| Name          | Attribute Type  | Description                                      |
+|---------------|-----------------|--------------------------------------------------|
+| historyID     | int             | ID del historial del usuario                     |
+| user          | User            | Usuario al que le pertenece el historial         |
+| readBooks     | List <Book>     | Lista de los libros leídos                       |
+
+Class Book:
+
+| Name              | Attribute Type | Description                                       |
+|-------------------|----------------|---------------------------------------------------|
+| bookID            | int            | ID del libro                                      |
+| title             | string         | Título del libro                                  |
+| genre             | string         | Género del libro                                  |
+| author            | Author         | Autor del libro                                   |
+| publicationDate   | date           | Fecha de publicación del libro                    |
+| summary           | string         | Un pequeño resumen del libro                      |
+| rating            | float          | Media de estrellas que le da el usuario al libro  |
+| comments          | List<Comment>  | Lista de los comentarios de los usuarios          |
+
+Class Comment:
+
+| Name         | Attribute Type | Description                                    |
+|--------------|----------------|------------------------------------------------|
+| commentID    | int            | ID del comentario dejado                       |
+| user         | User           | Usuario que comentó                            |
+| content      | string         | Contenido del comentario                       |
+| commentDate  | date           | Fecha en la que se publicó el comentario       |
+
+Class Recommendation:
+
+| Name               | Attribute Type | Description                                 |
+|--------------------|----------------|---------------------------------------------|
+| recommendationID   | int            | ID de la lista de recomendación             |
+| user               | User           | Usuario al que se le hace la recomendación  |
+| recommendedBooks   | List<Book>     | Lista de libros recomendados                |
+
+Class Transaction:
+
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| transactionID  | int            | ID de la transacción hecha                     |
+| user           | User           | Usuario que realizó la transacción             |
+| amount         | float          | Monto de la transacción                        |
+| date           | date           | Fecha en la que se realizó la transacción      |
+
+Class Subscription:
+
+| Name           | Attribute Type | Description                                    |
+|----------------|----------------|------------------------------------------------|
+| subscriptionID | int            | ID de la suscripción                           |
+| level          | string         | Nivel de suscripción del usuario               |
+| price          | float          | Precio de la suscripción                       |
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="images/DataBaseDiagram.PNG" alt="Database diagram" style="width: 100%;">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
-<<<<<<< HEAD
 En esta sección menionaremos los distintos productos de software que utilizó nuestro equipo de desarrollo para poder llevar acabo las actividades relacionadas con la elaboración de nuestro proyecto.
 
 **Project Management**
@@ -1381,123 +1482,101 @@ Vercel: Utilizamos la aplicación Vercel para desplegar la página. Esto nos per
 Esta configuración nos brinda un método eficiente y transparente para el despliegue de nuestro proyecto, asegurando una experiencia óptima para nuestros usuarios.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint 1
-# Sprint 1: Implementación de funcionalidades y diseño de la aplicación
+### 5.2.1 Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-05</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja, Roy Fernández, Anaely Burga, Franz La Torre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la estructura básica de la plataforma, incluyendo la página de inicio y el sistema de registro de usuarios.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>18</strong></td></tr>
+</tbody></table>
 
-| Sprint Planning Background | Detalles                                  |
-|----------------------------|-------------------------------------------|
-| **Fecha**                   | 06/09/2024                               |
-| **Hora**                    | 20:00                                    |
-| **Ubicación**               | Reunión realizada mediante Discord        |
-| **Preparado por**           | Diego                                   |
-| **Asistentes**              | Todos los integrantes                    |
+#### 5.2.1.2. Sprint Backlog 1
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 1</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
 
-| Sprint Goal & User Stories  | Detalles                                  |
-|----------------------------|-------------------------------------------|
-| **Objetivo del Sprint 1**    | Realizar y desplegar el Landing Page      |
-| **Velocidad del Sprint 1**   | 35                                       |
-| **Suma de Puntos de Historia** | 30                                     |
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descubrimiento de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Diseño del motor de recomendaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a los usuarios descubrir libros basados en sus intereses.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-### 5.2.2. Sprint 2
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Integración con la base de datos de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar el motor de recomendaciones con la base de datos para obtener información relevante de los libros.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-#### 5.2.2.1. Sprint Planning 2
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-02</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Búsqueda avanzada de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de filtros de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear los filtros por género, autor y palabras clave en el buscador avanzado.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Franz La Torre, Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<table>
-     <tr> 
-        <th>  Sprint #  </th>
-        <th> Sprint 2 </th>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Date </td>
-       <td> 20/09/2024 </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Time </td>
-       <td> 15:00 pm - 17:00 pm </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Location </td>
-       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
-     </tr>
-      <tr>
-        <td style="font-weight: bold;"> Prepared By </td>
-        <td> Roy Fernandez Remon </td>
-     </tr>
-        <tr>
-        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-        <td> 
-         Iparraguirre Rueda, Cristian Luis
-           <br>
-         Roy Fernandez Remon 
-          <br>
-         Rioja Núñez, Franco Diego  
-          <br>
-         Burga Loarte, Anaely  
-          <br>
-         La Torre Valle, Franz Jair
-          <br>
-     </td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td> No existe.</td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> No existe. </td>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
-     </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td>  En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar Typescript, html y css para hacer el front-end. para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
-      </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-          <td>  18  </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 18 </td>
-      </tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de los resultados de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los resultados coincidan correctamente con los parámetros de búsqueda ingresados.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-  </table>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Sincronización de progreso de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sincronización entre dispositivos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sincronización del progreso de lectura en dispositivos móviles y web.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja, Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-#### 5.2.X.2. Sprint Backlog 2
-#### 5.2.X.3. Development Evidence for Sprint Review
-# Commit History (Fecha: 06/09/2024)
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de sincronización</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se sincronice correctamente en diferentes dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita a los usuarios descargar libros en dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de descarga sin conexión</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para validar que los libros se puedan leer sin conexión a internet.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+</tbody></table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
 | Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
 |-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer.jsx                                                | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact.jsx                                               | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices.jsx                                              | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About.jsx                                                 | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero.jsx                                                  | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 12/04/2024         |
+| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer                                                | -                   | 08/09/2024         |
+| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact                                               | -                   | 08/09/2024         |
+| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices                                              | -                   | 09/09/2024         |
+| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 07/09/2024         |
+| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 10/09/2024         |
+| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About                                                 | -                   | 09/09/2024         |
+| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero                                                  | -                   | 09/09/2024         |
+| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/09/2024         |
+| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 10/09/2024         |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
-# Commit History (Fecha: 06/09/2024)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades de **Descubrimiento de libros** (US-01) y **Búsqueda avanzada de libros** (US-02). Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el backend del sistema de búsqueda.
 
-| Repository        | Branch | Commit ID                               | Commit Message                     | Commit Message (Body) | Committed on (Date) |
-|-------------------|--------|-----------------------------------------|------------------------------------|-----------------------|---------------------|
-| Acceptance-Test   | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 13/04/2024          |
+##### Unit Tests
 
-#### 5.2.X.5. Execution Evidence for Sprint Review
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+Los Unit Tests fueron diseñados para probar las clases y comportamientos relacionados con el motor de recomendaciones y los filtros de búsqueda avanzada.
+* **Clases relacionadas con los Unit Tests:**<br><br>
+  RecommendationEngine: Valida que las recomendaciones sean generadas correctamente en función de los intereses del usuario.
+
+  SearchFilters: Valida que los filtros de búsqueda devuelvan resultados acordes a los parámetros de búsqueda (género, autor, palabras clave).
+
+##### Integration Tests
+Se realizaron pruebas de integración entre el frontend y el backend del sistema de búsqueda de libros. Las pruebas se enfocaron en la comunicación adecuada entre el motor de búsqueda y la base de datos.
+
+##### Repositorio y Commits relacionados con Testing:
+| Repository                  | Branch         | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
+|-----------------------------|----------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| FeatherBokk-Service        | feature/tests  | b123456   | feat: add Unit Tests for Recommendation Engine                   | Added Unit Tests for recommendation logic | 05/09/2024 |
+| FeatherBokk-Service        | feature/tests  | c789012   | test: add integration tests for Search Filters                   | Added Integration Tests for search filters | 06/09/2024 |
+| FeatherBokk-Frontend          | feature/tests  | d345678   | test: add UI tests for search results                            | Added UI Tests for Search Results page | 07/09/2024 |
+| FeatherBokk-Backend           | feature/tests  | e901234   | feat: integration tests between search system and database       | Validated communication between search system and database | 08/09/2024 |
+
+#### 5.2.1.5. 
+Aquí mostraremos todas las secciones que conforman la Landing page que hemos implementado durante el sprint. Durante el Sprint 1, se realizaron las siguientes tareas de ejecución:
+
+Desarrollo de la Landing Page: El equipo de desarrollo trabajó en la creación y diseño de la Landing Page, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+Control de versiones: Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+Configuración del entorno de desarrollo: Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo.
+
+Almacenamiento del proyecto en GitHub: Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+Realización de commits: Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 1 de la Landing Page. <a href="https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&t=O7fEH1EEkONzbaUX-1">Figma</a>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para alcanzar exitosamente los objetivos de este Sprint 1 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo. <a href="https://angular.io/guide/styleguide">Angular</a>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript. <a href="https://www.jetbrains.com/es-es/webstorm/learn/">Jetbrains</a>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 
 Git: Se utilizó para el control de versiones del código fuente.
@@ -1505,67 +1584,116 @@ GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
 GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
 Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 ![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
 ![image](https://github.com/user-attachments/assets/c7e89216-864a-4d56-aa25-6e17d9d09a1e)
 
-### 5.2.X. Sprint 2
-# Sprint 1: Implementación de funcionalidades y diseño de la aplicación
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-17</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">11:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja, Roy Fernández, Anaely Burga, Franz La Torre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Finalizar el diseño y la implementación del frontend, incluyendo la página de inicio, página de registro y la página de listado de servicios.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
+</tbody></table>
 
-| Sprint Planning Background | Detalles                                  |
-|----------------------------|-------------------------------------------|
-| **Fecha**                   | 25/09/2024                               |
-| **Hora**                    | 20:00                                    |
-| **Ubicación**               | Reunión realizada mediante Discord        |
-| **Preparado por**           | Diego                                   |
-| **Asistentes**              | Todos los integrantes                    |
+#### 5.2.2.2. Sprint Backlog 2
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 2</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
 
-| Sprint Goal & User Stories  | Detalles                                  |
-|----------------------------|-------------------------------------------|
-| **Objetivo del Sprint 1**    | Realizar y desplegar el aplicativo      |
-| **Velocidad del Sprint 1**   | 35                                       |
-| **Suma de Puntos de Historia** | 30                                     |
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-05</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Historial de lecturas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollo de vista del historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la interfaz del historial donde los usuarios pueden ver los libros leídos anteriormente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga, Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
 
-#### 5.2.X.1. Sprint Planning n
-#### 5.2.X.2. Sprint Backlog n
-#### 5.2.X.3. Development Evidence for Sprint Review
-# Commit History (Fecha: 06/09/2024)
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el historial de lecturas se actualice correctamente con los libros leídos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
 
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reseñas y calificaciones de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Formulario de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear el formulario para que los usuarios dejen reseñas y calificaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para asegurar que las reseñas se guarden y muestren correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-07</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Clubes de lectura virtuales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Creación de sala de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para crear salas de lectura virtual.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga, Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de interacción en la sala</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los usuarios puedan interactuar en la sala de lectura en tiempo real.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Eventos en línea con autores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programación de eventos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la programación de eventos en línea con autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja, Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de eventos en vivo</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los eventos en vivo se ejecuten correctamente y se pueda interactuar con los autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+</tbody></table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
 | Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
 |-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer.jsx                                                | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact.jsx                                               | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices.jsx                                              | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About.jsx                                                 | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero.jsx                                                  | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/04/2024         |
-| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 12/04/2024         |
+| FeatherBokk-Frontend     | feature/footer            | b28816c   | Update Footer                                                | -                   | 08/09/2024         |
+| FeatherBokk-Frontend     | feature/contact           | d429bb8   | Update Contact                                               | -                   | 08/09/2024         |
+| FeatherBokk-Frontend     | feature/header            | 9ad3e6b   | feat: add Header                                              | -                   | 09/09/2024         |
+| FeatherBokk-Frontend     | feature/cards  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 07/09/2024         |
+| FeatherBokk-Frontend     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 10/09/2024         |
+| FeatherBokk-Frontend     | feature/about             | 7e85194   | Update About                                                 | -                   | 09/09/2024         |
+| FeatherBokk-Frontend     | feature/preview              | 56ab21c   | Update Preview                                                  | -                   | 09/09/2024         |
+| FeatherBokk-Frontend     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/09/2024         |
+| FeatherBokk-Frontend     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 10/09/2024         |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
-# Commit History (Fecha: 06/09/2024)
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En este sprint se llevaron a cabo pruebas unitarias para las funcionalidades de **Sincronización de progreso de lectura** (US-03) y **Descarga de libros** (US-04). También se realizaron pruebas de aceptación (Acceptance Tests) bajo el enfoque BDD para validar la experiencia de descarga de libros sin conexión.
 
-| Repository        | Branch | Commit ID                               | Commit Message                     | Commit Message (Body) | Committed on (Date) |
-|-------------------|--------|-----------------------------------------|------------------------------------|-----------------------|---------------------|
-| Acceptance-Test   | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-04 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-05 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-06 acceptance test  | -                     | 13/04/2024          |
-| Acceptance-Test   | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-09 acceptance test  | -                     | 13/04/2024          |
+##### Unit Tests
 
-#### 5.2.X.5. Execution Evidence for Sprint Review
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+Los Unit Tests fueron diseñados para probar las clases relacionadas con la sincronización de lectura entre dispositivos y la correcta descarga de libros.
+* **Clases relacionadas con los Unit Tests:**<br><br>
+  ReadingSyncManager: Valida que el progreso de lectura se sincronice correctamente entre dispositivos (móviles y web).
 
-Git: Se utilizó para el control de versiones del código fuente.
-GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
-GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
-Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+  BookDownloadManager: Valida que los libros se descarguen correctamente y que se puedan leer sin conexión.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+##### Acceptance Tests
+Se realizaron pruebas de aceptación utilizando BDD para verificar el flujo completo de descarga de libros y sincronización de progreso.
+
+##### Repositorio y Commits relacionados con Testing:
+| Repository                  | Branch         | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
+|-----------------------------|----------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
+| FeatherBokk-SyncService      | feature/tests  | f234567   | feat: add Unit Tests for ReadingSyncManager                      | Added Unit Tests for synchronization between devices | 12/09/2024 |
+| FeatherBokk-SyncService      | feature/tests  | g789012   | test: add tests for book download functionality                  | Added Tests for downloading books | 13/09/2024 |
+| FeatherBokk-Frontend         | feature/tests  | h345678   | feat: UI tests for progress sync and offline reading             | Added UI tests for offline book reading and progress sync | 14/09/2024 |
+| FeatherBokk-Backend          | feature/tests  | i901234   | feat: acceptance tests for download and sync flow                | Added BDD Tests for the download and sync flow | 15/09/2024 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
+Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Página Web:** El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 2 de la página web.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para alcanzar exitosamente los objetivos de este Sprint 1 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo. <a href="https://angular.io/guide/styleguide">Angular</a>
+
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript. <a href="https://www.jetbrains.com/es-es/webstorm/learn/">Jetbrains</a>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.
+CSS: Lenguaje que no ayudó con el apartado visual de la página web.
+El software usado para el desarrollo de la página web fue:
+ - Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.
+ - GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.
+ - GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 ![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
 ![image](https://github.com/user-attachments/assets/c7e89216-864a-4d56-aa25-6e17d9d09a1e)
 
