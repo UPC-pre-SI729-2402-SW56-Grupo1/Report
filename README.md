@@ -1698,13 +1698,211 @@ El software usado para el desarrollo de la página web fue:
 
 <img src="./images/sprint2-teamcolab2.png" label="Sprint 2 team collaboration insights 2">
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Sprint Backlog 3  
+
+#### 5.2.3.3. Development Evidence for Sprint Review  
+
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+
+Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+
+Enlace del deploy de la web app mediante: --------------
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app, en 
+la cual se brindará variadas opciones de .....................
+
+Enlace del deploy de la web app mediante: ------------------
+
+Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realizados en OpenApi.
+
+Se adjunta el link del repositorio del backend en Github.:  --------------------------------
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+Swagger Ui: Herramienta para probar y documentar nuestra API.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Colaboración por alumno en la aplicación web:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Fernández Remón, Roy</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Alumno 2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Alumno 3</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Alumno 4</td>
+    <td>-</td>
+  </tr>
+ <tr>
+    <td>Alumno 5</td>
+    <td>-</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
+
 ## 5.3. Validation Interviews
+
 ### 5.3.1. Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre y qué edad tienes?
+- ¿Dónde vives actualmente y a qué te dedicas?
+
+Preguntas para el segmento Client:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de --------, tales como ---------, la información de ------------- y sus reseñas?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla nuestra aplicación en --------------?
+
 ### 5.3.2. Registro de Entrevistas
+
+### Entrevistas segmento Clientes
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Jefry
+* Apellidos: Prado Remón
+* Edad: 24
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: ------------------------
+* Duración de la entrevista: ------
+
+* Foto:
+
+**Informe del resumen de la entrevista:**
+
+Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante -----------. También opina que, le parece una propuesta muy interesante el ----------------------. El considera que se le deberia añadir a la aplicación ------------. Menciona que, --------------. Recomienda que -----------------.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
+### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Maryori
+* Apellidos: Atanacio Cruces
+* Edad: 23
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: ----------------
+* Duración de la entrevista:
+* Foto:
+
+**Informe del resumen de la entrevista:**
+
+Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que -----------------. También opina que, --------------. Ella considera que, ---------------------. Ella recomienda que, ---------------------------------.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+**Carrera**: Ingeniería de Software </p>
+**Curso**: Desarrollo de Aplicaciones Open Source
+
+**Profesor**: Efraín Ricardo Bautista Ubillús
+
+**Auditor**:  Grupo 1 - FeatherBook </p>
+**Cliente**:  Grupo a auditar
+
+**SITE o APP evaluar:** **NOMBRE DEL APP A EVALUAR**
+
+**Tareas a evaluar (Por mientras)**
+- Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de una reserva
+- Adaptabilidad a dispositivos móviles
+- Edición de datos
+- Mostrar listado de reservas
+- Prueba de buscador
+- Eliminación de datos
+- Botones de redirección
+- Sistema de suscripción
+
+**Escala de severidad**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <th><strong>Nivel</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td><p>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td><p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente lanzamiento.</p></td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td><p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.</p></td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td><p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p></td>
+  </tr>
+</table>
+
+**Tabla de resumen**
+
+**Descripción de problemas**  
+
 ## 5.4. Video About-the-Product
-# Conclusiones
-## Conclusiones y recomendaciones
+
+En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
+
+Foto 
+
+Link
+
+<div style="page-break-before: always;"></div>
+
+
+
+# [Conclusiones](#conclusiones)
+
+## Conclusiones preliminares
 
 - TB1: 
 Se logró realizar un trabajo cumpliendo con todos los segmentos y una investigación de mercado que permitió identificar 
@@ -1718,10 +1916,130 @@ lo que permitió cumplir con los plazos establecidos y realizar un trabajo de ca
 En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
 Nuestro proyecto está enfocado en la lectura mediante tecnología avanzada creando un entorno dinámico que conecta a autores y lectores. Como equipo, nuestra mision es inspirar y enriquecer la vida de las personas a través de la lectura, ofreciendo fácil acceso a contenido literario variado y apoyando a autores emergentes.
 
+- TB2:
+En esta tercera entrega, hemos logrado terminar con el desarrollo del front-end de la aplicación. Además de realizar un pequeño avance en el backend con los endpoints principales.
+También se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
+
 ### [Recomendaciones](#recomendaciones)
 
 Nuestro contexto actual enfrenta desafíos en la lectura digital, como la falta de hábitos de lectura consistentes y la necesidad de mayor visibilidad para autores emergentes. Se recomienda desarrollar soluciones que fomenten una experiencia de lectura más atractiva y personalizada, mejoren el acceso a contenido digital y faciliten la interacción entre autores y lectores para enriquecer el ecosistema literario.
 
-## Video About-the-Team
+# [About The Team](#about-the-team)
+
+En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto
+
+Link del video About The Team: ------------------
+
 # Bibliografía
+
+
+
+
+<div style="page-break-before: always;"></div>
+
+
+
 # Anexos
+
+Enlaces a los desarrollos de trabajo del equipo FeatherBook.
+
+<table border="1px" align="center">
+    <tbody>
+        <tr>
+            <th style="width: 45%;">Descripción</th>
+            <th>Enlace</th>
+        </tr>
+        <tr>
+            <td>Nuestras entrevistas para conocer nuestros Segmentos y obtener datos:</td>
+            <td>
+                entrevistas a clientes
+                <ul>
+                    <li><a href="https://">Entrevista 01 Client</a></li>
+                    <li><a href="https://">Entrevista 02 Client</a></li>
+                    <li><a href="https://">Entrevista 03 Client</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>As-Is</td>
+            <td><a href="https://">As-Is</a></td>
+        </tr>
+        <tr>
+            <td>To-Be</td>
+            <td><a href="https://">To-Be</a></td>
+        </tr>
+        <tr>
+            <td>Wireflow Diagram 1 LucidChart</td>
+            <td><a href="https://">Wireflow Diagram 01</a></td>
+        </tr>
+        <tr>
+            <td>Wireflow Diagram 2 LucidChart</td>
+            <td><a href="https://">Wireflow Diagram 02</a></td>
+        </tr>
+        <tr>
+            <td>Userflow Diagram 1 LucidChart</td>
+            <td><a href="https://">Userflow Diagram 01</a></td>
+        </tr>
+        <tr>
+            <td>Userflow Diagram 2 LucidChart</td>
+            <td><a href="https://">Userflow Diagram 02</a></td>
+        </tr>
+        <tr>
+            <td>Figma - prototipo de application Wireframes & Mock-Ups</td>
+            <td><a href="https://">Prototipo WEB</a></td>
+        </tr>
+        <tr>
+            <td>Figma - prototipo de landing page Wireframes & Mock-Ups</td>
+            <td><a href="https://">Prototipo LANDING PAGE</a></td>
+        </tr>
+        <tr>
+            <td>Figma - Component library</td>
+            <td><a href="https://">Component Library</a></td>
+        </tr>
+        <tr>
+            <td>Diagrama de clases:</td>
+            <td><a href="https://">Diagrama de Clases</a></td>
+        </tr>
+        <tr>
+            <td>Organización en Trello:</td>
+            <td><a href="https://">Trello</a></td>
+        </tr>
+        <tr>
+            <td>Landing page desplegado</td>
+            <td><a href="https://">Landing Page</a></td>
+        </tr>
+        <tr>
+            <td>Nuestra organización en GitHub</td>
+            <td><a href="https://">GitHub</a></td>
+        </tr>
+        <tr>
+            <td>Video de nuestro landing page</td>
+            <td><a href="https://">Video de Landing Page</a></td>
+        </tr>
+        <tr>
+            <td>Nuestro Video del TB1 - Exposición</td>
+            <td><a href="https://">Video de Landing Page</a></td>
+        </tr>
+        <tr>
+            <td>Nuestro Video About The Product</td>
+            <td><a href="https://">Video About The Product</a></td>
+        </tr>
+        <tr>
+            <td>Nuestro Video About The Team</td>
+            <td><a href="https://">Video About The Team</a></td>
+        </tr>
+        <tr>
+            <td>Entrevistas para conocer su experiencia de usuario a nuestros segmentos objetivos:</td>
+            <td>
+                <ul>
+                    <li><a href="https://">Entrevista a nuestro usuario 1</a></li>
+                    <li><a href="https://">Entrevista a nuestro usuario 2</a></li>
+                    <li><a href="https://">Entrevista nuestro usuario 3</a></li>
+                    <li><a href="https://">Entrevista a nuestro usuario 4</a></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
