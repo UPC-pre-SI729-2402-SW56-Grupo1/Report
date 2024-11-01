@@ -1814,14 +1814,14 @@ Datos del entrevistado:
 * Apellidos: Prado Remón
 * Edad: 24
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Edsi18beDxtGkF8nj7YSANcBNIGG2UWzr4Oo_-DyXSoZzw?e=5piMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 06:29
+* Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EVm-HMumJLdCpG6jFF4L5VIB98AqgnIwa8px5Qj0NJTGbQ?e=3MGjMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 05:37
 
-https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaMar.png
+https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaJeff.png
 
 **Informe del resumen de la entrevista:**
 
-Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante -----------. También opina que, le parece una propuesta muy interesante el ----------------------. El considera que se le deberia añadir a la aplicación ------------. Menciona que, --------------. Recomienda que -----------------.
+Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la lectura de los libros y nuestra aplicacion le parece una idea ingeniosa. También opina que, le parece una propuesta muy interesante la búsqueda por filtros ya que agiliza lo que él quiera leer. El considera que se le deberia añadir a la aplicación un fondo mas intuitivo que atraiga la atencion de nuevos usuarios.
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
