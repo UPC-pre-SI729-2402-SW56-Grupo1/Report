@@ -145,14 +145,27 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [Entrevistas segmento Clientes](#entrevistas-segmento-clientes)
+      - [Entrevista 1:](#entrevista-1)
+    - [Entrevista 2:](#entrevista-2)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
+  - [Conclusiones preliminares](#conclusiones-preliminares)
+    - [Recomendaciones](#recomendaciones)
+- [About The Team](#about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -1750,8 +1763,8 @@ Colaboración por alumno en la aplicación web:
     <td>-</td>
   </tr>
   <tr>
-    <td>Alumno 2</td>
-    <td>-</td>
+    <td>Iparraguirre Rueda, Cristian Luis</td>
+    <td>Corrección y mejora del frontend</td>
   </tr>
   <tr>
     <td>Alumno 3</td>
@@ -1892,9 +1905,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
 
-Foto 
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/ERuuoD88hMdMq8xvaLxUEa4BX7on_1eNfoOyGf9X_THcPw?e=k8CTi5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link del video About The Product</a>
 
-Link
+
 
 <div style="page-break-before: always;"></div>
 
@@ -1928,7 +1941,7 @@ Nuestro contexto actual enfrenta desafíos en la lectura digital, como la falta 
 
 En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto
 
-Link del video About The Team: ------------------
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/ES4E-BiIbxBHmDydgWy5pvYBM5tF7aZS0S-EcdSQq4vSBw?e=ES4q3r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link del video About The Team</a>
 
 # Bibliografía
 
