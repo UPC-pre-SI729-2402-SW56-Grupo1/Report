@@ -1814,10 +1814,10 @@ Datos del entrevistado:
 * Apellidos: Prado Remón
 * Edad: 24
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: ------------------------
-* Duración de la entrevista: ------
+* Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Edsi18beDxtGkF8nj7YSANcBNIGG2UWzr4Oo_-DyXSoZzw?e=5piMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 06:29
 
-* Foto:
+https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaMar.png
 
 **Informe del resumen de la entrevista:**
 
@@ -1836,13 +1836,14 @@ Datos del entrevistado:
 * Apellidos: Atanacio Cruces
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: ----------------
-* Duración de la entrevista:
-* Foto:
+* Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Edsi18beDxtGkF8nj7YSANcBNIGG2UWzr4Oo_-DyXSoZzw?e=5piMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 06:29
+
+https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaMar.png
 
 **Informe del resumen de la entrevista:**
 
-Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que -----------------. También opina que, --------------. Ella considera que, ---------------------. Ella recomienda que, ---------------------------------.
+Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que se pueda adquirir libros y poder leer mediante una página virtual. También opina que, le parece muy interesante el filtro de búsqueda ya que le ayudará mucho a encontra el libro deseado. Ella considera que, al registrarse, debería haber una sección de términos y condiciones que ella pueda escoger y decidir si le conviene.
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
