@@ -1781,10 +1781,10 @@ Preguntas generales:
 
 Preguntas para el segmento Client:
 - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-- ¿Qué opinas sobre el diseño y la funcionalidad de --------, tales como ---------, la información de ------------- y sus reseñas?
+- ¿Qué opinas sobre el diseño y la funcionalidad de nuestro aplicativo, tales como el acceso a la biblioteca, las categorías de cada libro y sus reseñas?
 - ¿Qué funcionalidades le agregarias a la aplicación?
 - ¿Hay alguna cosa que le quitarías a la aplicación?
-- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla nuestra aplicación en --------------?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usar nuestra aplicación para los nuevos usuarios?
 
 ### 5.3.2. Registro de Entrevistas
 
