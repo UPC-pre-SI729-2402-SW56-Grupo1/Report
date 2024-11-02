@@ -1817,7 +1817,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EVm-HMumJLdCpG6jFF4L5VIB98AqgnIwa8px5Qj0NJTGbQ?e=3MGjMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 05:37
 
-https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaJeff.png
+https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/4b94d3017253e3d0f80702236013edc29eda1a53/images/EntrevistaJeff.png
 
 **Informe del resumen de la entrevista:**
 
