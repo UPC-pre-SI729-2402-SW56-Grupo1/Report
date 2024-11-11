@@ -1727,14 +1727,16 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
 
-Enlace del deploy de la web app mediante: --------------
+<a href="https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Backend">
+Enlace del deploy de la web app
+</a>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app, en 
-la cual se brindará variadas opciones de .....................
+la cual se brindará variadas rutas
 
-Enlace del deploy de la web app mediante: ------------------
+<a href="https://frontend-featherbook.web.app/">Enlace del deploy de la web app</a>
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realizados en OpenApi.
 
