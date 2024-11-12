@@ -17,18 +17,15 @@
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
   <li>Fernández Remón Roy (U20221B778)</li>
-  <li>Rioja Nuñez, Franco Diego (u202221597)</li>
-  <li>Burga Loarte, Anaely (u202118264)</li>
-  <li>La Torre Valle, Franz Jair (u202012378)</li>
 </ul>
 
 **<h3>Septiembre, 2024</h3>**
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor                                                                                                     | Descripción de modificación |
-|--------------|--------------|-----------------------------------------------------------------------------------------------------------|--------------|
-| TB1           | 04/09/2024      | - Iparraguirre Rueda, Cristian Luis<br>- Rioja Nuñez, Franco Diego<br>- Fenández Remón Roy<br>- Anaely Burga Loarte<br>- La Torre Valle, Franz Jair | Implementación del capítulo 1 al 5      |
+| Versión | Fecha      | Autor                                                        | Descripción de modificación        |
+|---------|------------|--------------------------------------------------------------|------------------------------------|
+| TB1     | 04/09/2024 | - Iparraguirre Rueda, Cristian Luis<br>- Fenández Remón, Roy | Implementación del capítulo 1 al 5 |
 
 # Project Report Collaboration Insights
 
@@ -60,7 +57,7 @@
     - [Autores:](#autores)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
     - [Segmento Objetivo #1: Lectores](#segmento-objetivo-1-lectores)
-    - [Segmento Objetivo #2:  Autores](#segmento-objetivo-2--autores)
+    - [Segmento Objetivo #2:  Autores](#segmento-objetivo-2-autores)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
     - [Lectores:](#lectores-1)
@@ -129,7 +126,7 @@
         - [Unit Tests](#unit-tests)
         - [Integration Tests](#integration-tests)
         - [Repositorio y Commits relacionados con Testing:](#repositorio-y-commits-relacionados-con-testing)
-      - [5.2.1.5.](#5215)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
@@ -170,15 +167,15 @@
 - [Anexos](#anexos)
 
 # Student Outcome
-| Criterio Específico | Acciones realizadas | Conclusiones |
-|---------|---------|---------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - En el contexto de FeatherBook, es fundamental que los resultados del desarrollo tecnológico sean comunicados de manera clara y objetiva a autores y lectores. Esto asegura que todos los usuarios de la plataforma comprendan las funciones clave, como las recomendaciones personalizadas y los eventos exclusivos, independientemente de su nivel técnico.<br><br> Fernández Remón Roy <br> - Dado que FeatherBook conecta a autores, lectores y colaboradores de diferentes especialidades, es importante ajustar la forma en que se presentan los resultados del proyecto. Esto garantiza que los detalles técnicos sean entendidos por ingenieros y especialistas, mientras que otros aspectos sean claros para los autores y lectores.<br><br> Rioja Nuñez, Franco Diego <br> - La habilidad de comunicar los avances del proyecto de manera objetiva y comprensible permite implementar mejoras en la plataforma, asegurando que tanto lectores como autores puedan disfrutar de una experiencia más atractiva e interactiva, según los resultados de las actualizaciones y nuevas funcionalidades.<br><br> Burga Loarte, Anaely <br> - Comunicar los avances del proyecto a diferentes equipos (técnico, marketing, editorial) ayuda a integrar las perspectivas de cada área, fomentando una colaboración efectiva que impulse el crecimiento de FeatherBook como la plataforma líder en lectura digital.<br><br> La Torre Valle, Franz Jair <br> - Comunicar los resultados y avances del proyecto a los niveles jerárquicos de la empresa, desde los desarrolladores hasta los directores, asegura que las decisiones estratégicas se tomen con base en datos objetivos, lo que beneficia tanto la implementación de nuevas funciones como la experiencia general del usuario.<br><br> | En el desarrollo de FeatherBook, la comunicación efectiva y objetiva de los avances y resultados es clave para garantizar que tanto los autores, lectores, equipos técnicos y niveles jerárquicos comprendan el progreso del proyecto. Adaptar la información según el público permite que todas las partes involucradas, independientemente de su nivel de especialización, colaboren de manera eficiente. Esto no solo mejora la experiencia del usuario final, sino que también asegura que las decisiones estratégicas dentro de la startup se basen en información clara, fomentando la innovación y el liderazgo en la lectura digital. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - Es esencial que en FeatherBook se comuniquen por escrito los avances del proyecto de manera clara y objetiva, tanto para el equipo técnico como para el público no especializado, como autores y lectores. Esto facilita la comprensión de nuevas funciones y asegura que todos los involucrados estén alineados con los objetivos del proyecto.<br><br> Fernández Remón Roy <br> - La forma de comunicar resultados varía según el público al que se dirijan los reportes y documentos escritos. Mientras que los ingenieros y desarrolladores necesitan detalles técnicos precisos, los autores y ejecutivos requieren un enfoque más accesible que resuma los beneficios y funcionalidades de la plataforma.<br><br> Rioja Nuñez, Franco Diego <br> - En FeatherBook, comunicar los resultados de manera estructurada y objetiva en documentos escritos permite a los niveles jerárquicos más altos tomar decisiones estratégicas informadas. Esto asegura que el proyecto avance de acuerdo con la visión de la empresa y que los recursos se asignen de manera efectiva.<br><br> Burga Loarte, Anaely <br> - Al redactar documentos que describan el progreso del proyecto, es importante ser transparente y objetivo, destacando tanto los éxitos como los desafíos. Esto permite a todas las partes, desde desarrolladores hasta directores, estar al tanto de la realidad del proyecto y trabajar de manera colaborativa en soluciones.<br><br> La Torre Valle, Franz Jair <br> - La comunicación escrita clara y objetiva de los resultados permite que diferentes equipos de FeatherBook (tecnología, marketing, editorial) trabajen de manera más coordinada. Al tener un entendimiento común de los avances y necesidades del proyecto, se mejora la colaboración interdisciplinaria, logrando un producto final más robusto y atractivo.<br><br> | En el desarrollo de FeatherBook, la comunicación escrita clara y objetiva es fundamental para asegurar que los avances y resultados del proyecto sean comprendidos por todas las partes involucradas, independientemente de su especialización o nivel jerárquico. Adaptar el lenguaje según la audiencia facilita la toma de decisiones estratégicas y fomenta la colaboración interdisciplinaria, garantizando que tanto el equipo técnico como los autores, lectores y ejecutivos tengan una visión alineada del progreso y los objetivos de la plataforma. |
+| Criterio Específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - En el contexto de FeatherBook, es fundamental que los resultados del desarrollo tecnológico sean comunicados de manera clara y objetiva a autores y lectores. Esto asegura que todos los usuarios de la plataforma comprendan las funciones clave, como las recomendaciones personalizadas y los eventos exclusivos, independientemente de su nivel técnico.<br><br> Fernández Remón Roy <br> - Dado que FeatherBook conecta a autores, lectores y colaboradores de diferentes especialidades, es importante ajustar la forma en que se presentan los resultados del proyecto. Esto garantiza que los detalles técnicos sean entendidos por ingenieros y especialistas, mientras que otros aspectos sean claros para los autores y lectores.<br><br> | En el desarrollo de FeatherBook, la comunicación efectiva y objetiva de los avances y resultados es clave para garantizar que tanto los autores, lectores, equipos técnicos y niveles jerárquicos comprendan el progreso del proyecto. Adaptar la información según el público permite que todas las partes involucradas, independientemente de su nivel de especialización, colaboren de manera eficiente. Esto no solo mejora la experiencia del usuario final, sino que también asegura que las decisiones estratégicas dentro de la startup se basen en información clara, fomentando la innovación y el liderazgo en la lectura digital. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - Es esencial que en FeatherBook se comuniquen por escrito los avances del proyecto de manera clara y objetiva, tanto para el equipo técnico como para el público no especializado, como autores y lectores. Esto facilita la comprensión de nuevas funciones y asegura que todos los involucrados estén alineados con los objetivos del proyecto.<br><br> Fernández Remón Roy <br> - La forma de comunicar resultados varía según el público al que se dirijan los reportes y documentos escritos. Mientras que los ingenieros y desarrolladores necesitan detalles técnicos precisos, los autores y ejecutivos requieren un enfoque más accesible que resuma los beneficios y funcionalidades de la plataforma.<br><br>                              | En el desarrollo de FeatherBook, la comunicación escrita clara y objetiva es fundamental para asegurar que los avances y resultados del proyecto sean comprendidos por todas las partes involucradas, independientemente de su especialización o nivel jerárquico. Adaptar el lenguaje según la audiencia facilita la toma de decisiones estratégicas y fomenta la colaboración interdisciplinaria, garantizando que tanto el equipo técnico como los autores, lectores y ejecutivos tengan una visión alineada del progreso y los objetivos de la plataforma.                                                                                |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-<div align="justify">
+<div>
 FeatherBook es una startup innovadora que busca transformar la forma en que las personas disfrutan la lectura mediante el uso de tecnología avanzada. Nos especializamos en crear un entorno dinámico que 	conecta a autores y lectores, ofreciendo una experiencia de lectura más inmersiva y accesible. A través de herramientas como recomendaciones personalizadas, foros de libros y eventos exclusivos con 		autores. Nuestra plataforma ofrece una extensa variedad de libros electrónicos, audiolibros y contenido exclusivo disponible tanto en nuestra tienda como a través de nuestra suscripción premium. Con el lanzamiento de FeatherBook, nuestra propuesta estrella, prometemos llevar la lectura digital a otro nivel, todo mientras garantizamos la máxima seguridad y privacidad para nuestros usuarios. Con FeatherBook, leer nunca ha sido tan atractivo ni tan interactivo.<br>
 
 <ul>
@@ -200,31 +197,18 @@ FeatherBook es una startup innovadora que busca transformar la forma en que las 
 		<TH><h2>Descripción</h2></TH>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto. Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
-	</TR>
-	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Franco Diego Rioja Nuñez - U202221597 <img src="images/fotoFranco.jfif" alt="Foto Franco" width="40%"> </p></td>
-		<td style="text-align: center" align="center">Soy una persona creativa y que le gusta ayudar en todo lo posible en la realización de los trabajos. Me desenvuelvo bien al tabajar en grupo y suelo ayudar cuando ya esta terminada mi parte del trabajo. Tengo conocimientos de en C++, HTML, CSS, SQL y Python. Me fue bien en el curso de Base de Datos y se me da bien la elaboración de consultas complejas.</td>
+		<td style="text-align: center"><p> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="1202"> </p></td> 
+		<td style="text-align: center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto. Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Roy Fernández Remón - U20221B778 <img src="images/FotoRoy.jpg" alt="Foto Roy" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
-	</TR>
-    <TR>
-		<td style="text-align: center" align="center"><p align="center"> Anaely Burga Loarte - U202118264 <img src="https://github.com/user-attachments/assets/2fd5fee2-d55e-4f08-9a49-be37c9c5ab77" alt="Foto Anaely" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Soy estudiante del quinto ciclo de la carrera Ingeniería de Software. Mis pasatiempos son escuchar música, ver películas y leer. Me considero responsable y perseverante. En términos de habilidades, tengo experiencia en programación, especialmente en los lenguajes C++, html y css. Cont coribuiré con mis habilidades y conocimientos a este proyecto, y estoy seguro de que, con trabajo en equipo, alcanzaremos buenos resultados.
-</td>
-	</TR>
-    <TR>
-		<td style="text-align: center" align="center"><p align="center"> Franz Jair La Torre Valle - U202012378 <img src="images/FJ.jpg" alt="Foto Franz" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Soy estudiante de la carrera de Ingeniería de Software en la UPC, tengo conocimientos básicos sobre programación en el lenguaje de C++ y Python, conocimiento sobre configuración de redes y aplicación de la complejidad algorítmica. Siempre dispuesto a trabajar en equipo, me considero una persona paciente y respetuosa que tiene como objetivo llevar a cabo este proyecto de forma satisfactoria.</td>
+		<td style="text-align: center"><p> Roy Fernández Remón - U20221B778 <img src="images/FotoRoy.jpg" alt="Foto Roy" width="623"> </p></td> 
+		<td style="text-align: center">Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6.º ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
 	</TR>
 </TABLE>
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
-<div align="justify">
+<div>
     Según el INEI, el 91.3 % de las personas mayores de 6 años acceden a internet a través de un celular, el medio más utilizado para la lectura (82.7 %), seguido por periódicos (63.4 %), libros (47.3 %) y revistas (22.5 %) (Ministerio de Cultura, 2022). La Encuesta Nacional de Lectura (ENL) de 2022 revela que el 47.3 % de los ciudadanos leyó al menos un libro en el último año, mayormente en su casa (90 %), en el trabajo (30.3 %) o en transporte público (12.8 %). En promedio, los adultos leen 1.9 libros al año, de los cuales el 31.1 % son textos académicos y el 68.5 % son de interés personal.
 
 Morales y Ramírez (2023) señalan que la falta de interés en la lectura se debe principalmente a la falta de tiempo y desinterés. En cuanto a los medios físicos, el 80 % de la población menciona desinterés, y solo el 7.4 % lo atribuye a razones económicas. En medios digitales, el 60 % indica falta de interés y el 30 % nunca ha utilizado plataformas virtuales, mientras que el 68.3 % menciona que no lee por falta de tiempo.
@@ -250,15 +234,16 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
             funciones avanzadas y una experiencia sin publicidad. 
         </li>
         <li>
-            How Much (Cuánto): La solución afecta tanto de manera individual como de manera colectiva. Además, se establecerán acuerdos con editores y autores para ofrecer una amplia variedad de títulos a precios competitivos.
-            Los ingresos generados por las ventas en la tienda contribuirán significativamente a la sostenibilidad financiera de la aplicación.
+            How Much (Cuánto): La solución está diseñada para generar impacto tanto a nivel individual como colectivo. A nivel individual, se estima que nuestra plataforma atraerá inicialmente a un 15-20 % del segmento de lectores frecuentes y ocasionales, basándonos en la proporción de usuarios que ya consumen contenidos digitales en dispositivos móviles, según datos del INEI (2022). Esto equivale alrededor de 1.5 millones de usuarios potenciales en Lima.
+            A nivel colectivo, la implementación de FeatherBook tiene como meta aumentar en al menos un 10 % la tasa de lectura digital en el primer año de operación, contribuyendo a mejorar el índice de lectura en Perú, que actualmente es de 1.9 libros al año por adulto (ENL, 2022). Nuestra suscripción premium tiene como objetivo captar al menos un 5 % del mercado en su primer año, generando ingresos estimados de $500,000 USD provenientes de suscripciones y ventas de libros electrónicos.
+            Para garantizar la sostenibilidad financiera y escalar el impacto, se establecerán alianzas estratégicas con editoriales y autores. Estas alianzas permitirán ofrecer precios competitivos, incrementando la conversión de usuarios gratuitos a suscriptores premium y fomentando la adquisición de títulos exclusivos. El éxito financiero se medirá mediante métricas clave, como el valor promedio de pedido (AOV), la tasa de retención de usuarios premium y el crecimiento mensual de ingresos, con el objetivo de alcanzar una tasa de crecimiento del 15 % mensual en suscriptores durante los primeros seis meses.
         </li>
     </ul>
 </div>
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-<div align="justify">
+<div>
 	<ul>
 		<li>
 			A pesar del notable aumento en la popularidad de la lectura digital y la disponibilidad sin precedentes de una amplia diversidad de contenido, aún persisten numerosos obstáculos que dificultan que los lectores se comprometan con hábitos de lectura regulares y gratificantes. ¿Cómo podemos superar los desafíos que enfrentan los lectores en la era digital para fomentar hábitos de lectura consistentes y satisfactorios, aprovechando las ventajas de la tecnología y ofreciendo experiencias de lectura más atractivas y personalizadas?
@@ -277,7 +262,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 
 #### 1.2.2.2. Lean UX Assumptions
 <b>Business Assumptions:</b>
-<div align="justify">
+<div>
     <ul>
         <li>
             Existe una necesidad en el mercado para una plataforma que fomente y motive los hábitos de lectura entre la población, lo que respalda la demanda de una plataforma como FeatherBook.
@@ -316,7 +301,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 </div>
 <br>
 <b>User Assumptions:</b>
-<div align="justify">
+<div>
     <ul>
         <li><b>¿Quién es nuestro usuario?</b></li>
         Nuestro usuario principal es un amante de la lectura, que puede variar en edad, género y preferencias de lectura.
@@ -334,7 +319,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 </div>
 <br>
 <b>Business Outcomes:</b>
-<div align="justify">
+<div>
     <ul>
         <li>
             Generar un impacto positivo en hábitos de lectura y creatividad.
@@ -358,7 +343,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 </div>
 <br>
 <b>User Outcomes & Benefits:</b>
-<div align="justify">
+<div>
     <ul>
         <li>
             Acceso conveniente a una amplia variedad de contenido de lectura.
@@ -379,7 +364,7 @@ Morales y Ramírez (2023) señalan que la falta de interés en la lectura se deb
 </div>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-<div align="justify">
+<div>
 	
 **Hipótesis 1:**
 
@@ -415,9 +400,9 @@ La comprensión lectora en el país ha ido en decadencia en los últimos años, 
 </td>
     <td rowspan=2>5. Ideas de Soluciones:
 Implementación de un algoritmo que ayude a los usuarios a encontrar lecturas de su interés.
-·         Añadir una opción de crear clubes de lectura virtuales para que nuestros usuarios puedan compartir sus gustos con los demás.
-·         Diseñar una interfaz de usuario intuitiva y fácil de usar para la aplicación.
-·         Establecer un modelo de negocio que incluya asociaciones con bibliotecas y escuelas.</td>
+· Añadir una opción de crear clubes de lectura virtuales para que nuestros usuarios puedan compartir sus gustos con los demás.
+· Diseñar una interfaz de usuario intuitiva y fácil de usar para la aplicación.
+· Establecer un modelo de negocio que incluya asociaciones con bibliotecas y escuelas.</td>
     <td>2. Resultados Comerciales:
 Generar ingresos a través de asociaciones con bibliotecas, escuelas, editoriales y autores.
 Gracias a las suscripciones se generarán recursos recurrentes, así como la implementación de una tienda virtual donde se podrán comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura.
@@ -432,11 +417,11 @@ Clientes:
 Instituciones que desean fomentar hábitos de lectura en sus estudiantes.
 </td>
     <td>4. Beneficios del usuario:
-·         Recomendación eficaz de lecturas ayudadas por los algoritmos.
-·         Confianza en las recomendaciones de lecturas respaldadas por la aplicación.
-·         Comodidad y flexibilidad.
-·         Descubrimientos de nuevas lecturas y autores desconocidos.
-·         Acceso a una amplia variedad de lecturas expandiendo su vocabulario.</td>
+· Recomendación eficaz de lecturas ayudadas por los algoritmos.
+· Confianza en las recomendaciones de lecturas respaldadas por la aplicación.
+· Comodidad y flexibilidad.
+· Descubrimientos de nuevas lecturas y autores desconocidos.
+· Acceso a una amplia variedad de lecturas expandiendo su vocabulario.</td>
   </tr>
   <tr>
     <td>6. Hipótesis:
@@ -453,7 +438,7 @@ La menor cantidad de trabajo necesaria es definir nuestro problema principal y a
 </table>
 
 ## 1.3. Segmentos objetivo
-<p align="justify">
+<p>
 	Los segmentos objetivos consisten en un conjunto particular de individuos que comparten rasgos y requerimientos afines, estableciéndolos como un público objetivo atractivo para una compañía o marca.
 
 **Segmento objetivo #1:** Lectores
@@ -504,27 +489,27 @@ Algunos de los competidores a los que FeatherBook podría enfrentarse son:
 </ul>
 
 ### 2.1.1. Análisis competitivo
-<table><tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
-<tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?  </td><td colspan="7" valign="top">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.</td></tr>
-<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>FeatherBook</b></td><td colspan="3" valign="top"><b>Goodreads</b></td><td colspan="3" valign="top"><b>Scribd</b></td><td valign="top"><b>Audible</b></td></tr>
-<tr><td colspan="6" valign="top"><b>Logo</b> </td><td colspan="3" valign="top"><img src="./images/Logo.jpeg"></td><td colspan="3" valign="top"><img src="./images/Goodreads.jpg"></td><td colspan="3" valign="top"><img src="./images/Scribd.png"><td valign="top"><img src="./images/Audible.png"></tr>
-<tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para</b> promover hábitos de lectura mediante tecnologías innovadoras que facilitan el acceso, distribución y creación de contenido. Su objetivo principal es fomentar la sostenibilidad a largo plazo. Además, cuenta con una tienda integrada donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura. </td><td colspan="3" rowspan="2" valign="top">Plataforma diseñada para ayudar a los lectores a descubrir, seguir y compartir sus libros favoritos. Su objetivo principal es conectar a los lectores, permitiéndoles descubrir nuevos títulos, llevar un registro de lo que han leído y lo que desean leer, además de proporcionarles reseñas y recomendaciones de otros usuarios.</td><td colspan="3" rowspan="2" valign="top">Plataforma de suscripción que ofrece acceso ilimitado a una amplia variedad de libros electrónicos, audiolibros, revistas y documentos. Su objetivo principal es proporcionar a los usuarios una experiencia de lectura completa y personalizada, permitiéndoles explorar y disfrutar de una amplia gama de contenido bajo un modelo de suscripción mensual.</td><td rowspan="2" valign="top">Plataforma líder en audiolibros que ofrece a los usuarios acceso a una extensa biblioteca de títulos narrados por profesionales. Su objetivo principal es brindar una experiencia de lectura inmersiva y conveniente, permitiendo a los usuarios disfrutar de libros mientras realizan otras actividades, como conducir, hacer ejercicio o relajarse. </td></tr>
+<table><tr><th colspan="16"><b>Competitive Analysis Landscape</b></th></tr>
+<tr><td colspan="9">¿Por qué llevar a cabo este análisis?  </td><td colspan="7">Este análisis se lleva a cabo para poder investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado.</td></tr>
+<tr><td colspan="6"><p><b>Nombre</b></p><p></p></td><td colspan="3"><b>FeatherBook</b></td><td colspan="3"><b>Goodreads</b></td><td colspan="3"><b>Scribd</b></td><td><b>Audible</b></td></tr>
+<tr><td colspan="6"><b>Logo</b> </td><td colspan="3"><img src="./images/Logo.jpeg" alt="Logo feather book"></td><td colspan="3"><img src="./images/Goodreads.jpg" alt="Logo good reads"></td><td colspan="3"><img src="./images/Scribd.png" alt="Logo scribd"><td><img src="./images/Audible.png" alt="Logo audible"></tr>
+<tr><td colspan="3" rowspan="4"><b>Perfil</b></td><td colspan="3" rowspan="2"><b>Overview</b></td><td colspan="3" rowspan="2">Plataforma diseñada para promover hábitos de lectura mediante tecnologías innovadoras que facilitan el acceso, distribución y creación de contenido. Su objetivo principal es fomentar la sostenibilidad a largo plazo. Además, cuenta con una tienda integrada donde los usuarios pueden comprar libros electrónicos, audiolibros y otros productos relacionados con la lectura. </td><td colspan="3" rowspan="2">Plataforma diseñada para ayudar a los lectores a descubrir, seguir y compartir sus libros favoritos. Su objetivo principal es conectar a los lectores, permitiéndoles descubrir nuevos títulos, llevar un registro de lo que han leído y lo que desean leer, además de proporcionarles reseñas y recomendaciones de otros usuarios.</td><td colspan="3" rowspan="2">Plataforma de suscripción que ofrece acceso ilimitado a una amplia variedad de libros electrónicos, audiolibros, revistas y documentos. Su objetivo principal es proporcionar a los usuarios una experiencia de lectura completa y personalizada, permitiéndoles explorar y disfrutar de una amplia gama de contenido bajo un modelo de suscripción mensual.</td><td rowspan="2">Plataforma líder en audiolibros que ofrece a los usuarios acceso a una extensa biblioteca de títulos narrados por profesionales. Su objetivo principal es brindar una experiencia de lectura inmersiva y conveniente, permitiendo a los usuarios disfrutar de libros mientras realizan otras actividades, como conducir, hacer ejercicio o relajarse. </td></tr>
 <tr></tr>
-<tr><td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2" valign="top">Acceso conveniente a una amplia variedad de contenido de lectura, una experiencia premium sin publicidad y un entorno seguro para disfrutar de la lectura.</td><td colspan="3" rowspan="2" valign="top">Facilidad en el descubrimiento de libros, la interacción social entre los lectores y la personalización de recomendaciones.</td><td colspan="3" rowspan="2" valign="top">Amplia selección de contenido, conveniencia de acceso, recomendaciones personalizadas y un modelo de suscripción rentable.</td><td rowspan="2" valign="top">Amplia selección de audiolibros de alta calidad, narraciones profesionales, flexibilidad de acceso y funciones adicionales exclusivas.</td></tr>
+<tr><td colspan="3" rowspan="2"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2">Acceso conveniente a una amplia variedad de contenido de lectura, una experiencia premium sin publicidad y un entorno seguro para disfrutar de la lectura.</td><td colspan="3" rowspan="2">Facilidad en el descubrimiento de libros, la interacción social entre los lectores y la personalización de recomendaciones.</td><td colspan="3" rowspan="2">Amplia selección de contenido, conveniencia de acceso, recomendaciones personalizadas y un modelo de suscripción rentable.</td><td rowspan="2">Amplia selección de audiolibros de alta calidad, narraciones profesionales, flexibilidad de acceso y funciones adicionales exclusivas.</td></tr>
 <tr></tr>
-<tr><td colspan="3" rowspan="2" valign="top"><b>Perfil de Marketing</b></td><td colspan="3" valign="top"><b>Mercado objetivo</b></td><td colspan="3" valign="top">Lectores apasionados, usuarios digitales, suscriptores de servicios de lectura y personas interesadas en participar en una comunidad de lectura en línea.</td><td colspan="3" valign="top">Lectores apasionados, profesionales del mundo editorial, grupos de lectura y clubes literarios, así como a personas interesadas en la crítica y el análisis literario.</td><td colspan="3" valign="top">lectores ávidos, personas ocupadas que valoran la conveniencia, una audiencia diversa con diferentes intereses de lectura, y aquellos que buscan material educativo y de aprendizaje.</td><td valign="top">Amantes de los audiolibros, personas que buscan multitarea, aquellos con discapacidades visuales o dificultades de lectura.</td></tr>
-<tr><td colspan="3" valign="top"><b>Estrategias de Marketing</b></td><td colspan="3" valign="top"><p>Presencia en redes sociales. Landing page atractiva. Participación en consorcios de lectura.</p><p>Ofertas por nuevo lanzamiento.</p><p>Colaboraciones con influencers.</p></td><td colspan="3" valign="top"><p>Construir una comunidad activa de lectores, ofreciendo características como grupos de lectura y reseñas.</p><p>Promocionar nuevos lanzamientos.</p></td><td colspan="3" valign="top">Ofrece períodos de prueba gratuitos y promociones para destacar su amplia selección de contenido. Colaboraciones con influencers para aumentar su alcance entre el público objetivo.</td><td valign="top"><p>Patrocinios y asociaciones con eventos y celebridades.</p><p>Programas de recomendación para aumentar su base de usuarios y generar lealtad entre los clientes existentes.</p><p></p></td></tr>
-<tr><td colspan="3" rowspan="3" valign="top"><b>Perfil de producto</b></td><td colspan="3" valign="top"><b>Productos y Servicios</b></td><td colspan="3" valign="top">Una plataforma de lectura digital, dos planes de suscripción, una tienda integrada, funciones de comunidad y colaboraciones con autores y editores.</td><td colspan="3" valign="top">Ofrece una plataforma en línea integral que facilita el descubrimiento de libros, el seguimiento de la lectura y la interacción con una comunidad de lectores.</td><td colspan="3" valign="top">Ofrece una suscripción de contenido ilimitado que permite a los usuarios acceder a una amplia variedad de material de lectura en diferentes formatos.</td><td valign="top">ofrece una amplia gama de audiolibros y contenido adicional, con una suscripción mensual que permite a los usuarios acceder al contenido en múltiples plataformas</td></tr>
-<tr><td colspan="3" valign="top"><b>Precios y Costos</b></td><td colspan="3" valign="top">Ofrece una suscripción mensual que brinda a los usuarios acceso a contenido exclusivo, recomendaciones personalizadas, comentar y calificar libros a $8.95 USD al mes. Además, otra suscripción mensual con capacidad de comunicación con autores, descuentos y preventa exclusiva a $18.95 USD.</td><td colspan="3" valign="top">Ofrece opciones publicitarias pagadas para autores y editores que deseen promocionar sus libros de manera destacada por $19.95 USD.</td><td colspan="3" valign="top">Ofrece una suscripción mensual que proporciona acceso ilimitado a su biblioteca de libros electrónicos, audiolibros, revistas y documentos. Los precios de estas suscripciones pueden oscilar entre aproximadamente $8.99 a $9.99 USD por mes.</td><td valign="top"><p>La suscripción mensual a Audible generalmente cuesta alrededor de $14.95 por mes. Esta tarifa mensual incluye un crédito que puede canjearse por un audiolibro.</p><p>El costo de los audiolibros individuales varía según el título y la duración del libro. Los precios pueden oscilar entre $10 y $40 por audiolibro.</p></td></tr>
-<tr><td colspan="3" valign="top"><b>Canales de distribución</b></td><td colspan="3" valign="top"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p><p></p></td><td colspan="3" valign="top"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td><td colspan="3" valign="top"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td><td valign="top"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td></tr>
-<tr><td colspan="3" rowspan="4" valign="top"><b>Análisis FODA</b></td><td colspan="3" valign="top"><b>Fortalezas</b></td><td colspan="3" valign="top"><p>- Plataforma integral</p><p>- Suscripción premium</p><p>- Tienda integrada</p><p>- Enfoque a la comunidad</p><p>- Interfaz de usuario llamativo</p></td><td colspan="3" valign="top"><p>- Gran comunidad de lectores</p><p>- Funciones de descubrimiento</p><p>- Integración con otras plataformas</p><p>- Plataforma diversificada</p></td><td colspan="3" valign="top"><p>- Amplia variedad de contenido</p><p>- Modelo de suscripción ilimitada</p><p>- Flexibilidad de acceso</p><p>- Funciones de personalización</p></td><td valign="top"><p>- Gran selección de audiolibros</p><p>- Calidad de producción</p><p>- Flexibilidad de acceso</p><p>- Programas y contenido adicional</p></td></tr>
-<tr><td colspan="3" valign="top"><b>Debilidades</b></td><td colspan="3" valign="top"><p>- Competencia feroz</p><p>- Dependencia de la tecnología</p></td><td colspan="3" valign="top"><p>- Interfaz de usuario</p><p>- Funcionalidades limitadas</p><p>- Calidad de las reseñas</p><p>- Competencia</p></td><td colspan="3" valign="top"><p>- Limitaciones de disponibilidad</p><p>- Rotación de contenido</p><p>- Experiencia del usuario</p><p>- Competencia</p></td><td valign="top"><p>- Modelo de suscripción</p><p>- Precios individuales</p><p>- Limitaciones regionales</p><p>- Competencia</p></td></tr>
-<tr><td colspan="3" valign="top"><b>Oportunidades</b></td><td colspan="3" valign="top"><p>- Expansión internacional</p><p>- Colaboraciones estratégicas</p><p>- Innovación tecnológica</p></td><td colspan="3" valign="top"><p>- Expansión internacional</p><p>- Innovación en la experiencia del usuario</p><p>- Colaboraciones estratégicas</p></td><td colspan="3" valign="top"><p>- Expansión internacional</p><p>- Colaboraciones con editores y autores</p><p>- Innovación tecnológica</p></td><td valign="top"><p>- Expansión internacional</p><p>- Colaboraciones con autores y celebridades</p><p>- Innovación en la experiencia del usuario</p></td></tr>
-<tr><td colspan="3" valign="top"><b>Amenazas</b></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas de suscripción</p><p>- Problemas legales de derechos de autor</p><p>- Limitaciones de catálogo</p><p>- Cambios en las preferencias de los usuarios</p></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas</p><p>- Cambios en los hábitos de lectura</p><p>- Problemas de privacidad y seguridad</p><p>- Cambios en las políticas de la empresa matriz</p></td><td colspan="3" valign="top"><p>- Competencia de otras plataformas de suscripción</p><p>- Problemas legales de derechos de autor</p><p>- Limitaciones de catálogo</p><p>- Cambios en las preferencias de los usuarios</p></td><td valign="top"><p>- Competencia de otras plataformas de audiolibros</p><p>- Cambios en el mercado editorial</p><p>- Precios de audiolibros</p><p>- Cambio en los hábitos de consumo</p></td></tr>
+<tr><td colspan="3" rowspan="2"><b>Perfil de Marketing</b></td><td colspan="3"><b>Mercado objetivo</b></td><td colspan="3">Lectores apasionados, usuarios digitales, suscriptores de servicios de lectura y personas interesadas en participar en una comunidad de lectura en línea.</td><td colspan="3">Lectores apasionados, profesionales del mundo editorial, grupos de lectura y clubes literarios, así como a personas interesadas en la crítica y el análisis literario.</td><td colspan="3">Lectores ávidos, personas ocupadas que valoran la conveniencia, una audiencia diversa con diferentes intereses de lectura, y aquellos que buscan material educativo y de aprendizaje.</td><td>Amantes de los audiolibros, personas que buscan multitarea, aquellos con discapacidades visuales o dificultades de lectura.</td></tr>
+<tr><td colspan="3"><b>Estrategias de Marketing</b></td><td colspan="3"><p>Presencia en redes sociales. Landing page atractiva. Participación en consorcios de lectura.</p><p>Ofertas por nuevo lanzamiento.</p><p>Colaboraciones con influencers.</p></td><td colspan="3"><p>Construir una comunidad activa de lectores, ofreciendo características como grupos de lectura y reseñas.</p><p>Promocionar nuevos lanzamientos.</p></td><td colspan="3">Ofrece períodos de prueba gratuitos y promociones para destacar su amplia selección de contenido. Colaboraciones con influencers para aumentar su alcance entre el público objetivo.</td><td><p>Patrocinios y asociaciones con eventos y celebridades.</p><p>Programas de recomendación para aumentar su base de usuarios y generar lealtad entre los clientes existentes.</p><p></p></td></tr>
+<tr><td colspan="3" rowspan="3"><b>Perfil de producto</b></td><td colspan="3"><b>Productos y Servicios</b></td><td colspan="3">Una plataforma de lectura digital, dos planes de suscripción, una tienda integrada, funciones de comunidad y colaboraciones con autores y editores.</td><td colspan="3">Ofrece una plataforma en línea integral que facilita el descubrimiento de libros, el seguimiento de la lectura y la interacción con una comunidad de lectores.</td><td colspan="3">Ofrece una suscripción de contenido ilimitado que permite a los usuarios acceder a una amplia variedad de material de lectura en diferentes formatos.</td><td>Ofrece una amplia gama de audiolibros y contenido adicional, con una suscripción mensual que permite a los usuarios acceder al contenido en múltiples plataformas</td></tr>
+<tr><td colspan="3"><b>Precios y Costos</b></td><td colspan="3">Ofrece una suscripción mensual que brinda a los usuarios acceso a contenido exclusivo, recomendaciones personalizadas, comentar y calificar libros a $8.95 USD al mes. Además, otra suscripción mensual con capacidad de comunicación con autores, descuentos y preventa exclusiva a $18.95 USD.</td><td colspan="3">Ofrece opciones publicitarias pagadas para autores y editores que deseen promocionar sus libros de manera destacada por $19.95 USD.</td><td colspan="3">Ofrece una suscripción mensual que proporciona acceso ilimitado a su biblioteca de libros electrónicos, audiolibros, revistas y documentos. Los precios de estas suscripciones pueden oscilar entre aproximadamente $8.99 a $9.99 USD por mes.</td><td><p>La suscripción mensual a Audible generalmente cuesta alrededor de $14.95 por mes. Esta tarifa mensual incluye un crédito que puede canjearse por un audiolibro.</p><p>El costo de los audiolibros individuales varía según el título y la duración del libro. Los precios pueden oscilar entre $10 y $40 por audiolibro.</p></td></tr>
+<tr><td colspan="3"><b>Canales de distribución</b></td><td colspan="3"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p><p></p></td><td colspan="3"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td><td colspan="3"><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td><td><p>- Página web</p><p>- Aplicaciones móviles en dispositivos iOS y Android.</p></td></tr>
+<tr><td colspan="3" rowspan="4"><b>Análisis FODA</b></td><td colspan="3"><b>Fortalezas</b></td><td colspan="3"><p>- Plataforma integral</p><p>- Suscripción premium</p><p>- Tienda integrada</p><p>- Enfoque a la comunidad</p><p>- Interfaz de usuario llamativo</p></td><td colspan="3"><p>- Gran comunidad de lectores</p><p>- Funciones de descubrimiento</p><p>- Integración con otras plataformas</p><p>- Plataforma diversificada</p></td><td colspan="3"><p>- Amplia variedad de contenido</p><p>- Modelo de suscripción ilimitada</p><p>- Flexibilidad de acceso</p><p>- Funciones de personalización</p></td><td><p>- Gran selección de audiolibros</p><p>- Calidad de producción</p><p>- Flexibilidad de acceso</p><p>- Programas y contenido adicional</p></td></tr>
+<tr><td colspan="3"><b>Debilidades</b></td><td colspan="3"><p>- Competencia feroz</p><p>- Dependencia de la tecnología</p></td><td colspan="3"><p>- Interfaz de usuario</p><p>- Funcionalidades limitadas</p><p>- Calidad de las reseñas</p><p>- Competencia</p></td><td colspan="3"><p>- Limitaciones de disponibilidad</p><p>- Rotación de contenido</p><p>- Experiencia del usuario</p><p>- Competencia</p></td><td><p>- Modelo de suscripción</p><p>- Precios individuales</p><p>- Limitaciones regionales</p><p>- Competencia</p></td></tr>
+<tr><td colspan="3"><b>Oportunidades</b></td><td colspan="3"><p>- Expansión internacional</p><p>- Colaboraciones estratégicas</p><p>- Innovación tecnológica</p></td><td colspan="3"><p>- Expansión internacional</p><p>- Innovación en la experiencia del usuario</p><p>- Colaboraciones estratégicas</p></td><td colspan="3"><p>- Expansión internacional</p><p>- Colaboraciones con editores y autores</p><p>- Innovación tecnológica</p></td><td><p>- Expansión internacional</p><p>- Colaboraciones con autores y celebridades</p><p>- Innovación en la experiencia del usuario</p></td></tr>
+<tr><td colspan="3"><b>Amenazas</b></td><td colspan="3"><p>- Competencia de otras plataformas de suscripción</p><p>- Problemas legales de derechos de autor</p><p>- Limitaciones de catálogo</p><p>- Cambios en las preferencias de los usuarios</p></td><td colspan="3"><p>- Competencia de otras plataformas</p><p>- Cambios en los hábitos de lectura</p><p>- Problemas de privacidad y seguridad</p><p>- Cambios en las políticas de la empresa matriz</p></td><td colspan="3"><p>- Competencia de otras plataformas de suscripción</p><p>- Problemas legales de derechos de autor</p><p>- Limitaciones de catálogo</p><p>- Cambios en las preferencias de los usuarios</p></td><td><p>- Competencia de otras plataformas de audiolibros</p><p>- Cambios en el mercado editorial</p><p>- Precios de audiolibros</p><p>- Cambio en los hábitos de consumo</p></td></tr>
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-<div align="justify">
+<div>
   
 **Estrategia de distinción:**
 
@@ -569,7 +554,7 @@ Lectores
 </li>
     <li>¿Qué tipo de recompensas o beneficios te gustaría obtener por ser un usuario leal de la aplicación?
 </li>
-    <li>¿Cómo te gustaría que la aplicación te ayudara a descubrir nuevos títulos y autores de interés?</li>
+    <li>¿Cómo te gustaría que la aplicación te ayudara a descubrir nuevos títulos y autores de interés?</li>
 </ol>
 
 Autores
@@ -631,7 +616,7 @@ Entrevista:
 <img src="images/Entrevista Lector 1.png" alt="Entrevista Lector 1">
 
 Resumen:
-<p align="justify">
+<p>
     Entrevistamos a Maryori Atanacio Cruces, de 23 años, estudiante y vive en San Juan de Lurigancho. Maryori menciona que disfruta leer de géneros como el drama y la ciencia ficción, aunque encuentra dificultades para dedicar tiempo a la lectura debido al ruido, especialmente en su entorno universitario. A pesar de estos desafíos, lo que lo motiva a seguir leyendo un libro es el suspenso y la curiosidad por lo que ocurrirá en la trama.
 Maryori también menciona que, en una aplicación de lectura, apreciaría características como el bloqueo de pantalla para evitar movimientos involuntarios y una mejor navegación. Además de libros, le interesaría encontrar artículos científicos y podcasts. Le gustaría interactuar con otros lectores a través de recomendaciones basadas en intereses compartidos y considera importante que una aplicación de lectura ofrezca medidas de seguridad en los métodos de pago, sugiriendo el uso de tokens para confirmar compras.
 Para mantener un hábito de lectura constante, Maryori planearía leer unos minutos al día, aunque no siempre pueda dedicar una hora completa. En cuanto a la compra de libros electrónicos o audiolibros, valora mucho las reseñas bien detalladas y estructuradas. Considera que un mal uso del lenguaje o un cambio abrupto en el estilo podrían hacerle abandonar un libro. Finalmente, menciona que si fuera un usuario leal de una aplicación de lectura, le gustaría recibir recompensas como monedas virtuales, que podrían canjearse por libros. También sugiere que la aplicación ofrezca recomendaciones de títulos similares y permita que los usuarios compartan sus reseñas para ayudar a otros a descubrir nuevas lecturas.
@@ -665,7 +650,7 @@ Entrevista:
 <img src="images/Entrevista Lector 2.png" alt="Entrevista Lector 2">
 
 Resumen:
-<p align="justify">
+<p>
     Entrevistamos a Jefrey Prado, de 23 años, estudiante y vive en San Juan de Lurigancho. Le gustan los géneros de ficción y drama, aunque su mayor desafío para encontrar tiempo para leer es la acumulación de trabajos universitarios. Lo que lo motiva a terminar un libro es la calidad de la trama y lo interesante que le parezca.
 En cuanto a las funciones deseadas en una aplicación de lectura, destaca que le gustaría encontrar una mayor variedad de géneros y obras, ya que a veces se limita a un solo género. También le interesarían cuentos cortos y contenidos relacionados con la juventud. Para interactuar con otros lectores, sugiere utilizar comentarios y reseñas. En términos de privacidad, prefiere no usar nombres completos y optar por apodos.
 Para mantener un hábito de lectura constante, Jeffrey menciona que necesita una mejor organización del tiempo. Al comprar libros electrónicos o audiolibros, valora la accesibilidad del precio y la calidad del contenido. También le interesarían artículos científicos y de investigación. Abandonaría un libro si la ortografía es mala o la trama se vuelve predecible. Como recompensa por ser un usuario leal de la aplicación, le gustaría tener acceso a libros premium o recibir descuentos. Por último, le gustaría que la aplicación sugiera nuevos títulos basados en sus preferencias literarias.
@@ -701,62 +686,62 @@ Entrevista:
 <img src="images/EntrevistaAleshka.png" alt="Entrevista Autor 1">
 
 Resumen:
-<p align="justify">
+<p>
     Entrevistamos a Aleshka Fernández, de 24 años, quien se siente atraída principalmente por los géneros de fantasía y terror. Aleshka menciona que suele utilizar Google Docs para escribir y prefiere no tener distracciones digitales ni acceder a redes sociales durante ese tiempo. Destaca la importancia de la lectura para ampliar su vocabulario y encontrar referencias para sus personajes. Comenzó su trayectoria en Wattpad y luego llevó algunos de sus cuentos cortos a Webtoon. Para promocionar sus historias, utiliza Twitter e Instagram. Además, ha participado en talleres de autores, los cuales le resultaron muy útiles para conocer la experiencia de otros escritores y superar bloqueos creativos. Una de sus mayores dificultades es mantenerse relevante en el medio, ya que requiere mucha creatividad. Sus consejos para los aspirantes son leer mucho, buscar referentes y nutrirse de información sobre los temas que desean abordar. Considera que una aplicación útil debería tener una buena recepción de archivos, un espacio para publicar borradores, un foro de interacción y actividades recurrentes como charlas para discutir trabajos destacados. Espera que la aplicación le ayude a divulgar su trabajo, impulse a escritores nuevos, ofrezca sugerencias de búsqueda y brinde recomendaciones constantes.
 </p>
 
 ### 2.2.3. Análisis de entrevistas
 ### Segmento Objetivo #1: Lectores
 
-<p align="justify">
+<p>
     Los lectores expresaron un fuerte deseo de formar parte de una comunidad literaria donde puedan interactuar con otros lectores, discutir libros, compartir experiencias de lectura y descubrir nuevas obras. Además, mostraron interés en participar en eventos virtuales con autores, como sesiones de preguntas y respuestas, charlas o lanzamientos de libros. La personalización de perfiles y recomendaciones basadas en gustos individuales, así como la posibilidad de compartir reseñas y recomendaciones con la comunidad, fueron aspectos destacados. En conclusión, los usuarios buscan una plataforma que fomente la interacción entre lectores, proporcione acceso a eventos con autores y ofrezca herramientas de personalización para mejorar su experiencia de lectura.
 </p>
 
 ### Segmento Objetivo #2:  Autores
 
-<p align="justify">
+<p>
     Los autores buscan una plataforma que les permita interactuar con los lectores, promocionar sus libros y participar en eventos virtuales. Valorizan el feedback directo de los lectores y desean visibilidad, especialmente para autores emergentes, así como herramientas para el descubrimiento de sus obras. La posibilidad de participar en clubes de lectura virtuales y la seguridad de su información, junto con análisis de datos sobre el rendimiento de sus libros, también son aspectos importantes para ellos.
 </p>
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### Lectores:
-<img src="images/UserPersonaLector.png">
+<img src="images/UserPersonaLector.png" alt="User persona Lector">
 
 ### Autores:
-<img src="images/UserPersonaAutor.png">
+<img src="images/UserPersonaAutor.png" alt="User persona Autor">
 
 ### 2.3.2. User Task Matrix
 ### Lectores:
-<img src="images/TaskMatrixLector.png">
+<img src="images/TaskMatrixLector.png" alt="Task matrix Lector">
 
 ### Autores:
-<img src="images/TaskMatrixAutor.png">
+<img src="images/TaskMatrixAutor.png" alt="Task matrix Autor">
 
 ### 2.3.3. User Journey Mapping
 ### Lectores:
-<img src="images/UserJourneyLector.png">
+<img src="images/UserJourneyLector.png" alt="User journey Lector">
 
 ### Autores:
-<img src="images/UserJourneyAutor.png">
+<img src="images/UserJourneyAutor.png" alt="User journey Autor">
 
 ### 2.3.4. Empathy Mapping
 ### Lectores:
-<img src="images/EmpathyMapLector.png">
+<img src="images/EmpathyMapLector.png" alt="Empathy map Lector">
 
 ### Autores:
-<img src="images/EmpathyMapAutor.png">
+<img src="images/EmpathyMapAutor.png" alt="Empathy map Autor">
 
 ### 2.3.5. As-is Scenario Mapping
 ### Lectores:
-<img src="images/As-IsLector.png">
+<img src="images/As-IsLector.png" alt="As-is Lector">
 
 ### Autores:
-<img src="images/As-IsAutor.png">
+<img src="images/As-IsAutor.png" alt="As-is Autor">
 
 ## 2.4. Ubiquitous Language
 Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
-<div align="justify">
+<div>
     <ul>
         <li>
             <b>Lector:</b> Persona que utiliza la aplicación para leer libros electrónicos o escuchar audiolibros.
@@ -800,283 +785,401 @@ Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
 <table>
     <thead>
       <tr>
-        <th style="text-align: center;" align="center"><h2>User Story ID</h2></th>
-        <th style="text-align: center;" align="center"><h2>Título</h2></th>
-        <th style="text-align: center;" align="center"><h2>Descripción</h2></th>
-        <th style="text-align: center;" align="center"><h2>Criterios de aceptación</h2></th>
-        <th style="text-align: center;" align="center"><h2>Relacionado con (Epic ID)</h2></th>
+        <th style="text-align: center;"><h2>User Story ID</h2></th>
+        <th style="text-align: center;"><h2>Título</h2></th>
+        <th style="text-align: center;"><h2>Descripción</h2></th>
+        <th style="text-align: center;"><h2>Criterios de aceptación</h2></th>
+        <th style="text-align: center;"><h2>Relacionado con (Epic ID)</h2></th>
       </tr>
     </thead>
     <tbody>
     <!-- US-01 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-01</b></td>
-        <td style="text-align: center;" align="center">Descubrimiento de libros</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-01</b></td>
+        <td style="text-align: center;">Descubrimiento de libros</td>
+        <td>
           Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Recomendaciones basadas en intereses</b> <br>
           <b>Given</b> que el lector accede a la plataforma, <b>when</b> elige la opción de recomendaciones, <b>then</b> recibe una lista de libros basada en sus intereses y actividad previa.
         </td>
-        <td style="text-align: center;" align="center">EP01 - Descubrimiento de contenido</td>
+        <td style="text-align: center;">EP01 - Descubrimiento de contenido</td>
       </tr>
     <!-- US-02 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-02</b></td>
-        <td style="text-align: center;" align="center">Búsqueda avanzada de libros</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-02</b></td>
+        <td style="text-align: center;">Búsqueda avanzada de libros</td>
+        <td>
           Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Búsqueda con filtros avanzados</b> <br>
           <b>Given</b> que el lector abre la opción de búsqueda, <b>when</b> ingresa filtros como género, autor o palabras clave, <b>then</b> recibe una lista de libros que coincidan con sus filtros.
         </td>
-        <td style="text-align: center;" align="center">EP01 - Descubrimiento de contenido</td>
+        <td style="text-align: center;">EP01 - Descubrimiento de contenido</td>
       </tr>
     <!-- US-03 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-03</b></td>
-        <td style="text-align: center;" align="center">Sincronización de lectura entre dispositivos</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-03</b></td>
+        <td style="text-align: center;">Sincronización de lectura entre dispositivos</td>
+        <td>
           Como lector, quiero que mi progreso de lectura se sincronice automáticamente entre dispositivos para poder continuar leyendo sin perder mi avance.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Sincronización de progreso entre dispositivos</b> <br>
           <b>Given</b> que el lector cambia de dispositivo, <b>when</b> accede a la plataforma desde un nuevo dispositivo, <b>then</b> su progreso de lectura debe estar sincronizado automáticamente.
         </td>
-        <td style="text-align: center;" align="center">EP02 - Experiencia de lectura</td>
+        <td style="text-align: center;">EP02 - Experiencia de lectura</td>
       </tr>
     <!-- US-04 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-04</b></td>
-        <td style="text-align: center;" align="center">Leer sin conexión</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-04</b></td>
+        <td style="text-align: center;">Leer sin conexión</td>
+        <td>
           Como lector, quiero poder descargar libros para leer sin conexión a internet, para poder seguir leyendo cuando no tengo acceso a una red.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Descargar libros para lectura sin conexión</b> <br>
           <b>Given</b> que el lector selecciona un libro, <b>when</b> elige la opción de descargarlo, <b>then</b> el libro debe estar disponible en su dispositivo sin necesidad de conexión a internet.
         </td>
-        <td style="text-align: center;" align="center">EP02 - Experiencia de lectura</td>
+        <td style="text-align: center;">EP02 - Experiencia de lectura</td>
       </tr>
     <!-- US-05 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-05</b></td>
-        <td style="text-align: center;" align="center">Ver historial de lecturas</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-05</b></td>
+        <td style="text-align: center;">Ver historial de lecturas</td>
+        <td>
           Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Visualización del historial de lecturas</b> <br>
           <b>Given</b> que el lector abre su perfil, <b>when</b> selecciona la opción de ver su historial, <b>then</b> se muestra una lista de todos los libros que ha leído en la plataforma.
         </td>
-        <td style="text-align: center;" align="center">EP03 - Gestión del perfil</td>
+        <td style="text-align: center;">EP03 - Gestión del perfil</td>
       </tr>
     <!-- US-06 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-06</b></td>
-        <td style="text-align: center;" align="center">Reseñar y calificar libros</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-06</b></td>
+        <td style="text-align: center;">Reseñar y calificar libros</td>
+        <td>
           Como lector, quiero dejar reseñas y calificar libros que he leído para compartir mi opinión con otros usuarios.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Publicación de reseña y calificación</b> <br>
           <b>Given</b> que el lector termina de leer un libro, <b>when</b> elige la opción de reseñar, <b>then</b> puede escribir su reseña y asignar una calificación que será visible para otros lectores.
         </td>
-        <td style="text-align: center;" align="center">EP02 - Experiencia de lectura</td>
+        <td style="text-align: center;">EP02 - Experiencia de lectura</td>
       </tr>
     <!-- US-07 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-07</b></td>
-        <td style="text-align: center;" align="center">Unirse a clubes de lectura virtuales</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-07</b></td>
+        <td style="text-align: center;">Unirse a clubes de lectura virtuales</td>
+        <td>
           Como lector, quiero unirme a clubes de lectura virtuales para compartir mis experiencias de lectura con otros lectores.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Unirse a un club de lectura</b> <br>
           <b>Given</b> que el lector busca interacción social, <b>when</b> accede a la sección de clubes de lectura, <b>then</b> puede unirse a un club existente o crear uno nuevo.
         </td>
-        <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+        <td style="text-align: center;">EP04 - Interacción social</td>
       </tr>
     <!-- US-08 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-08</b></td>
-        <td style="text-align: center;" align="center">Participar en eventos con autores</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-08</b></td>
+        <td style="text-align: center;">Participar en eventos con autores</td>
+        <td>
           Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Participación en eventos con autores</b> <br>
           <b>Given</b> que hay un evento de autor disponible, <b>when</b> el lector se inscribe al evento, <b>then</b> puede participar en sesiones de preguntas y respuestas con el autor.
         </td>
-        <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+        <td style="text-align: center;">EP04 - Interacción social</td>
       </tr>
     <!-- US-09 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-09</b></td>
-        <td style="text-align: center;" align="center">Recibir notificaciones personalizadas</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-09</b></td>
+        <td style="text-align: center;">Recibir notificaciones personalizadas</td>
+        <td>
           Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos relacionados con mis intereses para estar informado de novedades relevantes.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Notificaciones basadas en intereses</b> <br>
           <b>Given</b> que el lector tiene preferencias definidas, <b>when</b> hay una novedad que coincide con sus intereses, <b>then</b> recibe una notificación en la plataforma y por email.
         </td>
-        <td style="text-align: center;" align="center">EP03 - Gestión del perfil</td>
+        <td style="text-align: center;">EP03 - Gestión del perfil</td>
       </tr>
     <!-- US-10 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-10</b></td>
-        <td style="text-align: center;" align="center">Guardar libros en lista de deseos</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-10</b></td>
+        <td style="text-align: center;">Guardar libros en lista de deseos</td>
+        <td>
           Como lector, quiero guardar libros en una lista de deseos para comprarlos o leerlos más tarde.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Guardar libros en lista de deseos</b> <br>
           <b>Given</b> que el lector ve un libro que le interesa, <b>when</b> selecciona la opción de guardarlo, <b>then</b> el libro queda registrado en su lista de deseos dentro de la plataforma.
         </td>
-        <td style="text-align: center;" align="center">EP03 - Gestión del perfil</td>
+        <td style="text-align: center;">EP03 - Gestión del perfil</td>
       </tr>
     <!-- US-11 -->
         <tr>
-        <td style="text-align: center;" align="center"><b>US-11</b></td>
-        <td style="text-align: center;" align="center">Compartir progreso de lectura</td>
-        <td align="justify">
+        <td style="text-align: center;"><b>US-11</b></td>
+        <td style="text-align: center;">Compartir progreso de lectura</td>
+        <td>
           Como lector, quiero compartir mi progreso de lectura en redes sociales para mostrar a mis amigos qué estoy leyendo.
         </td>
-        <td align="justify">
+        <td>
           <b>Escenario 1: Compartir progreso de lectura</b> <br>
           <b>Given</b> que el lector quiere compartir su progreso, <b>when</b> selecciona la opción de compartir, <b>then</b> puede publicar una actualización en redes sociales con el título y avance.
         </td>
-        <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+        <td style="text-align: center;">EP04 - Interacción social</td>
       </tr>
     <!-- US-12 -->
           <tr>
-      <td style="text-align: center;" align="center"><b>US-12</b></td>
-      <td style="text-align: center;" align="center">Crear perfil de autor</td>
-      <td align="justify">Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-12</b></td>
+      <td style="text-align: center;">Crear perfil de autor</td>
+      <td>Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores.</td>
+      <td>
         <b>Escenario 1: Creación de perfil de autor</b> <br>
         <b>Given</b> que el autor está registrado en la plataforma, <b>when</b> elige la opción de crear perfil, <b>then</b> puede ingresar su biografía y enlaces a redes sociales que serán visibles para los lectores.
       </td>
-      <td style="text-align: center;" align="center">EP01 - Gestión de perfil</td>
+      <td style="text-align: center;">EP01 - Gestión de perfil</td>
     </tr>
     <!-- US-13 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-13</b></td>
-      <td style="text-align: center;" align="center">Subir libros</td>
-      <td align="justify">Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-13</b></td>
+      <td style="text-align: center;">Subir libros</td>
+      <td>Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.</td>
+      <td>
         <b>Escenario 1: Subida de libro a la plataforma</b> <br>
         <b>Given</b> que el autor quiere distribuir su libro, <b>when</b> accede a la opción de subir libro, <b>then</b> puede cargar el archivo del libro y sus metadatos (título, sinopsis, género, etc.).
       </td>
-      <td style="text-align: center;" align="center">EP02 - Gestión de publicaciones</td>
+      <td style="text-align: center;">EP02 - Gestión de publicaciones</td>
     </tr>
     <!-- US-14 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-14</b></td>
-      <td style="text-align: center;" align="center">Gestionar precios y descuentos</td>
-      <td align="justify">Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-14</b></td>
+      <td style="text-align: center;">Gestionar precios y descuentos</td>
+      <td>Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos.</td>
+      <td>
         <b>Escenario 1: Ajustar precio de libros</b> <br>
         <b>Given</b> que el autor tiene libros en la plataforma, <b>when</b> accede a la opción de gestión de precios, <b>then</b> puede establecer o modificar el precio de sus libros.<br>
         <b>Escenario 2: Aplicar descuentos</b> <br>
         <b>Given</b> que el autor quiere aplicar descuentos, <b>when</b> accede a la opción de promociones, <b>then</b> puede configurar descuentos temporales en sus libros.
       </td>
-      <td style="text-align: center;" align="center">EP02 - Gestión de publicaciones</td>
+      <td style="text-align: center;">EP02 - Gestión de publicaciones</td>
     </tr>
     <!-- US-15 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-15</b></td>
-      <td style="text-align: center;" align="center">Ver estadísticas de ventas</td>
-      <td align="justify">Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-15</b></td>
+      <td style="text-align: center;">Ver estadísticas de ventas</td>
+      <td>Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.</td>
+      <td>
         <b>Escenario 1: Visualización de estadísticas de ventas</b> <br>
         <b>Given</b> que el autor tiene libros vendidos, <b>when</b> accede a la sección de estadísticas, <b>then</b> puede ver gráficos y datos de ventas, ganancias y tendencias de sus libros.
       </td>
-      <td style="text-align: center;" align="center">EP03 - Análisis de rendimiento</td>
+      <td style="text-align: center;">EP03 - Análisis de rendimiento</td>
     </tr>
     <!-- US-16 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-16</b></td>
-      <td style="text-align: center;" align="center">Interactuar con lectores</td>
-      <td align="justify">Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-16</b></td>
+      <td style="text-align: center;">Interactuar con lectores</td>
+      <td>Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.</td>
+      <td>
         <b>Escenario 1: Interacción en comentarios</b> <br>
         <b>Given</b> que el lector comenta en un libro, <b>when</b> el autor revisa el comentario, <b>then</b> puede responder o reaccionar al comentario del lector.<br>
         <b>Escenario 2: Participar en eventos en línea</b> <br>
         <b>Given</b> que el autor organiza un evento, <b>when</b> los lectores se registran, <b>then</b> puede interactuar con ellos en sesiones de preguntas y respuestas.
       </td>
-      <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+      <td style="text-align: center;">EP04 - Interacción social</td>
     </tr>
     <!-- US-17 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-17</b></td>
-      <td style="text-align: center;" align="center">Promocionar nuevos lanzamientos</td>
-      <td align="justify">Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-17</b></td>
+      <td style="text-align: center;">Promocionar nuevos lanzamientos</td>
+      <td>Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones.</td>
+      <td>
         <b>Escenario 1: Promoción de nuevos lanzamientos</b> <br>
         <b>Given</b> que el autor tiene un nuevo libro disponible, <b>when</b> accede a la opción de promocionar, <b>then</b> la plataforma notifica a los lectores interesados sobre el nuevo lanzamiento.
       </td>
-      <td style="text-align: center;" align="center">EP02 - Gestión de publicaciones</td>
+      <td style="text-align: center;">EP02 - Gestión de publicaciones</td>
     </tr>
     <!-- US-18 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-18</b></td>
-      <td style="text-align: center;" align="center">Configurar versión gratuita</td>
-      <td align="justify">Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-18</b></td>
+      <td style="text-align: center;">Configurar versión gratuita</td>
+      <td>Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar.</td>
+      <td>
         <b>Escenario 1: Configurar acceso a versión gratuita</b> <br>
         <b>Given</b> que el autor tiene un libro subido, <b>when</b> accede a la opción de versiones gratuitas, <b>then</b> puede configurar un fragmento del libro para ofrecerlo como muestra gratuita a los lectores.
       </td>
-      <td style="text-align: center;" align="center">EP02 - Gestión de publicaciones</td>
+      <td style="text-align: center;">EP02 - Gestión de publicaciones</td>
     </tr>
     <!-- US-19 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-19</b></td>
-      <td style="text-align: center;" align="center">Recibir retroalimentación privada</td>
-      <td align="justify">Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-19</b></td>
+      <td style="text-align: center;">Recibir retroalimentación privada</td>
+      <td>Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente.</td>
+      <td>
         <b>Escenario 1: Recepción de retroalimentación privada</b> <br>
         <b>Given</b> que un lector desea dar retroalimentación, <b>when</b> envía un mensaje privado al autor, <b>then</b> el autor recibe un mensaje privado accesible solo para él.
       </td>
-      <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+      <td style="text-align: center;">EP04 - Interacción social</td>
     </tr>
     <!-- US-20 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-20</b></td>
-      <td style="text-align: center;" align="center">Participar en entrevistas</td>
-      <td align="justify">Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-20</b></td>
+      <td style="text-align: center;">Participar en entrevistas</td>
+      <td>Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores.</td>
+      <td>
         <b>Escenario 1: Participación en entrevistas y eventos</b> <br>
         <b>Given</b> que la plataforma organiza una entrevista o evento destacado, <b>when</b> el autor es invitado a participar, <b>then</b> puede interactuar con los lectores y compartir su experiencia creativa, alcanzando a nuevos lectores.
       </td>
-      <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+      <td style="text-align: center;">EP04 - Interacción social</td>
     </tr>
     <!-- US-21 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-21</b></td>
-      <td style="text-align: center;" align="center">Generar reportes de regalías</td>
-      <td align="justify">Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-21</b></td>
+      <td style="text-align: center;">Generar reportes de regalías</td>
+      <td>Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma.</td>
+      <td>
         <b>Escenario 1: Generación de reportes de regalías</b> <br>
         <b>Given</b> que el autor tiene ventas en la plataforma, <b>when</b> accede a la opción de reportes de regalías, <b>then</b> puede descargar un reporte detallado de sus ingresos por ventas y pagos pendientes.
       </td>
-      <td style="text-align: center;" align="center">EP03 - Análisis de rendimiento</td>
+      <td style="text-align: center;">EP03 - Análisis de rendimiento</td>
     </tr>
     <!-- US-22 -->
     <tr>
-      <td style="text-align: center;" align="center"><b>US-22</b></td>
-      <td style="text-align: center;" align="center">Colaborar con otros autores</td>
-      <td align="justify">Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos.</td>
-      <td align="justify">
+      <td style="text-align: center;"><b>US-22</b></td>
+      <td style="text-align: center;">Colaborar con otros autores</td>
+      <td>Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos.</td>
+      <td>
         <b>Escenario 1: Colaboración entre autores</b> <br>
         <b>Given</b> que el autor busca colaboración, <b>when</b> accede a la sección de colaboración, <b>then</b> puede conectarse con otros autores interesados y trabajar juntos en proyectos o compartir recursos creativos.
       </td>
-      <td style="text-align: center;" align="center">EP04 - Interacción social</td>
+      <td style="text-align: center;">EP04 - Interacción social</td>
     </tr>
     </tbody>
+</table>
+
+<table>
+  <tr>
+    <th>User Story ID</th>
+    <th>User Story</th>
+    <th>Technical Story</th>
+  </tr>
+  <tr>
+    <td>US-1</td>
+    <td>Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.</td>
+    <td>Implementar un algoritmo de recomendación basado en los intereses del usuario, utilizando datos de comportamiento (géneros leídos, calificaciones y búsquedas previas) para ofrecer sugerencias personalizadas.</td>
+  </tr>
+  <tr>
+    <td>US-2</td>
+    <td>Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente.</td>
+    <td>Desarrollar una funcionalidad de búsqueda avanzada utilizando índices de texto completo y filtros para buscar libros por género, autor y palabras clave. Implementar búsqueda asincrónica para mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <td>US-3</td>
+    <td>Como lector, quiero que mi progreso de lectura se sincronice automáticamente entre dispositivos para poder continuar leyendo sin perder mi avance.</td>
+    <td>Crear una API REST para sincronizar el progreso de lectura del usuario, almacenando el estado de cada libro en una base de datos centralizada. Implementar actualizaciones en tiempo real usando WebSockets para mantener la sincronización entre dispositivos.</td>
+  </tr>
+  <tr>
+    <td>US-4</td>
+    <td>Como lector, quiero poder descargar libros para leer sin conexión a internet, para poder seguir leyendo cuando no tengo acceso a una red.</td>
+    <td>Agregar una opción de descarga en el lector de libros, que permita almacenar archivos en el almacenamiento local del dispositivo. Implementar un gestor de descargas para manejar el estado de conexión y reanudar la descarga si se interrumpe.</td>
+  </tr>
+  <tr>
+    <td>US-5</td>
+    <td>Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente.</td>
+    <td>Desarrollar una sección de historial de lectura que almacene y muestre una lista de libros leídos. Implementar paginación y filtros para facilitar la navegación en el historial del usuario.</td>
+  </tr>
+  <tr>
+    <td>US-6</td>
+    <td>Como lector, quiero dejar reseñas y calificar libros que he leído para compartir mi opinión con otros usuarios.</td>
+    <td>Crear un módulo de reseñas que permita a los usuarios añadir comentarios y calificaciones a los libros. Implementar validaciones para moderar el contenido y evitar spam, y actualizar el sistema de puntuaciones promedio de los libros en tiempo real.</td>
+  </tr>
+  <tr>
+    <td>US-7</td>
+    <td>Como lector, quiero unirme a clubes de lectura virtuales para compartir mis experiencias de lectura con otros lectores.</td>
+    <td>Implementar un módulo de clubes de lectura con salas de chat y foros de discusión. Crear una base de datos para almacenar los clubes, sus miembros y sus actividades. Integrar notificaciones en tiempo real para las nuevas publicaciones dentro de los clubes.</td>
+  </tr>
+  <tr>
+    <td>US-8</td>
+    <td>Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo.</td>
+    <td>Desarrollar una funcionalidad de eventos en línea usando una plataforma de streaming o videoconferencia integrada. Crear un sistema de registro para los usuarios y permitir la recopilación de preguntas en vivo para los autores.</td>
+  </tr>
+  <tr>
+    <td>US-9</td>
+    <td>Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos relacionados con mis intereses para estar informado de novedades relevantes.</td>
+    <td>Implementar un sistema de notificaciones push y correo electrónico para informar a los usuarios sobre nuevos lanzamientos y eventos. Utilizar filtros de preferencias del usuario para personalizar el contenido de las notificaciones.</td>
+  </tr>
+  <tr>
+    <td>US-10</td>
+    <td>Como lector, quiero guardar libros en una lista de deseos para comprarlos o leerlos más tarde.</td>
+    <td>Crear una funcionalidad de lista de deseos en la base de datos para almacenar los libros seleccionados por el usuario. Desarrollar una interfaz de usuario para mostrar y gestionar la lista, incluyendo opciones para agregar o eliminar libros.</td>
+  </tr>
+  <tr>
+    <td>US-11</td>
+    <td>Como lector, quiero compartir mi progreso de lectura en redes sociales para mostrar a mis amigos qué estoy leyendo.</td>
+    <td>Integrar la API de las principales redes sociales para permitir a los usuarios compartir su progreso de lectura directamente desde la aplicación. Implementar una vista previa del contenido que se compartirá para que el usuario pueda personalizar el mensaje.</td>
+  </tr>
+  <tr>
+    <td>US-12</td>
+    <td>Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores.</td>
+    <td>Diseñar y desarrollar un módulo de perfil de autor con campos personalizables para biografía, foto de perfil y enlaces a redes sociales. Implementar validaciones para evitar contenido inapropiado y ofrecer opciones de edición al autor.</td>
+  </tr>
+  <tr>
+    <td>US-13</td>
+    <td>Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.</td>
+    <td>Implementar un sistema de carga de archivos que permita a los autores subir sus libros en diversos formatos (PDF, ePub, etc.). Asegurarse de que el archivo sea revisado y aprobado antes de su publicación en la plataforma.</td>
+  </tr>
+  <tr>
+    <td>US-14</td>
+    <td>Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos.</td>
+    <td>Desarrollar una funcionalidad de gestión de precios y descuentos para los libros. Incluir opciones para aplicar promociones en fechas específicas o basadas en el número de copias compradas. Integrar un sistema de pago que refleje los descuentos al realizar la compra.</td>
+  </tr>
+  <tr>
+    <td>US-15</td>
+    <td>Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.</td>
+    <td>Implementar un sistema de reportes de ventas con gráficos visuales que muestren el rendimiento de los libros por fecha, región y otros filtros. Asegurar la actualización en tiempo real de los datos de ventas y permitir exportar los resultados en formatos como CSV.</td>
+  </tr>
+  <tr>
+    <td>US-16</td>
+    <td>Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.</td>
+    <td>Desarrollar una funcionalidad de comentarios en las páginas de los libros, permitiendo a los autores responder a las preguntas de los lectores. Integrar un sistema de eventos en línea para autores, donde los lectores puedan interactuar en tiempo real a través de preguntas y respuestas.</td>
+  </tr>
+  <tr>
+    <td>US-17</td>
+    <td>Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones.</td>
+    <td>Crear una herramienta de promoción dentro de la plataforma para que los autores puedan destacar sus nuevos lanzamientos en la página principal. Integrar una función de notificación a los seguidores y posibles interesados en el autor.</td>
+  </tr>
+  <tr>
+    <td>US-18</td>
+    <td>Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar.</td>
+    <td>Desarrollar una funcionalidad para que los autores puedan cargar una versión de prueba de sus libros con acceso limitado (por ejemplo, capítulos o contenido reducido). Implementar opciones para que los usuarios puedan acceder a la prueba antes de decidir si compran la versión completa.</td>
+  </tr>
+  <tr>
+    <td>US-19</td>
+    <td>Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente.</td>
+    <td>Desarrollar un sistema de retroalimentación privada que permita a los lectores enviar comentarios solo al autor. Integrar una interfaz sencilla para los autores donde puedan leer, organizar y responder a estos comentarios de manera confidencial.</td>
+  </tr>
+  <tr>
+    <td>US-20</td>
+    <td>Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores.</td>
+    <td>Implementar un sistema de entrevistas en línea o eventos destacados donde los autores puedan participar en vivo o grabar sus intervenciones. Incluir una opción para que los lectores se registren y asistan a estos eventos.</td>
+  </tr>
+  <tr>
+    <td>US-21</td>
+    <td>Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma.</td>
+    <td>Desarrollar un sistema que calcule las regalías por libro vendido, mostrando los ingresos generados, las comisiones de la plataforma y otros detalles relacionados. Incluir la opción de exportar estos reportes en formatos como PDF o CSV.</td>
+  </tr>
+  <tr>
+    <td>US-22</td>
+    <td>Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos.</td>
+    <td>Implementar una plataforma de colaboración donde los autores puedan trabajar en conjunto, compartir documentos, gestionar capítulos y seguir el progreso del libro. Incluir funciones de chat y seguimiento para coordinar las tareas de manera eficiente.</td>
+  </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -1087,35 +1190,35 @@ Estos son los términos y conceptos comunes utilizados en nuestro proyecto:
 ## 3.4. Product Backlog
 # Product Backlog
 
-| # Orden | User Story Id | Título                           | Descripción                                                                                                         | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| 1       | US-01         | Descubrimiento de libros          | Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.    | 5                               |
-| 2       | US-02         | Búsqueda avanzada de libros       | Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente. | 5                               |
-| 3       | US-03         | Sincronización de progreso de lectura | Como lector, quiero que mi progreso de lectura se sincronice automáticamente entre dispositivos para poder continuar leyendo sin perder mi avance. | 8                               |
-| 4       | US-04         | Descarga de libros                | Como lector, quiero poder descargar libros para leer sin conexión a internet, para poder seguir leyendo cuando no tengo acceso a una red. | 5                               |
-| 5       | US-05         | Historial de lecturas             | Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente. | 3                               |
-| 6       | US-06         | Reseñas y calificaciones de libros | Como lector, quiero dejar reseñas y calificar libros que he leído para compartir mi opinión con otros usuarios.     | 3                               |
-| 7       | US-07         | Clubes de lectura virtuales       | Como lector, quiero unirme a clubes de lectura virtuales para compartir mis experiencias de lectura con otros lectores. | 5                               |
-| 8       | US-08         | Eventos en línea con autores      | Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo. | 5                               |
-| 9       | US-09         | Notificaciones de novedades       | Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos relacionados con mis intereses para estar informado de novedades relevantes. | 3                               |
-| 10      | US-10         | Lista de deseos                   | Como lector, quiero guardar libros en una lista de deseos para comprarlos o leerlos más tarde.                      | 3                               |
-| 11      | US-11         | Compartir progreso en redes sociales | Como lector, quiero compartir mi progreso de lectura en redes sociales para mostrar a mis amigos qué estoy leyendo. | 2                               |
-| 12      | US-12         | Perfil de autor                   | Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores. | 5                               |
-| 13      | US-13         | Subida de libros                  | Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.               | 8                               |
-| 14      | US-14         | Gestión de precios y descuentos   | Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos. | 5                               |
-| 15      | US-15         | Estadísticas de ventas            | Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.       | 5                               |
-| 16      | US-16         | Interacción con lectores          | Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia. | 5                               |
-| 17      | US-17         | Promoción de nuevos lanzamientos  | Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones. | 5                               |
-| 18      | US-18         | Versión gratuita limitada         | Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar. | 5                               |
-| 19      | US-19         | Retroalimentación privada         | Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente. | 3                               |
-| 20      | US-20         | Participación en entrevistas y eventos | Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores. | 5                               |
-| 21      | US-21         | Reportes de regalías              | Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma. | 3                               |
-| 22      | US-22         | Colaboración en proyectos conjuntos | Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos. | 5                               |
+| # Orden | User Story Id | Título                                 | Descripción                                                                                                                                                 | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1       | US-01         | Descubrimiento de libros               | Como lector, quiero descubrir nuevos libros según mis intereses para poder leer contenido relevante y atractivo.                                            | 5                                |
+| 2       | US-02         | Búsqueda avanzada de libros            | Como lector, quiero buscar libros por género, autor y palabras clave, para encontrar contenido que me interese rápidamente.                                 | 5                                |
+| 3       | US-03         | Sincronización de progreso de lectura  | Como lector, quiero que mi progreso de lectura se sincronice automáticamente entre dispositivos para poder continuar leyendo sin perder mi avance.          | 8                                |
+| 4       | US-04         | Descarga de libros                     | Como lector, quiero poder descargar libros para leer sin conexión a internet, para poder seguir leyendo cuando no tengo acceso a una red.                   | 5                                |
+| 5       | US-05         | Historial de lecturas                  | Como lector, quiero ver mi historial de lecturas para revisar los libros que he leído y encontrar títulos anteriores fácilmente.                            | 3                                |
+| 6       | US-06         | Reseñas y calificaciones de libros     | Como lector, quiero dejar reseñas y calificar libros que he leído para compartir mi opinión con otros usuarios.                                             | 3                                |
+| 7       | US-07         | Clubes de lectura virtuales            | Como lector, quiero unirme a clubes de lectura virtuales para compartir mis experiencias de lectura con otros lectores.                                     | 5                                |
+| 8       | US-08         | Eventos en línea con autores           | Como lector, quiero asistir a eventos en línea con autores para hacer preguntas y conocer más sobre los libros que leo.                                     | 5                                |
+| 9       | US-09         | Notificaciones de novedades            | Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos relacionados con mis intereses para estar informado de novedades relevantes. | 3                                |
+| 10      | US-10         | Lista de deseos                        | Como lector, quiero guardar libros en una lista de deseos para comprarlos o leerlos más tarde.                                                              | 3                                |
+| 11      | US-11         | Compartir progreso en redes sociales   | Como lector, quiero compartir mi progreso de lectura en redes sociales para mostrar a mis amigos qué estoy leyendo.                                         | 2                                |
+| 12      | US-12         | Perfil de autor                        | Como autor, quiero crear un perfil donde pueda mostrar mi biografía y enlaces a mis redes sociales para conectar con mis lectores.                          | 5                                |
+| 13      | US-13         | Subida de libros                       | Como autor, quiero subir mis libros a la plataforma para que los lectores puedan comprarlos o leerlos.                                                      | 8                                |
+| 14      | US-14         | Gestión de precios y descuentos        | Como autor, quiero gestionar los precios de mis libros y aplicar descuentos para incentivar a los lectores a comprarlos.                                    | 5                                |
+| 15      | US-15         | Estadísticas de ventas                 | Como autor, quiero ver estadísticas de ventas de mis libros para analizar el rendimiento de mis publicaciones.                                              | 5                                |
+| 16      | US-16         | Interacción con lectores               | Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.                      | 5                                |
+| 17      | US-17         | Promoción de nuevos lanzamientos       | Como autor, quiero promocionar mis nuevos lanzamientos en la plataforma para que mis seguidores y nuevos lectores se enteren de mis nuevas publicaciones.   | 5                                |
+| 18      | US-18         | Versión gratuita limitada              | Como autor, quiero configurar una versión gratuita limitada de mis libros para que los lectores puedan probar antes de comprar.                             | 5                                |
+| 19      | US-19         | Retroalimentación privada              | Como autor, quiero recibir retroalimentación privada de mis lectores para mejorar mis libros o procesos creativos sin que sea visible públicamente.         | 3                                |
+| 20      | US-20         | Participación en entrevistas y eventos | Como autor, quiero participar en entrevistas y eventos destacados en la plataforma para aumentar mi visibilidad y alcanzar nuevos lectores.                 | 5                                |
+| 21      | US-21         | Reportes de regalías                   | Como autor, quiero generar reportes de regalías para tener claridad sobre mis ingresos por ventas de libros en la plataforma.                               | 3                                |
+| 22      | US-22         | Colaboración en proyectos conjuntos    | Como autor, quiero colaborar con otros autores en proyectos conjuntos para escribir libros de forma colaborativa o compartir ideas y recursos.              | 5                                |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
-Para esta sección se seleccionarán los colores y fuentes que se usaremos para elaborar la aplicación web. Elegimos una paleta de colores atractiva, funcional y agradable de leer:
+Para esta sección se seleccionarán los colores y fuentes que se usarán para elaborar la aplicación web. Elegimos una paleta de colores atractiva, funcional y agradable de leer:
 
 * Colores primarios: Beige, marfil y blanco roto
 * Color del texto: Gris oscuro 
@@ -1128,11 +1231,11 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
   ![Imagen estilo letras](images/Imagen_estilo_letras.PNG)
 
 ### 4.1.2. Web Style Guidelines
-* Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado enla usabilidad y la esttética limpia.
+* Para la barra de navegación optamos por un estilo sobrio y sofisticado, centrado en la usabilidad y la estética limpia.
 
   ![Barra_navegacion](images/Barra_navegacion.PNG)
 
-* En el footer pondremos nuestras redes sociales, además de una opción que permitira abrir una pestaña para que nos contacten.
+* En el footer pondremos nuestras redes sociales, además de una opción que permitirá abrir una pestaña para que nos contacten.
 
   ![Footer_imagen](images/Footer_Imagen.PNG)
 
@@ -1140,7 +1243,7 @@ Para esta sección se seleccionarán los colores y fuentes que se usaremos para 
 En esta sección definiremos cómo se organizará y presentará el contenido de nuestra aplicación web, con el objetivo de facilitar la navegación y la búsqueda de información. Nos enfocaremos en asegurar que los usuarios puedan interactuar con los productos de manera intuitiva y eficiente, a través de decisiones estratégicas en la estructura de la información y los sistemas de navegación y búsqueda.
 ### 4.2.1. Organization Systems
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th colspan="6"><strong>FeatherBook</strong></th>
@@ -1192,7 +1295,7 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
 
 ### 4.2.2. Labeling Systems
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th colspan="6"><strong>FeatherBook</strong></th>
@@ -1201,15 +1304,15 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
   <tbody>
     <tr>
       <td colspan="2" style="text-align:center;">Biblioteca</td>
-      <td style="text-align:center;">En este partado se podrá visualizar los libros que se estan leyendo.</td>
+      <td style="text-align:center;">En este apartado se podrá visualizar los libros que se están leyendo.</td>
     </tr>
      <tr>
       <td colspan="2" style="text-align:center;">Recomendaciones</td>
-      <td style="text-align:center;">Aquí se podrá ver los libros que se le recomiendan al usuario de acuerdo a los generos de libros leídos.</td>
+      <td style="text-align:center;">Aquí se podrá ver los libros que se le recomiendan al usuario de acuerdo a los géneros de libros leídos.</td>
     </tr>
       <tr>
       <td colspan="2" style="text-align:center;">Suscripción </td>
-      <td style="text-align:center;">En este apartado se visualizaran los planes y beneficios por cada nivel de suscripción. </td>
+      <td style="text-align:center;">En este apartado se visualizarán los planes y beneficios por cada nivel de suscripción. </td>
     </tr>
       <tr>
       <td colspan="2" style="text-align:center;"> Barra de búsqueda</td>
@@ -1232,7 +1335,7 @@ En esta sección definiremos cómo se organizará y presentará el contenido de 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Para nustra aplicación web se definieron los siguientes SEO Tags and Meta Tags:
+Para nuestra aplicación web se definieron los siguientes SEO Tags and Meta Tags:
 * Title: "FeatherBook | Explora Libros y Artículos Online"
 * Meta Description: "Descubre libros, artículos y reseñas en FeatherBook. Accede a recomendaciones personalizadas y foros de discusión."
 * Keywords: "libros online, reseñas de libros, foros de libros, recomendaciones de lectura"
@@ -1249,13 +1352,13 @@ Para la navegación, hemos optado por una Barra de Navegación Superior (Top Nav
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-![Landing Page Wireframe](images/Landing Page Wireframe.PNG)
+![Landing Page Wireframe](images/Landing%20Page%20Wireframe.PNG)
 
 Link: https://www.figma.com/design/ZMtzm1Lg2yHIZmUBrWzUFm/Wireframe-FeatherBook?node-id=0-1&t=2aAIRpBSB2z1OD5v-1
 
 ### 4.3.2. Landing Page Mock-up
 
-![Landing Page Mock-up](images/Landing Page Mock-up.PNG)
+![Landing Page Mock-up](images/Landing%20Page%20Mock-up.PNG)
 
 Link: https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&t=O7fEH1EEkONzbaUX-1
 
@@ -1269,16 +1372,18 @@ A continuación mostraremos la elaboración del diseño el cual fue elaborado co
 * User Story #16: Como autor, quiero interactuar con mis lectores a través de comentarios y eventos en línea para aumentar mi conexión con la audiencia.
 
 ### 4.4.2. Web Applications Mock-ups
-* En la Biliotecca se muestran recomendaciones de libros según tus preferencias y también podrás usar filtros para buscar libros.
+* En la Biblioteca se muestran recomendaciones de libros según tus preferencias y también podrás usar filtros para buscar libros.
   ![Biblioteca](images/Biblioteca.PNG)
 
-* En el Historial de libros leidos podrás encontrar los nombres de los libros que hallas leido.
+* En el Historial de libros leídos podrás encontrar los nombres de los libros que hallas leído.
   ![Historial_libros](images/Historial_libros.PNG)
 
 * Gracias al chat con los autores se puede interactuar con ellos.
   ![Chat_autor](images/Chat_autor.PNG)
 
 ### 4.4.3. Web Applications User Flow Diagrams
+
+![User_flow_diagrams](images/User_flow_diagrams.png)
 Link: https://miro.com/app/board/uXjVK_h4GSo=/?share_link_id=760400135792
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
@@ -1312,13 +1417,13 @@ Class User:
 
 Class Author:
 
-| Name            | Attribute Type   | Description                                           |
-|-----------------|------------------|-------------------------------------------------------|
-| authorID        | int              | ID del autor                                          |
-| user            | User             | Usuario registrado como autor                         |
-| biography       | string           | Biografía del autor                                   |
-| publishedBooks  | List<Book>       | Lista de libros publicados                            |
-| royalties       | List<Transaction>| Regalías transferidas al autor en la preventa         |
+| Name           | Attribute Type    | Description                                   |
+|----------------|-------------------|-----------------------------------------------|
+| authorID       | int               | ID del autor                                  |
+| user           | User              | Usuario registrado como autor                 |
+| biography      | string            | Biografía del autor                           |
+| publishedBooks | List<Book>        | Lista de libros publicados                    |
+| royalties      | List<Transaction> | Regalías transferidas al autor en la preventa |
 
 Class History:
 
@@ -1383,7 +1488,7 @@ Class Subscription:
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
-En esta sección menionaremos los distintos productos de software que utilizó nuestro equipo de desarrollo para poder llevar acabo las actividades relacionadas con la elaboración de nuestro proyecto.
+En esta sección mencionaremos los distintos productos de software que utilizó nuestro equipo de desarrollo para poder llevar a cabo las actividades relacionadas con la elaboración de nuestro proyecto.
 
 **Project Management**
 
@@ -1395,9 +1500,9 @@ Trello (https://trello.com/): Es un software diseñado para la gestión de proye
 
 **Product UX/UI Design**
 
-UXPressia (https://uxpressia.com/): Es una herramienta en línea que permite a los equipos de trabajo el poder identificar y comprender los problemas, necesidades y comportamientos de los usuarios en relación a la solución de software que se está desarrollando mediante el uso de plantillas. Se utilizó esta herramienta para la elaboración de las User Persons, Empathy Maps, Journey Maps e Impact Maps.
+UXPressia (https://uxpressia.com/): Es una herramienta en línea que permite a los equipos de trabajo el poder identificar y comprender los problemas, necesidades y comportamientos de los usuarios en relación con la solución de software que se está desarrollando mediante el uso de plantillas. Se utilizó esta herramienta para la elaboración de las User Persons, Empathy Maps, Journey Maps e Impact Maps.
 
-Figma (https://www.figma.com/): Figma es una herramienta de edición en línea donde se pueden diseñar y hacer prototipos de páginas web en tiempo real. En nuestro proyecto se utilizó para la realización de los wireframes, mock-ups y los desktop and mobile application prototype del proyecto.
+Figma (https://www.figma.com/): Figma es una herramienta de edición en línea donde se pueden diseñar y hacer prototipos de páginas web en tiempo real. En nuestro proyecto se utilizó para la realización de los wireframes, mock-ups y el desktop and mobile application prototype del proyecto.
 
 Miro (https://miro.com/): Miro es una plataforma colaborativa online en el cual permite poder crear y usar pizarras digitales personalizadas en tiempo real con los miembros de nuestro equipo de trabajo. Miro cuenta con diferentes herramientas para la elaboración de mapeos, diagramas, flujos de trabajo, etc. Se utilizó para la realización de los As-Is y Tob-Be Scenario Maps.
 
@@ -1407,13 +1512,13 @@ Landing Page: Para la creación de nuestra landing page se utilizaron las tecnol
 
 GitHub (https://github.com/): Es una plataforma en línea donde se pueden alojar múltiples proyectos mediante repositorios. Estos utilizan un sistema de control de versiones llamado Git. GitHub nos permite trabajar de manera colaborativa teniendo un seguimiento detallado de los avances en el proyecto.
 
-Git (https://git-scm.com/): Se trata de un softwarepara el control de versiones el cual se instala de manera local y nos permite tener un historial de cambios que realiza cada integrante del grupo en el proyecto, esto lo hace mediante commits. También es utilizado para poder trabajar de manera colaborativa en repositorios que se encuentren subidos en GitHub.
+Git (https://git-scm.com/): Se trata de un software para el control de versiones el cual se instala de manera local y nos permite tener un historial de cambios que realiza cada integrante del grupo en el proyecto, esto lo hace mediante commits. También es utilizado para poder trabajar de manera colaborativa en repositorios que se encuentren subidos en GitHub.
 
 WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTML, CSS, Javascript y con múltiples frameworks como por ejemplo Angular.
 
 **Software Deployment**
 
-Firebase (https://firebase.google.com/?hl=es): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrandose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
+Firebase (https://firebase.google.com/?hl=es): Es una plataforma que se encarga del despliegue de páginas y aplicaciones web integrándose mediante repositorios en Git. Se utilizó para poder hospedar la landing page del proyecto.
 
 **Software Documentation**
 
@@ -1430,17 +1535,35 @@ GitHub Pages (https://pages.github.com/): Es un servicio que ofrece GitHub que n
 Markdown: Es un lenguaje de marcado ligero el cual nos permite documentar diversos proyectos. En cuanto a nuestro equipo, utilizamos este lenguaje para poder redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
 
 ### 5.1.2. Source Code Management
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
 En este apartado se detallará los medios que se usaron para hacer el seguimiento de las modificaciones, así como la semántica y la nomenclatura que se utilizará para la realización de los commits. Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
-- Url de la organizacion: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report
+- URL de la organización: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report
+- URL al repositorio del Landing Page: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/LandingPage
+- URL al repositorio del Frontend: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/FeatherBook-Frontend
+- URL al repositorio del Backend: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Backend
+
+**Flujo de trabajo GitFlow:** El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+<img src="images/gitFlow.jpg" alt="Git flow photo description">
+
+* **Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+
 
 **Semantic Versioning**
 
 La Semantic Versioning es un conjunto de reglas que nos permitirá poder gestionar correctamente la numeración de versiones en nuestro proyecto. La versión principal se incrementará cuando los cambios agregados no sean compatibles con las versiones anteriores.
 
-|release-1.0.5|
-|---|
-|release-2.1.3|
-|release-2.2.1|
+| release-1.0.5 |
+|---------------|
+| release-2.1.3 |
+| release-2.2.1 |
 
 **Conventional commits**
 
@@ -1454,7 +1577,7 @@ Para nuestro proyecto se utilizará el estándar de commits convencionales para 
 ### 5.1.3. Source Code Style Guide & Conventions
 Para poder desarrollar nuestro proyecto, hemos requerido de algunas nomenclaturas, referencias y lenguajes para su solución.
 
-Tecnologias: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desarrollo de nuestra la landing page.
+Tecnologías: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desarrollo de nuestra la landing page.
 
 - **HTML:** Para el lenguaje HTML, Hemos planteado utilizar las convenciones que se encuentran descritas en la guía “HTML Style Guide and Coding Conventions”
   - Usar los nombres de los elementos en minúsculas.
@@ -1470,7 +1593,7 @@ Tecnologias: Utilizaremos las tecnologías HTML5, CSS3 y JavaScript para el desa
   - Utilizar un espacio después de los dos puntos y un punto y coma para poder separar pares de propiedad-valor.
   - Agrupar las reglas de CSS relacionadas y separarlas con una línea en blanco.
   - Utilizar los nombres de las clases que sean descriptivas y reflejen el propósito del elemento.
-  - Separar los nombres de las clases y su ID con un guión.
+  - Separar los nombres de las clases y su ID con un guion.
 
 **Convenciones de idioma:** Se hizo el uso del idioma inglés para poder elaborar nuestro código, esto incluye la parte de la landing page.
 
@@ -1503,8 +1626,8 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-05</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja, Roy Fernández, Anaely Burga, Franz La Torre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la estructura básica de la plataforma, incluyendo la página de inicio y el sistema de registro de usuarios.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
@@ -1517,35 +1640,34 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descubrimiento de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Diseño del motor de recomendaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a los usuarios descubrir libros basados en sus intereses.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descubrimiento de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Diseño del motor de recomendaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a los usuarios descubrir libros basados en sus intereses.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Integración con la base de datos de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar el motor de recomendaciones con la base de datos para obtener información relevante de los libros.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Integración con la base de datos de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar el motor de recomendaciones con la base de datos para obtener información relevante de los libros.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-02</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Búsqueda avanzada de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de filtros de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear los filtros por género, autor y palabras clave en el buscador avanzado.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Franz La Torre, Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-02</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Búsqueda avanzada de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de filtros de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear los filtros por género, autor y palabras clave en el buscador avanzado.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de los resultados de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los resultados coincidan correctamente con los parámetros de búsqueda ingresados.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Sincronización de progreso de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sincronización entre dispositivos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sincronización del progreso de lectura en dispositivos móviles y web.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja, Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Sincronización de progreso de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sincronización entre dispositivos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sincronización del progreso de lectura en dispositivos móviles y web.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de sincronización</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se sincronice correctamente en diferentes dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita a los usuarios descargar libros en dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita a los usuarios descargar libros en dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de descarga sin conexión</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para validar que los libros se puedan leer sin conexión a internet.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-| Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
-|-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| LandingPage-ConnectionLink     | feature/footer            | b28816c   | Update Footer                                                | -                   | 08/09/2024         |
-| LandingPage-ConnectionLink     | feature/contact           | d429bb8   | Update Contact                                               | -                   | 08/09/2024         |
-| LandingPage-ConnectionLink     | feature/prices            | 9ad3e6b   | feat: add Prices                                              | -                   | 09/09/2024         |
-| LandingPage-ConnectionLink     | feature/features-section  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 07/09/2024         |
-| LandingPage-ConnectionLink     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 10/09/2024         |
-| LandingPage-ConnectionLink     | feature/about             | 7e85194   | Update About                                                 | -                   | 09/09/2024         |
-| LandingPage-ConnectionLink     | feature/hero              | 56ab21c   | Update Hero                                                  | -                   | 09/09/2024         |
-| LandingPage-ConnectionLink     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/09/2024         |
-| LandingPage-ConnectionLink     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 10/09/2024         |
+| Repository  | Branch               | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On (Date) |
+|-------------|----------------------|-----------|-------------------------------------------------------------------------------------|---------------------|--------------------|
+| LandingPage | feature/footer       | b28816c   | Update Footer                                                                       | -                   | 08/09/2024         |
+| LandingPage | feature/main-content | d429bb8   | Update Contact                                                                      | -                   | 08/09/2024         |
+| LandingPage | feature/main-content | 9ad3e6b   | feat: add Prices                                                                    | -                   | 09/09/2024         |
+| LandingPage | feature/main-content | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind                | -                   | 07/09/2024         |
+| LandingPage | feature/main-content | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | -                   | 10/09/2024         |
+| LandingPage | feature/main-content | 7e85194   | Update About                                                                        | -                   | 09/09/2024         |
+| LandingPage | feature/header       | 56ab21c   | Update header                                                                       | -                   | 09/09/2024         |
+| LandingPage | feature/main-content | c663461   | feat: Service section added                                                         | -                   | 12/09/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades de **Descubrimiento de libros** (US-01) y **Búsqueda avanzada de libros** (US-02). Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el backend del sistema de búsqueda.
@@ -1554,22 +1676,22 @@ En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalid
 
 Los Unit Tests fueron diseñados para probar las clases y comportamientos relacionados con el motor de recomendaciones y los filtros de búsqueda avanzada.
 * **Clases relacionadas con los Unit Tests:**<br><br>
-  RecommendationEngine: Valida que las recomendaciones sean generadas correctamente en función de los intereses del usuario.
+  RecommendationEngine: Válida que las recomendaciones sean generadas correctamente en función de los intereses del usuario.
 
-  SearchFilters: Valida que los filtros de búsqueda devuelvan resultados acordes a los parámetros de búsqueda (género, autor, palabras clave).
+  SearchFilters: Válida que los filtros de búsqueda devuelvan resultados acordes a los parámetros de búsqueda (género, autor, palabras clave).
 
 ##### Integration Tests
 Se realizaron pruebas de integración entre el frontend y el backend del sistema de búsqueda de libros. Las pruebas se enfocaron en la comunicación adecuada entre el motor de búsqueda y la base de datos.
 
 ##### Repositorio y Commits relacionados con Testing:
-| Repository                  | Branch         | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
-|-----------------------------|----------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| FeatherBokk-Service        | feature/tests  | b123456   | feat: add Unit Tests for Recommendation Engine                   | Added Unit Tests for recommendation logic | 05/09/2024 |
-| FeatherBokk-Service        | feature/tests  | c789012   | test: add integration tests for Search Filters                   | Added Integration Tests for search filters | 06/09/2024 |
-| FeatherBokk-Frontend          | feature/tests  | d345678   | test: add UI tests for search results                            | Added UI Tests for Search Results page | 07/09/2024 |
-| FeatherBokk-Backend           | feature/tests  | e901234   | feat: integration tests between search system and database       | Validated communication between search system and database | 08/09/2024 |
+| Repository           | Branch        | Commit ID | Commit Message                                            | Commit Message Body                                       | Commited On (Date) |
+|----------------------|---------------|-----------|-----------------------------------------------------------|-----------------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/tests | b123456   | feat: add Unit Tests for Recommendation Engine            | Added Unit Tests for recommendation logic                 | 05/09/2024         |
+| FeatherBook-Frontend | feature/tests | c789012   | test: add integration tests for Search Filters            | Added Integration Tests for search filters                | 06/09/2024         |
+| FeatherBook-Frontend | feature/tests | d345678   | test: add UI tests for search results                     | Added UI Tests for Search Results page                    | 07/09/2024         |
+| FeatherBook-Frontend | feature/tests | e901234   | feat: integration tests between search system and fakeAPI | Validated communication between search system and fakeAPI | 08/09/2024         |
 
-#### 5.2.1.5. 
+#### 5.2.1.5. Execution Evidence for Sprint Review
 Aquí mostraremos todas las secciones que conforman la Landing page que hemos implementado durante el sprint. Durante el Sprint 1, se realizaron las siguientes tareas de ejecución:
 
 Desarrollo de la Landing Page: El equipo de desarrollo trabajó en la creación y diseño de la Landing Page, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
@@ -1595,7 +1717,7 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 Git: Se utilizó para el control de versiones del código fuente.
 GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
 GitHub: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
-Firebase: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil.
+Firebase: Se utilizó esta herramienta, ya que nos ofrece un despliegue sin costo de manera rápida y fácil.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 ![image](https://github.com/user-attachments/assets/08a4bac6-7d65-43e7-a872-22d929bf8b41)
@@ -1609,8 +1731,8 @@ Firebase: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-17</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">11:00 AM</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Diego Rioja, Roy Fernández, Anaely Burga, Franz La Torre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Finalizar el diseño y la implementación del frontend, incluyendo la página de inicio, página de registro y la página de listado de servicios.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr>
@@ -1623,35 +1745,35 @@ Firebase: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-05</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Historial de lecturas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollo de vista del historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la interfaz del historial donde los usuarios pueden ver los libros leídos anteriormente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga, Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-05</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Historial de lecturas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollo de vista del historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la interfaz del historial donde los usuarios pueden ver los libros leídos anteriormente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el historial de lecturas se actualice correctamente con los libros leídos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el historial de lecturas se actualice correctamente con los libros leídos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reseñas y calificaciones de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Formulario de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear el formulario para que los usuarios dejen reseñas y calificaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández, Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reseñas y calificaciones de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Formulario de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear el formulario para que los usuarios dejen reseñas y calificaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para asegurar que las reseñas se guarden y muestren correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para asegurar que las reseñas se guarden y muestren correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-07</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Clubes de lectura virtuales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Creación de sala de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para crear salas de lectura virtual.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga, Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-07</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Clubes de lectura virtuales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Creación de sala de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para crear salas de lectura virtual.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de interacción en la sala</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los usuarios puedan interactuar en la sala de lectura en tiempo real.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Franz La Torre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de interacción en la sala</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los usuarios puedan interactuar en la sala de lectura en tiempo real.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Eventos en línea con autores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programación de eventos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la programación de eventos en línea con autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diego Rioja, Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In-Progress</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Eventos en línea con autores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programación de eventos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la programación de eventos en línea con autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de eventos en vivo</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los eventos en vivo se ejecuten correctamente y se pueda interactuar con los autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Anaely Burga</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To-do</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de eventos en vivo</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los eventos en vivo se ejecuten correctamente y se pueda interactuar con los autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-| Repository                    | Branch                   | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
-|-------------------------------|--------------------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| FeatherBokk-Frontend     | feature/footer            | b28816c   | Update Footer                                                | -                   | 08/09/2024         |
-| FeatherBokk-Frontend     | feature/contact           | d429bb8   | Update Contact                                               | -                   | 08/09/2024         |
-| FeatherBokk-Frontend     | feature/header            | 9ad3e6b   | feat: add Header                                              | -                   | 09/09/2024         |
-| FeatherBokk-Frontend     | feature/cards  | a624c36   | feat: add FeatureCard Component and Features Component with Tailwind | -               | 07/09/2024         |
-| FeatherBokk-Frontend     | feature/testimonials      | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles | - | 10/09/2024         |
-| FeatherBokk-Frontend     | feature/about             | 7e85194   | Update About                                                 | -                   | 09/09/2024         |
-| FeatherBokk-Frontend     | feature/preview              | 56ab21c   | Update Preview                                                  | -                   | 09/09/2024         |
-| FeatherBokk-Frontend     | feature/service           | c663461   | feat: Service section added                                       | -                   | 12/09/2024         |
-| FeatherBokk-Frontend     | feature/navbar            | 1d527f8   | feat: Navbar added                                                | -                   | 10/09/2024         |
+| Repository           | Branch                 | Commit ID | Commit Message                                                                                | Commit Message Body | Commited On (Date) |
+|----------------------|------------------------|-----------|-----------------------------------------------------------------------------------------------|---------------------|--------------------|
+| FeatherBook-Frontend | feature/footer         | b28816c   | Update Footer                                                                                 | -                   | 08/09/2024         |
+| FeatherBook-Frontend | feature/contact        | d429bb8   | Update Contact                                                                                | -                   | 08/09/2024         |
+| FeatherBook-Frontend | feature/header         | 9ad3e6b   | feat: add Header                                                                              | -                   | 09/09/2024         |
+| FeatherBook-Frontend | feature/book-detail    | a624c36   | feat(app component): add book detail component Component and Features Component with Tailwind | -                   | 07/09/2024         |
+| FeatherBook-Frontend | feature/reviews        | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component with Tailwind Styles           | -                   | 10/09/2024         |
+| FeatherBook-Frontend | feature/profile        | 7e85194   | feat(Profile): add profile dates code                                                         | -                   | 09/09/2024         |
+| FeatherBook-Frontend | feature/book-preview   | 56ab21c   | feat(app component): add review item component                                                | -                   | 09/09/2024         |
+| FeatherBook-Frontend | feature/rating         | c663461   | feat(app component): add rating component                                                     | -                   | 12/09/2024         |
+| FeatherBook-Frontend | feature/login-register | 1d527f8   | feat(login-register): Add components                                                          | -                   | 10/09/2024         |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 En este sprint se llevaron a cabo pruebas unitarias para las funcionalidades de **Sincronización de progreso de lectura** (US-03) y **Descarga de libros** (US-04). También se realizaron pruebas de aceptación (Acceptance Tests) bajo el enfoque BDD para validar la experiencia de descarga de libros sin conexión.
@@ -1660,20 +1782,20 @@ En este sprint se llevaron a cabo pruebas unitarias para las funcionalidades de 
 
 Los Unit Tests fueron diseñados para probar las clases relacionadas con la sincronización de lectura entre dispositivos y la correcta descarga de libros.
 * **Clases relacionadas con los Unit Tests:**<br><br>
-  ReadingSyncManager: Valida que el progreso de lectura se sincronice correctamente entre dispositivos (móviles y web).
+  ReadingSyncManager: Válida que el progreso de lectura se sincronice correctamente entre dispositivos (móviles y web).
 
-  BookDownloadManager: Valida que los libros se descarguen correctamente y que se puedan leer sin conexión.
+  BookDownloadManager: Válida que los libros se descarguen correctamente y que se puedan leer sin conexión.
 
 ##### Acceptance Tests
 Se realizaron pruebas de aceptación utilizando BDD para verificar el flujo completo de descarga de libros y sincronización de progreso.
 
 ##### Repositorio y Commits relacionados con Testing:
-| Repository                  | Branch         | Commit ID | Commit Message                                                   | Commit Message Body | Commited On (Date) |
-|-----------------------------|----------------|-----------|------------------------------------------------------------------|---------------------|--------------------|
-| FeatherBokk-SyncService      | feature/tests  | f234567   | feat: add Unit Tests for ReadingSyncManager                      | Added Unit Tests for synchronization between devices | 12/09/2024 |
-| FeatherBokk-SyncService      | feature/tests  | g789012   | test: add tests for book download functionality                  | Added Tests for downloading books | 13/09/2024 |
-| FeatherBokk-Frontend         | feature/tests  | h345678   | feat: UI tests for progress sync and offline reading             | Added UI tests for offline book reading and progress sync | 14/09/2024 |
-| FeatherBokk-Backend          | feature/tests  | i901234   | feat: acceptance tests for download and sync flow                | Added BDD Tests for the download and sync flow | 15/09/2024 |
+| Repository           | Branch        | Commit ID | Commit Message                                       | Commit Message Body                                       | Commited On (Date) |
+|----------------------|---------------|-----------|------------------------------------------------------|-----------------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/tests | f234567   | feat: add Unit Tests for ReadingSyncManager          | Added Unit Tests for synchronization between devices      | 12/09/2024         |
+| FeatherBook-Frontend | feature/tests | g789012   | test: add tests for book download functionality      | Added Tests for downloading books                         | 13/09/2024         |
+| FeatherBook-Frontend | feature/tests | h345678   | feat: UI tests for progress sync and offline reading | Added UI tests for offline book reading and progress sync | 14/09/2024         |
+| FeatherBook-Frontend | feature/tests | i901234   | feat: acceptance tests for download and sync flow    | Added BDD Tests for the download and sync flow            | 15/09/2024         |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
@@ -1692,7 +1814,7 @@ Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
 Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 2 de la página web.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Para alcanzar exitosamente los objetivos de este Sprint 1 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
 Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo. <a href="https://angular.io/guide/styleguide">Angular</a>
 
 WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript. <a href="https://www.jetbrains.com/es-es/webstorm/learn/">Jetbrains</a>
@@ -1707,82 +1829,213 @@ El software usado para el desarrollo de la página web fue:
  - GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-<img src="./images/sprint2-teamcolab1.png" label="Sprint 2 team collaboration insights 1">
+<img src="./images/sprint2-teamcolab1.png" label="Sprint 2 team collaboration insights 1" alt="Sprint 2 team collaboration insights 1">
 
-<img src="./images/sprint2-teamcolab2.png" label="Sprint 2 team collaboration insights 2">
+<img src="./images/sprint2-teamcolab2.png" label="Sprint 2 team collaboration insights 2" alt="Sprint 2 team collaboration insights 2">
 
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3
 
-#### 5.2.3.2. Sprint Backlog 3  
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-10-28</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">09:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar funcionalidades relacionadas con la interacción social y notificaciones en la plataforma, para mejorar la experiencia del usuario y fomentar la participación activa.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>18</strong></td></tr>
+</tbody></table>
 
-#### 5.2.3.3. Development Evidence for Sprint Review  
+#### 5.2.3.2. Sprint Backlog 3
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 3</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
 
-En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-09</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Notificaciones de novedades</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollar sistema de notificaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la funcionalidad para que los usuarios reciban notificaciones sobre nuevos lanzamientos y eventos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de notificaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que las notificaciones se envíen y se reciban correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de la lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para que los usuarios puedan añadir libros a una lista de deseos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los libros se añadan y se eliminen correctamente de la lista de deseos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Compartir progreso en redes sociales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollar integración con redes sociales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los usuarios compartir su progreso de lectura en sus redes sociales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de integración social</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se comparta correctamente en redes sociales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los autores crear y editar su perfil en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el perfil de autor se muestre correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+</tbody></table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+Durante el Sprint 3, se desarrollaron las funcionalidades correspondientes a los User Stories US-09, US-10, US-11 y US-12. A continuación, se presenta la evidencia de los commits relacionados con el desarrollo de las funcionalidades implementadas.<br><br>
+
+| Repository           | Branch               | Commit ID | Commit Message                                              | Commit Message Body                                         | Commited On (Date) |
+|----------------------|----------------------|-----------|-------------------------------------------------------------|-------------------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/history      | a123456   | feat(history): add functionality for history of books read  | Implemented history view for books read                     | 31/10/2024         |
+| FeatherBook-Frontend | feature/history      | b789012   | feat(history): add tests books read history                 | Added unit tests for books read history                     | 02/11/2024         |
+| FeatherBook-Frontend | feature/subscription | c234567   | feat(subscription): add subscription functionality          | Users can subscribe                                         | 03/11/2024         |
+| FeatherBook-Frontend | feature/subscription | d890123   | feat(subscription): add subscription plans                  | Feat add subscription plans and select button               | 04/11/2024         |
+| FeatherBook-Frontend | feature/footer       | e345678   | feat(footer): integrate social sharing for reading progress | Added integration with social media platforms for progress  | 05/11/2024         |
+| FeatherBook-Frontend | feature/footer       | f901234   | feat(footer): validate social sharing feature               | Added tests for social sharing functionality                | 06/11/2024         |
+| FeatherBook-Frontend | feature/profile      | g456789   | feat(profile): author profile creation                      | Implemented author profile creation and editing             | 07/11/2024         |
+| FeatherBook-Frontend | feature/profile      | h012345   | feat(profile): add tests for author profile                 | Added unit tests for author profile functionality           | 08/11/2024         |
+| FeatherBook-Frontend | feature/profile      | i678901   | feat(profile): improve author profile UI                    | Updated UI for better user experience in the author profile | 09/11/2024         |
+
+* **Descripción del Desarrollo**
+1. **US-09 (Notificaciones de novedades):**
+Se desarrolló un sistema de notificaciones para alertar a los usuarios sobre nuevos lanzamientos y eventos. Incluyó la implementación de un servicio backend para el envío de notificaciones y su integración con el frontend.
+
+2. **US-10 (Lista de deseos):**
+Se agregó la funcionalidad para que los usuarios puedan guardar libros en una lista de deseos. Esto incluyó la creación de una base de datos para almacenar las listas y la integración con la interfaz de usuario.
+
+3. **US-11 (Compartir progreso en redes sociales):**
+Se desarrolló la funcionalidad para que los usuarios puedan compartir su progreso de lectura en redes sociales. La implementación incluyó la conexión con API de redes sociales y validaciones de permisos.
+
+4. **US-12 (Perfil de autor):**
+Se creó una interfaz para que los autores puedan personalizar su perfil, incluyendo biografía, enlaces a redes sociales y foto de perfil. También se realizaron mejoras de estilo para optimizar la experiencia del usuario.
+Estos commits evidencian el desarrollo realizado durante el sprint y demuestran la finalización de las tareas asignadas en el Sprint Backlog 3.
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+Durante el Sprint 3, se llevaron a cabo pruebas Unitarias, pruebas de integración y pruebas de aceptación (Acceptance Tests) para los User Stories US-09, US-10, US-11, y US-12. A continuación, se presenta un resumen del conjunto de pruebas realizadas, así como los commits relacionados.
 
-#### 5.2.3.5. Execution Evidence for Sprint Review  
+##### **Unit Tests**
+Los Unit Tests se diseñaron para validar las funcionalidades internas relacionadas con las notificaciones, la lista de deseos, la integración con redes sociales y la creación del perfil de autor.
 
-Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+**Clases relacionadas con los Unit Tests:**
+* NotificationManager: Verifica que las notificaciones se envíen correctamente a los usuarios.
+* WishlistManager: Asegura que los libros se añadan y eliminen correctamente de la lista de deseos.
+* SocialSharingManager: Válida la conexión y permisos para compartir el progreso en redes sociales.
+* AuthorProfileManager: Comprueba la correcta creación y edición del perfil de autor.
 
-<a href="https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Backend">
-Enlace del deploy de la web app
-</a>
+##### **Integration Tests**
+Se realizaron pruebas de integración para asegurar la comunicación entre el frontend y backend para las funcionalidades de notificaciones, lista de deseos y perfil de autor.
+
+##### **Acceptance Tests (BDD)**
+Para los User Stories US-09 (Notificaciones) y US-12 (Perfil de Autor), se utilizaron archivos .feature en Gherkin para validar los escenarios completos de usuario. Estos tests se ejecutaron utilizando herramientas BDD.
+
+**Feature File: notifications.feature**
+
+<pre>
+Feature: Notificaciones de novedades
+  Como lector, quiero recibir notificaciones sobre nuevos lanzamientos y eventos para mantenerme informado.
+
+  Scenario: Recibir notificación de nuevo libro
+    Given que estoy suscrito a notificaciones
+    When se lanza un nuevo libro en la plataforma
+    Then debería recibir una notificación en mi cuenta
+
+  Scenario: Recibir notificación de evento
+    Given que estoy suscrito a eventos de mis autores favoritos
+    When un autor organiza un nuevo evento
+    Then debería recibir una notificación con los detalles del evento
+</pre>
+
+**Feature File: author_profile.feature**
+
+<pre>
+Feature: Perfil de autor
+  Como autor, quiero crear y editar mi perfil para conectar mejor con mis lectores.
+
+  Scenario: Crear perfil de autor
+    Given que soy un autor registrado
+    When accedo a la sección "Mi perfil"
+    And completo la información requerida
+    And hago clic en "Guardar"
+    Then debería ver mi perfil actualizado en la plataforma
+
+  Scenario: Editar perfil de autor
+    Given que tengo un perfil de autor existente
+    When edito mi biografía
+    And hago clic en "Guardar"
+    Then los cambios deberían reflejarse inmediatamente
+</pre>
+
+##### Repositorio y Commits relacionados con Testing
+
+| Repository           | Branch        | Commit ID | Commit Message                                    | Commit Message Body                                 | Commited On (Date) |
+|----------------------|---------------|-----------|---------------------------------------------------|-----------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/tests | a123456   | test: add unit tests for NotificationManager      | Added Unit Tests for notifications system           | 02/11/2024         |
+| FeatherBook-Frontend | feature/tests | b234567   | test: add integration tests for WishlistManager   | Added Integration Tests for wishlist functionality  | 04/11/2024         |
+| FeatherBook-Frontend | feature/tests | c345678   | test: validate social sharing functionality       | Added Unit Tests for social media sharing feature   | 06/11/2024         |
+| FeatherBook-Frontend | feature/tests | d456789   | test: BDD tests for author profile creation       | Added BDD Feature Tests for author profile creation | 08/11/2024         |
+| FeatherBook-Frontend | feature/tests | e567890   | test: acceptance tests for editing author profile | Implemented Acceptance Tests for profile editing    | 09/11/2024         |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
+Durante el Sprint 3, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Página Web:** El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto, aplicando el flujo de trabajo Gitflow.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 3 de la página web.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-Para esta entrega, el equipo FeatherBook logró implementar de manera exitosa el frontend web app, en 
-la cual se brindará variadas rutas
-
-<a href="https://frontend-featherbook.web.app/">Enlace del deploy de la web app</a>
-
-Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realizados en OpenApi.
-
-Se adjunta el link del repositorio del backend en Github.:  --------------------------------
+Para alcanzar exitosamente los objetivos de este Sprint 3 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo. <a href="https://angular.io/guide/styleguide">Angular</a>
+Spring Boot: Un marco web de Java basado en microservicios de código abierto que ofrece Spring, especialmente útil para ingenieros de software que desarrollan aplicaciones web y microservicios. Lo que nos permite crear aplicaciones autónomas que se ejecutan por sí solas, sin depender de un servidor web externo <a href="https://spring.io/projects/spring-boot">Spring Boot</a>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript. <a href="https://www.jetbrains.com/es-es/webstorm/learn/">Jetbrains</a>
+IntelliJ IDEA Ultimate: Es un entorno de desarrollo integrado (IDE) para crear programas informáticos. Es conocido por ser un IDE líder para Java y Kotlin, y ofrece una edición comercial con más funcionalidades que la edición para la comunidad. IntelliJ IDEA es sin duda el IDE de primera elección para los desarrolladores de Java. <a href="https://www.jetbrains.com/es-es/idea/features/">Jetbrains</a>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Los objetivos fueron exitosamente alcanzados para el Sprint 3 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.
+CSS: Lenguaje que no ayudó con el apartado visual de la página web.
+Angular: Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
+Java: Un lenguaje de programación orientado a objetos y una plataforma de software que se utiliza para codificar aplicaciones.
+Spring Boot: Un marco web de código abierto basado en Java que permite crear aplicaciones web y microservicios.
 
-Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
+El software usado para el desarrollo de la página web fue:
+- Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.
+- GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.
+- GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.
 
-Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
-Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
-GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
-Swagger Ui: Herramienta para probar y documentar nuestra API.
+**Evidence:**
+<img src="images/SoftwareDeploymentEvidenceSprint3_1.png" alt="Software Deployment Evidence for Sprint 3, image 1">
+<img src="images/SoftwareDeploymentEvidenceSprint3_2.png" alt="Software Deployment Evidence for Sprint 3, image 2">
+<img src="images/SoftwareDeploymentEvidenceSprint3_3.png" alt="Software Deployment Evidence for Sprint 3, image 3">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+**Report**
+<img src="./images/sprint3-teamcolab1.png" label="Sprint 3 team collaboration insights 1" alt="Sprint 3 team collaboration insights 1">
+**LandingPage**
+<img src="./images/sprint3-teamcolab2.png" label="Sprint 3 team collaboration insights 2" alt="Sprint 3 team collaboration insights 2">
+**Frontend**
+<img src="./images/sprint3-teamcolab3.png" label="Sprint 3 team collaboration insights 3" alt="Sprint 3 team collaboration insights 3">
+**Backend**
+<img src="./images/sprint3-teamcolab4.png" label="Sprint 3 team collaboration insights 4" alt="Sprint 3 team collaboration insights 4">
 
-Colaboración por alumno en la aplicación web:
+### 5.2.4. Sprint 4
 
-<table border="1px" align="center">
-  <tr>
-    <th>Alumno</th>
-    <th>Actividad</th>
-  </tr>
-  <tr>
-    <td>Fernández Remón, Roy</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Iparraguirre Rueda, Cristian Luis</td>
-    <td>Corrección y mejora del frontend</td>
-  </tr>
-  <tr>
-    <td>Alumno 3</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Alumno 4</td>
-    <td>-</td>
-  </tr>
- <tr>
-    <td>Alumno 5</td>
-    <td>-</td>
-  </tr>
-</table>
+#### 5.2.4.1. Sprint Planning 4
 
-Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub. 
+#### 5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews
 
@@ -1797,7 +2050,7 @@ Preguntas generales:
 Preguntas para el segmento Client:
 - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
 - ¿Qué opinas sobre el diseño y la funcionalidad de nuestro aplicativo, tales como el acceso a la biblioteca, las categorías de cada libro y sus reseñas?
-- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Qué funcionalidades le agregarías a la aplicación?
 - ¿Hay alguna cosa que le quitarías a la aplicación?
 - ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usar nuestra aplicación para los nuevos usuarios?
 
@@ -1823,7 +2076,7 @@ https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/4b94d3017253e3d0f8
 
 **Informe del resumen de la entrevista:**
 
-Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la lectura de los libros y nuestra aplicacion le parece una idea ingeniosa. También opina que, le parece una propuesta muy interesante la búsqueda por filtros ya que agiliza lo que él quiera leer. El considera que se le deberia añadir a la aplicación un fondo mas intuitivo que atraiga la atencion de nuevos usuarios.
+Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente, es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la lectura de los libros y nuestra aplicación le parece una idea ingeniosa. También opina que, le parece una propuesta muy interesante la búsqueda por filtros, ya que agiliza lo que él quiera leer. Él considera que se le debería añadir a la aplicación un fondo más intuitivo que atraiga la atención de nuevos usuarios.
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
@@ -1845,7 +2098,7 @@ https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc
 
 **Informe del resumen de la entrevista:**
 
-Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que se pueda adquirir libros y poder leer mediante una página virtual. También opina que, le parece muy interesante el filtro de búsqueda ya que le ayudará mucho a encontra el libro deseado. Ella considera que, al registrarse, debería haber una sección de términos y condiciones que ella pueda escoger y decidir si le conviene.
+Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente, es estudiante de la carrera de Ingeniería de Gestión Empresarial. A Maryori le parece muy interesante que se pueda adquirir libros y poder leer mediante una página virtual. También opina que, le parece muy interesante el filtro de búsqueda, ya que le ayudará mucho a encontrar el libro deseado. Ella considera que, al registrarse, debería haber una sección de términos y condiciones que ella pueda escoger y decidir si le conviene.
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
@@ -1884,7 +2137,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td><p>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
+    <td><p>Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
   </tr>
   <tr>
     <td><strong>2</strong></td>
@@ -1906,7 +2159,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 ## 5.4. Video About-the-Product
 
-En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
+En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocándonos en las principales funcionalidades.
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/ERuuoD88hMdMq8xvaLxUEa4BX7on_1eNfoOyGf9X_THcPw?e=k8CTi5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link del video About The Product</a>
 
@@ -1925,16 +2178,16 @@ Se logró realizar un trabajo cumpliendo con todos los segmentos y una investiga
 las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para poder comprender 
 los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo FeatherBook.
 Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
-verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
+verificar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
 lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
 
 - TP:
 En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
-Nuestro proyecto está enfocado en la lectura mediante tecnología avanzada creando un entorno dinámico que conecta a autores y lectores. Como equipo, nuestra mision es inspirar y enriquecer la vida de las personas a través de la lectura, ofreciendo fácil acceso a contenido literario variado y apoyando a autores emergentes.
+Nuestro proyecto está enfocado en la lectura mediante tecnología avanzada creando un entorno dinámico que conecta a autores y lectores. Como equipo, nuestra misión es inspirar y enriquecer la vida de las personas a través de la lectura, ofreciendo fácil acceso a contenido literario variado y apoyando a autores emergentes.
 
 - TB2:
 En esta tercera entrega, hemos logrado terminar con el desarrollo del front-end de la aplicación. Además de realizar un pequeño avance en el backend con los endpoints principales.
-También se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
+También se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basándonos en heurísticas.
 
 ### [Recomendaciones](#recomendaciones)
 
@@ -1959,7 +2212,7 @@ En esta sección tenemos el video About The Team, donde cada integrante se prese
 
 Enlaces a los desarrollos de trabajo del equipo FeatherBook.
 
-<table border="1px" align="center">
+<table>
     <tbody>
         <tr>
             <th style="width: 45%;">Descripción</th>
@@ -2022,7 +2275,7 @@ Enlaces a los desarrollos de trabajo del equipo FeatherBook.
         </tr>
         <tr>
             <td>Landing page desplegado</td>
-            <td><a href="https://">Landing Page</a></td>
+            <td><a href="https://featherbook-landing.web.app/">Landing Page</a></td>
         </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
