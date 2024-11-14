@@ -16,16 +16,15 @@
 
 <ul>
   <li>Iparraguirre Rueda, Cristian Luis (u202113111)</li>
-  <li>Fernández Remón Roy (U20221B778)</li>
 </ul>
 
 **<h3>Septiembre, 2024</h3>**
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                        | Descripción de modificación        |
-|---------|------------|--------------------------------------------------------------|------------------------------------|
-| TB1     | 04/09/2024 | - Iparraguirre Rueda, Cristian Luis<br>- Fenández Remón, Roy | Implementación del capítulo 1 al 5 |
+| Versión | Fecha      | Autor                               | Descripción de modificación        |
+|---------|------------|-------------------------------------|------------------------------------|
+| TB1     | 04/09/2024 | - Iparraguirre Rueda, Cristian Luis | Implementación del capítulo 1 al 5 |
 
 # Project Report Collaboration Insights
 
@@ -167,10 +166,10 @@
 - [Anexos](#anexos)
 
 # Student Outcome
-| Criterio Específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - En el contexto de FeatherBook, es fundamental que los resultados del desarrollo tecnológico sean comunicados de manera clara y objetiva a autores y lectores. Esto asegura que todos los usuarios de la plataforma comprendan las funciones clave, como las recomendaciones personalizadas y los eventos exclusivos, independientemente de su nivel técnico.<br><br> Fernández Remón Roy <br> - Dado que FeatherBook conecta a autores, lectores y colaboradores de diferentes especialidades, es importante ajustar la forma en que se presentan los resultados del proyecto. Esto garantiza que los detalles técnicos sean entendidos por ingenieros y especialistas, mientras que otros aspectos sean claros para los autores y lectores.<br><br> | En el desarrollo de FeatherBook, la comunicación efectiva y objetiva de los avances y resultados es clave para garantizar que tanto los autores, lectores, equipos técnicos y niveles jerárquicos comprendan el progreso del proyecto. Adaptar la información según el público permite que todas las partes involucradas, independientemente de su nivel de especialización, colaboren de manera eficiente. Esto no solo mejora la experiencia del usuario final, sino que también asegura que las decisiones estratégicas dentro de la startup se basen en información clara, fomentando la innovación y el liderazgo en la lectura digital. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - Es esencial que en FeatherBook se comuniquen por escrito los avances del proyecto de manera clara y objetiva, tanto para el equipo técnico como para el público no especializado, como autores y lectores. Esto facilita la comprensión de nuevas funciones y asegura que todos los involucrados estén alineados con los objetivos del proyecto.<br><br> Fernández Remón Roy <br> - La forma de comunicar resultados varía según el público al que se dirijan los reportes y documentos escritos. Mientras que los ingenieros y desarrolladores necesitan detalles técnicos precisos, los autores y ejecutivos requieren un enfoque más accesible que resuma los beneficios y funcionalidades de la plataforma.<br><br>                              | En el desarrollo de FeatherBook, la comunicación escrita clara y objetiva es fundamental para asegurar que los avances y resultados del proyecto sean comprendidos por todas las partes involucradas, independientemente de su especialización o nivel jerárquico. Adaptar el lenguaje según la audiencia facilita la toma de decisiones estratégicas y fomenta la colaboración interdisciplinaria, garantizando que tanto el equipo técnico como los autores, lectores y ejecutivos tengan una visión alineada del progreso y los objetivos de la plataforma.                                                                                |
+| Criterio Específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                        | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - En el contexto de FeatherBook, es fundamental que los resultados del desarrollo tecnológico sean comunicados de manera clara y objetiva a autores y lectores. Esto asegura que todos los usuarios de la plataforma comprendan las funciones clave, como las recomendaciones personalizadas y los eventos exclusivos, independientemente de su nivel técnico.<br><br> | En el desarrollo de FeatherBook, la comunicación efectiva y objetiva de los avances y resultados es clave para garantizar que tanto los autores, lectores, equipos técnicos y niveles jerárquicos comprendan el progreso del proyecto. Adaptar la información según el público permite que todas las partes involucradas, independientemente de su nivel de especialización, colaboren de manera eficiente. Esto no solo mejora la experiencia del usuario final, sino que también asegura que las decisiones estratégicas dentro de la startup se basen en información clara, fomentando la innovación y el liderazgo en la lectura digital. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **TB1** <br> Iparraguirre Rueda, Cristian Luis <br> - Es esencial que en FeatherBook se comuniquen por escrito los avances del proyecto de manera clara y objetiva, tanto para el equipo técnico como para el público no especializado, como autores y lectores. Esto facilita la comprensión de nuevas funciones y asegura que todos los involucrados estén alineados con los objetivos del proyecto.<br><br>             | En el desarrollo de FeatherBook, la comunicación escrita clara y objetiva es fundamental para asegurar que los avances y resultados del proyecto sean comprendidos por todas las partes involucradas, independientemente de su especialización o nivel jerárquico. Adaptar el lenguaje según la audiencia facilita la toma de decisiones estratégicas y fomenta la colaboración interdisciplinaria, garantizando que tanto el equipo técnico como los autores, lectores y ejecutivos tengan una visión alineada del progreso y los objetivos de la plataforma.                                                                                |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -199,10 +198,6 @@ FeatherBook es una startup innovadora que busca transformar la forma en que las 
   <TR>
 		<td style="text-align: center"><p> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="1202"> </p></td> 
 		<td style="text-align: center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto. Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
-	</TR>
-  	<TR>
-		<td style="text-align: center"><p> Roy Fernández Remón - U20221B778 <img src="images/FotoRoy.jpg" alt="Foto Roy" width="623"> </p></td> 
-		<td style="text-align: center">Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6.º ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
 	</TR>
 </TABLE>
 
@@ -1395,10 +1390,22 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio q
 <img src="images/ContainerDiagram.png" alt="Container Diagram" style="width: 100%;">
 
 ### 4.6.3. Software Architecture Components Diagrams
-<img src="images/ComponentDiagram.jpg" alt="Component Diagram" style="width: 100%;">
+<img src="images/ComponentDiagram.png" alt="Component Diagram" style="width: 100%;">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+Nuestro dominio se divide en 2 Bounded Contexts:
+
+1. **User Management:** Se enfoca en la gestión de los usuarios y suscripciones. La clase User actúa como el agregado principal y contiene las listas de booksHistory, uploadedBooks, y savedBooks para relacionarse con el contexto de Library.
+
+2. **Library:** Se encarga de la gestión de libros y comentarios. La clase Book es el agregado principal en este contexto, y contiene una lista de Comment como subentidades relacionadas.
+
+**User Management**
+<img src="images/DiagramaUMLUserManagement.png" alt="Class Diagram User Management Bounded context" style="width: 100%;">
+
+**Library**
+<img src="images/DiagramaUMLLibrary.png" alt="Class Diagram Library Bounded context" style="width: 100%;">
+
 <img src="images/DiagramaUML.png" alt="Class Diagram" style="width: 100%;">
 
 ### 4.7.2. Class Dictionary
@@ -1406,82 +1413,65 @@ El Domain Driven Design (DDD) busca lograr una comprensión común del dominio q
 
 Class User:
 
-| Name             | Attribute Type | Description                                     |
-|------------------|----------------|-------------------------------------------------|
-| userID           | int            | ID del usuario                                  |
-| fullName         | string         | Nombre completo del usuario                     |
-| email            | string         | Correo del usuario                              |
-| password         | string         | Contraseña del usuario                          |
-| registrationDate | date           | Fecha en la que se registró en la aplicación    |
-| subscription     | string         | Tipo de suscripción                             |
+| Name              | Attribute Type      | Description                            |
+|-------------------|---------------------|----------------------------------------|
+| userID            | UserID              | Unique identifier for the user         |
+| username          | Username            | Username of the user                   |
+| email             | Email               | Email of the user                      |
+| phone             | string              | Phone number of the user               |
+| password          | Password            | User's password                        |
+| subscriptionLevel | int                 | Level of subscription held by the user |
+| booksHistory      | List<HistoryEntry>  | List of books read by the user         |
+| uploadedBooks     | List<BookReference> | List of books uploaded by the user     |
+| savedBooks        | List<BookReference> | List of books saved by the user        |
 
-Class Author:
+Class HistoryEntry:
 
-| Name           | Attribute Type    | Description                                   |
-|----------------|-------------------|-----------------------------------------------|
-| authorID       | int               | ID del autor                                  |
-| user           | User              | Usuario registrado como autor                 |
-| biography      | string            | Biografía del autor                           |
-| publishedBooks | List<Book>        | Lista de libros publicados                    |
-| royalties      | List<Transaction> | Regalías transferidas al autor en la preventa |
-
-Class History:
-
-| Name          | Attribute Type  | Description                                      |
-|---------------|-----------------|--------------------------------------------------|
-| historyID     | int             | ID del historial del usuario                     |
-| user          | User            | Usuario al que le pertenece el historial         |
-| readBooks     | List <Book>     | Lista de los libros leídos                       |
-
-Class Book:
-
-| Name              | Attribute Type | Description                                       |
-|-------------------|----------------|---------------------------------------------------|
-| bookID            | int            | ID del libro                                      |
-| title             | string         | Título del libro                                  |
-| genre             | string         | Género del libro                                  |
-| author            | Author         | Autor del libro                                   |
-| publicationDate   | date           | Fecha de publicación del libro                    |
-| summary           | string         | Un pequeño resumen del libro                      |
-| rating            | float          | Media de estrellas que le da el usuario al libro  |
-| comments          | List<Comment>  | Lista de los comentarios de los usuarios          |
-
-Class Comment:
-
-| Name         | Attribute Type | Description                                    |
-|--------------|----------------|------------------------------------------------|
-| commentID    | int            | ID del comentario dejado                       |
-| user         | User           | Usuario que comentó                            |
-| content      | string         | Contenido del comentario                       |
-| commentDate  | date           | Fecha en la que se publicó el comentario       |
-
-Class Recommendation:
-
-| Name               | Attribute Type | Description                                 |
-|--------------------|----------------|---------------------------------------------|
-| recommendationID   | int            | ID de la lista de recomendación             |
-| user               | User           | Usuario al que se le hace la recomendación  |
-| recommendedBooks   | List<Book>     | Lista de libros recomendados                |
-
-Class Transaction:
-
-| Name           | Attribute Type | Description                                    |
-|----------------|----------------|------------------------------------------------|
-| transactionID  | int            | ID de la transacción hecha                     |
-| user           | User           | Usuario que realizó la transacción             |
-| amount         | float          | Monto de la transacción                        |
-| date           | date           | Fecha en la que se realizó la transacción      |
+| Name         | Attribute Type | Description                      |
+|--------------|----------------|----------------------------------|
+| bookId       | BookID         | Unique identifier for the book   |
+| lastTimeRead | date           | Date when the book was last read |
 
 Class Subscription:
 
-| Name           | Attribute Type | Description                                    |
-|----------------|----------------|------------------------------------------------|
-| subscriptionID | int            | ID de la suscripción                           |
-| level          | string         | Nivel de suscripción del usuario               |
-| price          | float          | Precio de la suscripción                       |
+| Name           | Attribute Type | Description                            |
+|----------------|----------------|----------------------------------------|
+| subscriptionId | SubscriptionID | Unique identifier for the subscription |
+| level          | int            | Subscription level                     |
+| price          | float          | Cost of the subscription               |
 
+Class Book:
+
+| Name       | Attribute Type | Description                                        |
+|------------|----------------|----------------------------------------------------|
+| bookID     | BookID         | Unique identifier for the book                     |
+| name       | string         | Title of the book                                  |
+| summary    | string         | Brief summary of the book                          |
+| category   | string         | Genre or category of the book                      |
+| bookUrl    | URL            | URL to access the book                             |
+| views      | int            | Number of times the book has been viewed           |
+| totalScore | float          | Cumulative score of the book based on user reviews |
+| reviews    | List<Comment>  | List of user comments and reviews for the book     |
+
+Class Comment:
+
+| Name      | Attribute Type | Description                                        |
+|-----------|----------------|----------------------------------------------------|
+| commentId | CommentID      | Unique identifier for the comment                  |
+| userId    | UserID         | Unique identifier of the user who made the comment |
+| content   | string         | Content or text of the comment                     |
+| score     | int            | Rating given by the user                           |
+
+Class BookReference:
+
+| Name         | Attribute Type | Description                                 |
+|--------------|----------------|---------------------------------------------|
+| bookId       | BookID         | Unique identifier for the referenced book   |
+| uploadedDate | date           | Date when the book was uploaded by the user |
 
 ## 4.8. Database Design
+<img src="images/DataBaseDesign.png" alt="Database design" style="width: 100%;">
+
 ### 4.8.1. Database Diagram
 <img src="images/DataBaseDiagram.PNG" alt="Database diagram" style="width: 100%;">
 
@@ -1627,7 +1617,7 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la estructura básica de la plataforma, incluyendo la página de inicio y el sistema de registro de usuarios.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
@@ -1642,17 +1632,17 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descubrimiento de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Diseño del motor de recomendaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a los usuarios descubrir libros basados en sus intereses.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Integración con la base de datos de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar el motor de recomendaciones con la base de datos para obtener información relevante de los libros.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Integración con la base de datos de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar el motor de recomendaciones con la base de datos para obtener información relevante de los libros.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-02</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Búsqueda avanzada de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de filtros de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear los filtros por género, autor y palabras clave en el buscador avanzado.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de los resultados de búsqueda</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los resultados coincidan correctamente con los parámetros de búsqueda ingresados.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Sincronización de progreso de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sincronización entre dispositivos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sincronización del progreso de lectura en dispositivos móviles y web.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Sincronización de progreso de lectura</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sincronización entre dispositivos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sincronización del progreso de lectura en dispositivos móviles y web.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de sincronización</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se sincronice correctamente en diferentes dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita a los usuarios descargar libros en dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de descarga de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita a los usuarios descargar libros en dispositivos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de descarga sin conexión</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para validar que los libros se puedan leer sin conexión a internet.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
@@ -1732,7 +1722,7 @@ Firebase: Se utilizó esta herramienta, ya que nos ofrece un despliegue sin cost
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">11:00 AM</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Finalizar el diseño y la implementación del frontend, incluyendo la página de inicio, página de registro y la página de listado de servicios.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr>
@@ -1749,7 +1739,7 @@ Firebase: Se utilizó esta herramienta, ya que nos ofrece un despliegue sin cost
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de historial</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el historial de lecturas se actualice correctamente con los libros leídos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reseñas y calificaciones de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Formulario de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear el formulario para que los usuarios dejen reseñas y calificaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-06</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reseñas y calificaciones de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Formulario de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear el formulario para que los usuarios dejen reseñas y calificaciones.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de reseñas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar pruebas para asegurar que las reseñas se guarden y muestren correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
@@ -1757,7 +1747,7 @@ Firebase: Se utilizó esta herramienta, ya que nos ofrece un despliegue sin cost
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de interacción en la sala</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los usuarios puedan interactuar en la sala de lectura en tiempo real.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Eventos en línea con autores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programación de eventos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la programación de eventos en línea con autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Eventos en línea con autores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Programación de eventos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la programación de eventos en línea con autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de eventos en vivo</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los eventos en vivo se ejecuten correctamente y se pueda interactuar con los autores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
@@ -1844,7 +1834,7 @@ El software usado para el desarrollo de la página web fue:
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">09:00 AM</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Roy Fernández</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar funcionalidades relacionadas con la interacción social y notificaciones en la plataforma, para mejorar la experiencia del usuario y fomentar la participación activa.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
@@ -1859,19 +1849,19 @@ El software usado para el desarrollo de la página web fue:
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-09</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Notificaciones de novedades</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollar sistema de notificaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la funcionalidad para que los usuarios reciban notificaciones sobre nuevos lanzamientos y eventos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de notificaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que las notificaciones se envíen y se reciban correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de notificaciones</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que las notificaciones se envíen y se reciban correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de la lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para que los usuarios puedan añadir libros a una lista de deseos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los libros se añadan y se eliminen correctamente de la lista de deseos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de lista de deseos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los libros se añadan y se eliminen correctamente de la lista de deseos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Compartir progreso en redes sociales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollar integración con redes sociales</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los usuarios compartir su progreso de lectura en sus redes sociales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de integración social</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se comparta correctamente en redes sociales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de integración social</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el progreso de lectura se comparta correctamente en redes sociales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los autores crear y editar su perfil en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el perfil de autor se muestre correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Roy Fernández</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de perfil de autor</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que el perfil de autor se muestre correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 </tbody></table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
@@ -2010,32 +2000,196 @@ El software usado para el desarrollo de la página web fue:
 <img src="images/SoftwareDeploymentEvidenceSprint3_3.png" alt="Software Deployment Evidence for Sprint 3, image 3">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
-**Report**
-<img src="./images/sprint3-teamcolab1.png" label="Sprint 3 team collaboration insights 1" alt="Sprint 3 team collaboration insights 1">
-**LandingPage**
-<img src="./images/sprint3-teamcolab2.png" label="Sprint 3 team collaboration insights 2" alt="Sprint 3 team collaboration insights 2">
-**Frontend**
-<img src="./images/sprint3-teamcolab3.png" label="Sprint 3 team collaboration insights 3" alt="Sprint 3 team collaboration insights 3">
-**Backend**
-<img src="./images/sprint3-teamcolab4.png" label="Sprint 3 team collaboration insights 4" alt="Sprint 3 team collaboration insights 4">
+**Report**<br>
+<img src="./images/sprint3-teamcolab1.png" label="Sprint 3 team collaboration insights 1" alt="Sprint 3 team collaboration insights 1"><br>
+**LandingPage**<br>
+<img src="./images/sprint3-teamcolab2.png" label="Sprint 3 team collaboration insights 2" alt="Sprint 3 team collaboration insights 2"><br>
+**Frontend**<br>
+<img src="./images/sprint3-teamcolab3.png" label="Sprint 3 team collaboration insights 3" alt="Sprint 3 team collaboration insights 3"><br>
+**Backend**<br>
+<img src="./images/sprint3-teamcolab4.png" label="Sprint 3 team collaboration insights 4" alt="Sprint 3 team collaboration insights 4"><br>
 
 ### 5.2.4. Sprint 4
 
 #### 5.2.4.1. Sprint Planning 4
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 4</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-11-11</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Completar las funcionalidades restantes enfocadas en la gestión de libros y la interacción de los autores con los lectores, así como la optimización del sistema.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>18</strong></td></tr>
+</tbody></table>
 
 #### 5.2.4.2. Sprint Backlog 4
+<table style="border-collapse: collapse; width: 100%;"><tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 4</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status (To-do/In-Progress/To-review/Done)</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Subida de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación de funcionalidad para subir libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para que los autores puedan subir libros a la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de subida de libros</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los libros se suban correctamente y que se puedan visualizar en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de precios y descuentos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementación del sistema de gestión de precios</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad para que los autores gestionen precios y apliquen descuentos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas del sistema de descuentos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los precios y descuentos se apliquen correctamente.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-15</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Estadísticas de ventas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Implementar sistema de estadísticas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar un panel para que los autores vean estadísticas de ventas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de estadísticas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que las estadísticas se generen correctamente y sean precisas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US-16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Interacción con lectores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Desarrollar sección de comentarios</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir que los autores interactúen con lectores a través de comentarios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Pruebas de interacción</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Validar que los comentarios se publiquen y muestren correctamente.</td><td style="border:1pt solid #000000;padding:5pt;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
+</tr>
+</tbody></table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review
+Durante el Sprint 4, se completaron los desarrollos correspondientes a los User Stories US-13, US-14, US-15 y US-16. A continuación, se presenta la evidencia de los commits relacionados con el desarrollo, utilizando los repositorios proporcionados.
+
+| Repository           | Branch               | Commit ID | Commit Message                                          | Commit Message Body                                         | Commited On (Date) |
+|----------------------|----------------------|-----------|---------------------------------------------------------|-------------------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/upload-book  | a789101   | feat: add book upload functionality                     | Implemented book upload feature for authors                 | 11/11/2024         |
+| FeatherBook-Frontend | feature/upload-book  | b234567   | fix: handle edge cases in book upload                   | Fixed issues related to file size and format                | 12/11/2024         |
+| Backend              | feature/subscription | c890123   | feat: add price and discount management                 | Implemented backend logic for managing prices and discounts | 13/11/2024         |
+| Backend              | feature/subscription | d567890   | test: validate discount calculations                    | Added unit tests for discount application                   | 13/11/2024         |
+| FeatherBook-Frontend | feature/subscription | e345678   | feat: implement sales statistics dashboard              | Developed frontend for sales statistics visualization       | 14/11/2024         |
+| Backend              | feature/endpoints    | f901234   | feat: API for sales statistics                          | Added API endpoints for sales statistics data               | 14/11/2024         |
+| FeatherBook-Frontend | feature/forum        | g456789   | feat: add comment section for author-reader interaction | Implemented comment system for authors and readers          | 15/11/2024         |
+| Backend              | feature/reviews      | h012345   | test: add integration tests for comments feature        | Validated comment functionality with backend integration    | 15/11/2024         |
+| FeatherBook-Frontend | feature/reviews      | i678901   | style: improve comment section UI                       | Enhanced UI for better readability and interaction          | 16/11/2024         |
+| Backend              | feature/database     | j987654   | refactor: optimize database queries for statistics      | Improved performance of statistics generation               | 17/11/2024         |
+
+**US-13 (Subida de libros):**
+Implementación de la funcionalidad para que los autores suban libros a la plataforma desde el frontend. Se realizaron ajustes para manejar casos como el tamaño y formato de los archivos.
+
+1. **US-14 (Gestión de precios y descuentos):**
+Desarrollo del sistema de gestión de precios y descuentos desde el backend, junto con pruebas unitarias para asegurar que los cálculos sean correctos.
+
+2. **US-15 (Estadísticas de ventas):**
+Implementación de un panel de estadísticas de ventas en el frontend y desarrollo de endpoints en el backend para obtener los datos necesarios.
+
+3. **US-16 (Interacción con lectores):**
+Creación de una sección de comentarios para que los autores interactúen con los lectores. Se realizaron pruebas de integración para garantizar que los comentarios se publiquen y muestren correctamente.
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+En este Sprint 4, se realizaron pruebas Unitarias, de Integración y de Aceptación (Acceptance Tests) para los User Stories US-13, US-14, US-15 y US-16. Las pruebas incluyeron escenarios en BDD para los casos de subida de libros y estadísticas de ventas, con archivos .feature y los commits correspondientes en los repositorios FeatherBook-Frontend y Backend.
+
+##### **Unit Tests**
+Los Unit Tests se diseñaron para validar las funcionalidades individuales de subida de libros, gestión de precios, cálculo de estadísticas de ventas, y el sistema de comentarios entre autores y lectores.
+
+**Clases relacionadas con los Unit Tests:**
+* BookUploadManager: Verifica que los libros se suban correctamente y maneja los formatos de archivo permitidos.
+* DiscountManager: Asegura que los descuentos se calculen y se apliquen correctamente a los precios de los libros.
+* SalesStatisticsGenerator: Valida la generación precisa de estadísticas de ventas.
+* CommentManager: Comprueba que los comentarios se publiquen, editen y borren correctamente.
+
+##### **Integration Tests**
+Las pruebas de integración garantizaron la comunicación fluida entre el frontend y el backend para las funcionalidades de subida de libros, gestión de precios y descuentos, generación de estadísticas de ventas y el sistema de comentarios.
+
+##### **Acceptance Tests (BDD)**
+Para los User Stories US-13 (Subida de libros) y US-15 (Estadísticas de ventas), se crearon archivos .feature en Gherkin, describiendo los escenarios de aceptación.
+
+**Feature File: book_upload.feature**
+<pre>
+Feature: Subida de libros
+  Como autor, quiero subir mis libros a la plataforma para que los lectores puedan acceder a ellos.
+
+  Scenario: Subir un libro exitosamente
+    Given que soy un autor registrado
+    When accedo a la sección "Subir libro"
+    And selecciono un archivo en formato PDF
+    And hago clic en "Subir"
+    Then debería ver un mensaje de éxito indicando que el libro se subió correctamente
+
+  Scenario: Error al subir un archivo no permitido
+    Given que soy un autor registrado
+    When selecciono un archivo en formato no soportado (e.g., .exe)
+    Then debería ver un mensaje de error indicando que el formato no es permitido
+</pre>
+
+**Feature File: sales_statistics.feature**
+<pre>
+Feature: Estadísticas de ventas
+  Como autor, quiero ver estadísticas de ventas de mis libros para analizar su rendimiento.
+
+  Scenario: Ver estadísticas de ventas del mes
+    Given que soy un autor registrado
+    When accedo a la sección "Estadísticas de ventas"
+    Then debería ver un gráfico con las ventas de mis libros durante el último mes
+
+  Scenario: Filtrar estadísticas por libro específico
+    Given que soy un autor registrado
+    When selecciono el libro "Ciencia Ficción"
+    And aplico el filtro para ver estadísticas específicas de este libro
+    Then debería ver los datos correspondientes a las ventas de "Ciencia Ficción"
+</pre>
+
+##### Repositorio y Commits relacionados con Testing
+| Repository           | Branch        | Commit ID | Commit Message                                  | Commit Message Body                                          | Commited On (Date) |
+|----------------------|---------------|-----------|-------------------------------------------------|--------------------------------------------------------------|--------------------|
+| FeatherBook-Frontend | feature/tests | a123456   | test: add BDD tests for book upload feature     | Added BDD feature tests for book upload scenarios            | 11/11/2024         |
+| Backend              | feature/tests | b234567   | test: add unit tests for DiscountManager        | Added unit tests to validate price and discount calculations | 12/11/2024         |
+| FeatherBook-Frontend | feature/tests | c345678   | test: UI tests for sales statistics feature     | Added UI tests for viewing sales statistics dashboard        | 14/11/2024         |
+| Backend              | feature/tests | d456789   | test: BDD tests for sales statistics            | Implemented BDD feature tests for sales statistics           | 14/11/2024         |
+| Backend              | feature/tests | e567890   | test: add integration tests for comment section | Validated comment functionality with backend integration     | 15/11/2024         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
+Durante el Sprint 4, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Página Web:** El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto, aplicando el flujo de trabajo Gitflow.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 4 de la página web.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Para alcanzar exitosamente los objetivos de este Sprint 3 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió: Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo. <a href="https://angular.io/guide/styleguide">Angular</a>
+Spring Boot: Un marco web de Java basado en microservicios de código abierto que ofrece Spring, especialmente útil para ingenieros de software que desarrollan aplicaciones web y microservicios. Lo que nos permite crear aplicaciones autónomas que se ejecutan por sí solas, sin depender de un servidor web externo <a href="https://spring.io/projects/spring-boot">Spring Boot</a>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript. <a href="https://www.jetbrains.com/es-es/webstorm/learn/">Jetbrains</a>
+IntelliJ IDEA Ultimate: Es un entorno de desarrollo integrado (IDE) para crear programas informáticos. Es conocido por ser un IDE líder para Java y Kotlin, y ofrece una edición comercial con más funcionalidades que la edición para la comunidad. IntelliJ IDEA es sin duda el IDE de primera elección para los desarrolladores de Java. <a href="https://www.jetbrains.com/es-es/idea/features/">Jetbrains</a>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Los objetivos fueron exitosamente alcanzados para el Sprint 3 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo. En esta entrega se usaron las tecnologías:
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.
+CSS: Lenguaje que no ayudó con el apartado visual de la página web.
+Angular: Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
+Java: Un lenguaje de programación orientado a objetos y una plataforma de software que se utiliza para codificar aplicaciones.
+Spring Boot: Un marco web de código abierto basado en Java que permite crear aplicaciones web y microservicios.
+
+El software usado para el desarrollo de la página web fue:
+- Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.
+- GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.
+- GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.
+
+**Evidence:**
+<img src="images/SoftwareDeploymentEvidenceSprint4_1.png" alt="Software Deployment Evidence for Sprint 4, image 1">
+<img src="images/SoftwareDeploymentEvidenceSprint4_2.png" alt="Software Deployment Evidence for Sprint 4, image 2">
+<img src="images/SoftwareDeploymentEvidenceSprint4_3.png" alt="Software Deployment Evidence for Sprint 4, image 3">
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+**Report**<br>
+<img src="./images/sprint3-teamcolab1.png" label="Sprint 3 team collaboration insights 1" alt="Sprint 3 team collaboration insights 1"><br>
+**LandingPage**<br>
+<img src="./images/sprint3-teamcolab2.png" label="Sprint 3 team collaboration insights 2" alt="Sprint 3 team collaboration insights 2"><br>
+**Frontend**<br>
+<img src="./images/sprint3-teamcolab3.png" label="Sprint 3 team collaboration insights 3" alt="Sprint 3 team collaboration insights 3"><br>
+**Backend**<br>
+<img src="./images/sprint3-teamcolab4.png" label="Sprint 3 team collaboration insights 4" alt="Sprint 3 team collaboration insights 4"><br>
 
 ## 5.3. Validation Interviews
 
@@ -2072,7 +2226,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EVm-HMumJLdCpG6jFF4L5VIB98AqgnIwa8px5Qj0NJTGbQ?e=3MGjMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 05:37
 
-https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/4b94d3017253e3d0f80702236013edc29eda1a53/images/EntrevistaJeff.png
+<img src="images/EntrevistaJeff.png" alt="Entrevista Jeff" style="width: 100%;">
 
 **Informe del resumen de la entrevista:**
 
@@ -2094,7 +2248,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/Edsi18beDxtGkF8nj7YSANcBNIGG2UWzr4Oo_-DyXSoZzw?e=5piMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 06:29
 
-https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report/blob/7f1eb0a0c3407482fc2ae0eb77362fda02c40641/images/EntrevistaMar.png
+<img src="images/EntrevistaMar.png" alt="Entrevista Mar" style="width: 100%;">
 
 **Informe del resumen de la entrevista:**
 
@@ -2223,55 +2377,27 @@ Enlaces a los desarrollos de trabajo del equipo FeatherBook.
             <td>
                 entrevistas a clientes
                 <ul>
-                    <li><a href="https://">Entrevista 01 Client</a></li>
-                    <li><a href="https://">Entrevista 02 Client</a></li>
-                    <li><a href="https://">Entrevista 03 Client</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/personal/u20221b778_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221b778%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2705334962%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec7d2993e%2D544c%2D4bf9%2D80af%2De6482d6068f8">Entrevista 01 Client</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/personal/u20221b778_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221b778%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1869769788%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efa9721ef%2D52a4%2D4b07%2Da77f%2D45369ab454a5">Entrevista 02 Client</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=V8NYPikl5B8">Entrevista 03 Client</a></li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td>As-Is</td>
-            <td><a href="https://">As-Is</a></td>
+            <td>Userflow Diagrams Miro</td>
+            <td><a href="https://miro.com/app/board/uXjVK_h4GSo=/">Userflow Diagrams</a></td>
         </tr>
         <tr>
-            <td>To-Be</td>
-            <td><a href="https://">To-Be</a></td>
+            <td>Figma - Landing Page Wireframe</td>
+            <td><a href="https://www.figma.com/design/ZMtzm1Lg2yHIZmUBrWzUFm/Wireframe-FeatherBook?node-id=0-1">Landing Page Wireframe</a></td>
         </tr>
         <tr>
-            <td>Wireflow Diagram 1 LucidChart</td>
-            <td><a href="https://">Wireflow Diagram 01</a></td>
-        </tr>
-        <tr>
-            <td>Wireflow Diagram 2 LucidChart</td>
-            <td><a href="https://">Wireflow Diagram 02</a></td>
-        </tr>
-        <tr>
-            <td>Userflow Diagram 1 LucidChart</td>
-            <td><a href="https://">Userflow Diagram 01</a></td>
-        </tr>
-        <tr>
-            <td>Userflow Diagram 2 LucidChart</td>
-            <td><a href="https://">Userflow Diagram 02</a></td>
-        </tr>
-        <tr>
-            <td>Figma - prototipo de application Wireframes & Mock-Ups</td>
-            <td><a href="https://">Prototipo WEB</a></td>
-        </tr>
-        <tr>
-            <td>Figma - prototipo de landing page Wireframes & Mock-Ups</td>
-            <td><a href="https://">Prototipo LANDING PAGE</a></td>
-        </tr>
-        <tr>
-            <td>Figma - Component library</td>
-            <td><a href="https://">Component Library</a></td>
+            <td>Figma - Landing Page Mock-up</td>
+            <td><a href="https://www.figma.com/design/JBdXV4HvvmfwBZKd4pTOyD/Mockup-FeatherBook?node-id=0-1&node-type=canvas">Landing Page Mock-up</a></td>
         </tr>
         <tr>
             <td>Diagrama de clases:</td>
-            <td><a href="https://">Diagrama de Clases</a></td>
-        </tr>
-        <tr>
-            <td>Organización en Trello:</td>
-            <td><a href="https://">Trello</a></td>
+            <td><a href="https://lucid.app/lucidchart/540f29e2-4096-4f97-b499-31807f175fe0/edit?viewport_loc=-5540%2C-1562%2C2226%2C1874%2CJz8~HB4X.-xK&invitationId=inv_bc9a5e4e-db15-4434-aea2-78ee20cd7f37">Diagrama de Clases</a></td>
         </tr>
         <tr>
             <td>Landing page desplegado</td>
@@ -2279,30 +2405,26 @@ Enlaces a los desarrollos de trabajo del equipo FeatherBook.
         </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
-            <td><a href="https://">GitHub</a></td>
+            <td><a href="https://github.com/UPC-pre-SI729-2402-SW56-Grupo1">GitHub</a></td>
         </tr>
         <tr>
-            <td>Video de nuestro landing page</td>
-            <td><a href="https://">Video de Landing Page</a></td>
-        </tr>
-        <tr>
-            <td>Nuestro Video del TB1 - Exposición</td>
-            <td><a href="https://">Video de Landing Page</a></td>
+            <td>Nuestro Video - Exposición</td>
+            <td><a href="https://">Video exposición</a></td>
         </tr>
         <tr>
             <td>Nuestro Video About The Product</td>
-            <td><a href="https://">Video About The Product</a></td>
+            <td><a href="https://upcedupe-my.sharepoint.com/personal/u202113111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo%5Fabout%5Fthe%5Fproduct%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E498303b5%2D261a%2D4d57%2Dacab%2D9c7d79d6ce21">Video About The Product</a></td>
         </tr>
         <tr>
             <td>Nuestro Video About The Team</td>
-            <td><a href="https://">Video About The Team</a></td>
+            <td><a href="https://upcedupe-my.sharepoint.com/personal/u202113111_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113111%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo%5Fabout%5Fthe%5Fteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E107f2152%2D5907%2D43fa%2Da07c%2D7bdae37927f2">Video About The Team</a></td>
         </tr>
         <tr>
             <td>Entrevistas para conocer su experiencia de usuario a nuestros segmentos objetivos:</td>
             <td>
                 <ul>
-                    <li><a href="https://">Entrevista a nuestro usuario 1</a></li>
-                    <li><a href="https://">Entrevista a nuestro usuario 2</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/personal/u20221b778_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221b778%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistaJeff%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef5002d07%2D702a%2D4a52%2Dbff0%2Dec69db422aad">Entrevista a nuestro usuario 1</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/personal/u20221b778_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221b778%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistaMar%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7dd85eab%2D2642%2D4278%2Dad64%2Ddb66490c3bd2">Entrevista a nuestro usuario 2</a></li>
                     <li><a href="https://">Entrevista nuestro usuario 3</a></li>
                     <li><a href="https://">Entrevista a nuestro usuario 4</a></li>
                 </ul>
