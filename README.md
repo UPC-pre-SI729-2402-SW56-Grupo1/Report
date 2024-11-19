@@ -1531,7 +1531,7 @@ En este apartado se detallará los medios que se usaron para hacer el seguimient
 - URL de la organización: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Report
 - URL al repositorio del Landing Page: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/LandingPage
 - URL al repositorio del Frontend: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/FeatherBook-Frontend
-- URL al repositorio del Backend: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/Backend
+- URL al repositorio del Backend: https://github.com/UPC-pre-SI729-2402-SW56-Grupo1/FeatherBook-Backend
 
 **Flujo de trabajo GitFlow:** El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
 
@@ -2402,6 +2402,14 @@ Enlaces a los desarrollos de trabajo del equipo FeatherBook.
         <tr>
             <td>Landing page desplegado</td>
             <td><a href="https://featherbook-landing.web.app/">Landing Page</a></td>
+        </tr>
+        <tr>
+            <td>Frontend desplegado</td>
+            <td><a href="https://frontend-featherbook.web.app/">Frontend</a></td>
+        </tr>
+        <tr>
+            <td>Backend desplegado</td>
+            <td><a href="https://feather-book-backend.azurewebsites.net/swagger-ui/index.html">Backend</a></td>
         </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
